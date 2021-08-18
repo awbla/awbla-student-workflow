@@ -8,7 +8,7 @@ layout: default
 Welcome to the UI Data and Digital Services workflow repository, where you'll find information relating to digitization, metadata, and other tasks.
 
 {% capture text %}
-- [Scanning images](https://uidaholib.github.io/dds-student-workflow/content/1-scanning.html#images)
+- [Scanning images](https://jylisadoney.github.io/awbla-student-workflow/content/1-scanning.html#images)
 - [Progress form](https://docs.google.com/forms/d/e/1FAIpQLSeR-_jg08sDiKoge86M8LWjrWkgU2fmKBYOObpwqWjOdJhnLg/viewform?embedded=true)
 - [File naming](https://uidaholib.github.io/dds-student-workflow/content/1-intro.html#file)
 {% endcapture %}

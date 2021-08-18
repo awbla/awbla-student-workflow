@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-{% include figure.html img="AWBLA.jpg" alt="Round logo image with a pickaxe, shovel, and spade that says University of Idaho College of Letters, Arts, and Social Sciences around the outside with the word DIG in the middle" caption="" width="75%" %}
+{% include figure.html img="AWBLA.jpg" alt="Round logo image with a pickaxe, shovel, and spade that says University of Idaho College of Letters, Arts, and Social Sciences around the outside with the word DIG in the middle" caption="" width="50%" %}
 
 Welcome to the AWBLA workflow repository, where you'll find information relating to digitization, metadata, and other tasks.
 

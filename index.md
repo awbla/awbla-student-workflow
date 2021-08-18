@@ -10,7 +10,7 @@ Welcome to the Alfred W. Bowers Laboratory of Anthropology workflow repository, 
 {% capture text %}
 - [Scanning images](https://jylisadoney.github.io/dds-student-workflow/content/1-scanning.html#images)
 - [Progress form](Placeholder)
-- [File naming](https://github.com/jylisadoney/awbla-student-workflow/blob/main/content/1-scanning.md#file)
+- [File naming](https://github.com/jylisadoney/awbla-student-workflow/content/1-scanning.md#file)
 {% endcapture %}
 {% include card.html text=text header="Quick Links:" %}
 

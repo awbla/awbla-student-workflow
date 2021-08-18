@@ -10,24 +10,25 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: CDIL Digitization Procedures
+title: AWBLA Digitization Procedures
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
 title-icon: fas fa-code
 # description, keywords, and image for meta tags
-description: "Create a workshop website quick and easy!"
-keywords: "workshops, websites, gh-pages, jekyll"
-featured-image: "/images/uidaho-workshop.jpg"
+description: "Procedures for digitization work at the Alfred W. Bowers Laboratory of Anthropology at the University of Idaho."
+keywords:
+featured-image:
 # add search box to footer? true/false
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: evan will
+author: Jylisa Doney
 # your github username for link [optional]
-github_username: evanwill
+github_username: jylisadoney
 # year or date published
-pub_year: 2020
+pub_year: 2021
+update_year:
 # location of code, the full url to your github repository
 source-code: https://github.com/evanwill/workshop-template-b
 
@@ -36,13 +37,13 @@ source-code: https://github.com/evanwill/workshop-template-b
 #
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
 #
-<<<<<<< HEAD
 # use url for the domain, e.g. https://jylisadoney.github.io
 # on gh-pages follow the pattern: https://jylisadoney.github.io
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 url: https://jylisadoney.github.io
+<<<<<<< HEAD
 =======
 # use url for the domain, e.g. https://evanwill.github.io
 # on gh-pages follow the pattern: https://username.github.io
@@ -57,6 +58,8 @@ url:https://jylisadoney.github.io
 =======
 url:https://jylisadoney.github.io
 >>>>>>> parent of f8a694b (fix config file link issue)
+=======
+>>>>>>> parent of 9d6c167 (Update _config.yml)
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /

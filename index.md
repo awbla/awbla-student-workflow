@@ -5,12 +5,12 @@ layout: default
 
 {% include figure.html img="DDS logo.jpg" alt="intro image here" caption="" width="75%" %}
 
-Welcome to the Alfred W. Bowers Laboratory of Anthropology workflow repository, where you'll find information relating to digitization, metadata, and other tasks.
+Welcome to the UI Data and Digital Services workflow repository, where you'll find information relating to digitization, metadata, and other tasks.
 
 {% capture text %}
-- [Scanning images](https://jylisadoney.github.io/awbla-student-workflow/content/1-scanning.html#images)
-- [Progress form](Placeholder)
-- [File naming](https://github.com/jylisadoney/awbla-student-workflow/content/1-scanning.html#file)
+- [Scanning images](https://uidaholib.github.io/dds-student-workflow/content/1-scanning.html#images)
+- [Progress form](https://docs.google.com/forms/d/e/1FAIpQLSeR-_jg08sDiKoge86M8LWjrWkgU2fmKBYOObpwqWjOdJhnLg/viewform?embedded=true)
+- [File naming](https://uidaholib.github.io/dds-student-workflow/content/1-intro.html#file)
 {% endcapture %}
 {% include card.html text=text header="Quick Links:" %}
 
@@ -28,6 +28,5 @@ Welcome to the Alfred W. Bowers Laboratory of Anthropology workflow repository, 
         {% include vpod-twitter-feed.html %}
     </div>
 </div> 
-
 
 

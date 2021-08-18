@@ -41,12 +41,16 @@ source-code: https://github.com/evanwill/workshop-template-b
 # on gh-pages follow the pattern: https://jylisadoney.github.io
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 url: https://jylisadoney.github.io
 =======
 # use url for the domain, e.g. https://evanwill.github.io
 # on gh-pages follow the pattern: https://username.github.io
 url:
 >>>>>>> parent of 55eb009 (updated config)
+=======
+url:https://jylisadoney.github.io
+>>>>>>> parent of f8a694b (fix config file link issue)
 =======
 url:https://jylisadoney.github.io
 >>>>>>> parent of f8a694b (fix config file link issue)

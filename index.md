@@ -5,7 +5,7 @@ layout: default
 
 {% include figure.html img="DDS logo.jpg" alt="intro image here" caption="" width="75%" %}
 
-Welcome to the UI Data and Digital Services workflow repository, where you'll find information relating to digitization, metadata, and other tasks.
+Welcome to the Alfred W. Bowers Laboratory of Anthropology workflow repository, where you'll find information relating to digitization, metadata, and other tasks.
 
 {% capture text %}
 - [Scanning images](https://jylisadoney.github.io/dds-student-workflow/content/1-scanning.html#images)

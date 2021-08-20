@@ -158,10 +158,12 @@ Mesh generation should take approximately 5 minutes.
 Sometimes, the orientation of model can appear correct in Agisoft Metashape but incorrect when exported.
 
 To fix this:
-- Check the axes in the bottom right corner of the Model View
-- Use the *Rotate Object*, *Move Object*, and *Scale Object* as necessary to to ensure that the model's orientation matches the axes
-- Click Save once you've changed the model's orientation
-<!-- How do we do this?-->
+- Click Model > View Mode > Perspective/Orthographic
+- Click Model > Predefined Views > Bottom
+- Click the Rotate Object icon and select Rotate Object
+- Rotate object so that the bottom of the object is facing you
+- Click Model > Predefined Views > Bottom / Top / Front / Back to check the model orientation
+- Click Save once the orientation is correct
 
 {:#export}
 ### Export 3D model

@@ -100,7 +100,7 @@ To edit the mask application on individual images:
 - Follow these instructions to edit any other images.
 - Click Save once you've finished all edits
 
-{:#align}
+{:#alignphotos}
 ### Align photos and refine the bounding box position
 #### Align photos
 - Select correct Chunk (if more than one is present)
@@ -153,7 +153,7 @@ Dense cloud generation should take approximately 15 minutes.
 
 Mesh generation should take approximately 5 minutes.
 
-{:#aligmodel}
+{:#alignmodel}
 ### Align model orientation
 Sometimes, the orientation of model can appear correct in Agisoft Metashape but incorrect when exported.
 
@@ -195,7 +195,7 @@ Wavefront OBJ model (.obj)
 Wavefront OBJ models save the *texture image* as a separate file. Be sure to keep the texture file in the same folder as the .obj file.
 
 {:#view}
-### View your 3D model
+### View 3D model
 - Open Microsft 3D viewer
 - Click File > Open
 - Navigate to the folder where the model is located and click OK

@@ -8,6 +8,7 @@ layout: default
 Welcome to the AWBLA workflow repository, where you'll find information relating to digitization, metadata, and other tasks.
 
 {% capture text %}
+- [AWBLA COVID-19 operating procedures](images/AWBLA_CovidPolicy.pdf)
 - [Scanning images](https://jylisadoney.github.io/awbla-student-workflow/content/1-scanning.html#images)
 - [Progress form](https://forms.office.com/r/Ac9WEqQX8m)
 - [File naming](https://jylisadoney.github.io/awbla-student-workflow/content/1-scanning.html#file)

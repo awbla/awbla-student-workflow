@@ -22,9 +22,10 @@ nav: Agisoft
 
 {:#addphotos}
 ### Add photos to Agisoft Project
-- Navigate to the Workflow tab and click Add Photos
-- Navigate to the Source Folder and click Select Folder
-    - If prompted select *Single Camera*
+- Navigate to the Workflow tab and click Add Photos or Add Folder
+- Navigate to the Source Folder
+- Select the photos you want to add or click Slect Folder
+    - If prompted select *Single Cameras*
 -  Photos will be added to Workspace > Chunk # (# of cameras)
     - *# of cameras refers to the number of photos added to the project*
 - Click Save
@@ -78,7 +79,7 @@ The following documentation on creating a mask is adapted from Samantha Porter's
     - Tolerance = 25
     - Apply to = All cameras
 - Click OK
-- Navigate to the folder where the mask is located and click OK
+- Navigate to the folder where the mask is located and click Select Folder
 
 The masking process should take approximately 5 minutes.
 

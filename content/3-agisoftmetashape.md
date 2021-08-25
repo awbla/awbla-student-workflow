@@ -33,7 +33,7 @@ After adding photos to the Agisoft Project, we have to create *masks* to hide th
 
 {:#mask}
 ### Create a mask
-Documentation based on Samantha Porter's [Supplemental Instructions on Background Masking](https://conservancy.umn.edu/handle/11299/172480).
+The following documentation on creating a mask is adapted from Samantha Porter's [Supplemental Instructions on Background Masking](https://conservancy.umn.edu/handle/11299/172480).
 
 #### Create a background image in Microsoft PowerPoint
 - Open Microsoft PowerPoint. Create a blank presentation

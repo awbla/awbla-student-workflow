@@ -36,6 +36,16 @@ Examples:
 - Manuscript Group 190, Box 4, Folder 2, letter 1, multiple pages = **mg190_b4_f2-001p001, mg190_b4_f2-001p002, etc.**
 - Photograph Group 3, box 1, photograph 3 = **pg3_b1-003**
 
+If document is single page:
+Use this format:
+**CE_B1_F2_12345_Page_001
+
+If document is multiple page:
+
+**CE_B1_F2_12345_Page_001
+**CE_B1_F2_12345_Page_002
+**CE_B1_F2_12345_Page_0033
+
 ------------
 
 {:#images}

@@ -29,7 +29,7 @@ Digitizing materials by scanning them with a flatbed, large format, or feed scan
 
 A standardized file naming system helps us know exactly where an item came from or where it belongs just by looking at the file name. Scanned files should be named using the following standardized naming rules:
 
-**collectionabbreviation_box#_envelope/folder#-item#subitem**
+**collectionabbreviation_box#_folder#-item#subitem**
 {:.text-center}
 
 Examples:

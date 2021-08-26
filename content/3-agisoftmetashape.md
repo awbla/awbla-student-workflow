@@ -36,6 +36,8 @@ nav: Agisoft
     - Repeat steps until all sticky note photos are deleted
 - Click Save
 
+Keep the Agisoft Metshape Project open.
+
 After adding photos to the Agisoft Project, we have to create *masks* to hide the background that appears in our photogrammetry images.
 
 {:#mask}
@@ -43,10 +45,13 @@ After adding photos to the Agisoft Project, we have to create *masks* to hide th
 The following documentation on creating a mask is adapted from Samantha Porter's "Supplemental Instructions on Background Masking" (file name: [Supplemental_Instructions_1_Background_Masking.pdf)](https://conservancy.umn.edu/handle/11299/172480).
 
 #### Create a background image in Microsoft PowerPoint
-- Open Microsoft PowerPoint. Create a blank presentation
-- Navigate to the Insert tab, click Pictures > This Device. Navigate to the set of images you want to create a mask for, select one of the images, and click Insert
+- Open Microsoft PowerPoint and create a blank presentation
+    - Delete the empty text boxes
+- Navigate to the Insert tab, click Pictures > This Device
+- Navigate to the set of images you want to create a mask for, select one of the images, and click Insert
 - Navigate to the Picture Format tab and make note of the image size, for example 7.5" by 11.25"
-- Navigate to the Insert tab, click Shapes > Rectangle. Drag to create a small rectangle
+- Navigate to the Insert tab, click Shapes > Rectangle
+- Drag to create a small rectangle and click on it
 - In the Shape Format tab, click Shape Outline > No Outline
 - In the Shape Format tab, click Shape Fill > Eyedropper
 - Click the eyedropper within your image's original background to select that color
@@ -54,9 +59,10 @@ The following documentation on creating a mask is adapted from Samantha Porter's
 - Right click the shape and select Save as Picture
 - Navigate to (file location)
 - Rename the file as *itemnumber_mask*, change the Save as type to JPEG File, and click Save
+- Close Microsoft PowerPoint - there is not need to save the presentation
 
 #### Determine image pixel size
-- Navigate to the images you scanned, right click, and select Properties
+- Navigate to the images you scanned, right click on of them, and select Properties
 - Navigate to the Details tab and the Image section
 - Make note of the Dimensions, for example 6240 X 4160
 
@@ -66,22 +72,25 @@ The following documentation on creating a mask is adapted from Samantha Porter's
 - Navigate to the mask you created and click Open
     -  Change the Zoom Level to 25%
 - Navigate to the Home tab and select Resize
-- In the Resize by section, select Pixels
-- Enter the pixel size that matches the original image
+- In the *Resize by* section, select Pixels
+- Refer back to the dimensions you noted and enter the pixel size
 - Make sure the Maintain Aspect Ratio box is checked
 - Click OK
 - Click File > Save As > JPEG picture
 - Navigate to the background image location, rename the file as *itemnumber_mask-pixels*, and click Save
+- Close Microsoft Paint
 
 {:#importeditmasks}
 ### Import and edits masks
 
 {:#importmasks}
 #### Import masks
-- Click File > Import > Import Masks and select the following options
+- Navigate to the Agisoft Metashape Project
+- Click File > Import > Import Masks 
+- Select the following options
     - Method = From Background
     - Operation = Replacement
-    - Filename template = Type filename for mask and include the file extension, such as *itemnumber_mask-pixels.jpg*
+    - Filename template = Type the filename for the mask and include the file extension, such as *itemnumber_mask-pixels.jpg*
     - Tolerance = 25
     - Apply to = All cameras
 - Click OK

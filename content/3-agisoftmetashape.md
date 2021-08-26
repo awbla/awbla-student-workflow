@@ -26,8 +26,14 @@ nav: Agisoft
 - Navigate to the Source Folder
 - Select the photos you want to add or click Slect Folder
     - If prompted select *Single Cameras*
--  Photos will be added to Workspace > Chunk # (# of cameras)
+- Photos will be added to Workspace > Chunk # (# of cameras)
     - *# of cameras refers to the number of photos added to the project*
+- Click Save
+- If the photos aren't visible, navigate to the View tab and click Photos
+- Delete the photos with the sticky notes
+    - Click on a photo in the *Photos* area
+    - Click the *X* icon (Remove Cameras)
+    - Repeat steps until all sticky note photos are deleted
 - Click Save
 
 After adding photos to the Agisoft Project, we have to create *masks* to hide the background that appears in our photogrammetry images.

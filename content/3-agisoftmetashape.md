@@ -120,13 +120,17 @@ To edit the mask application on individual images:
 ### Align photos and refine the bounding box position
 #### Align photos
 - Select correct Chunk (if more than one is present)
-- Click Workflow > Accuracy and select the following options
+- Click Workflow > Align Photos 
+- Select the following options
     - Accuracy = High; Source
-    - Generic preselection = Checked box <!-- this may change to Reference preselection > Source once we use scale bars -->
-    - Key point limit = 40,000
-    - Tie point limit = 4,000
-    - Apply masks to = Key Points
-    - Exclude stationary tie points = Checked box
+    - Generic preselection = Checked box
+    - Reference preselection = Unchecked box <!-- this may change to Reference preselection > Source once we use scale bars -->
+    - Advanced
+        - Key point limit = 40,000
+        - Tie point limit = 4,000
+        - Apply masks to = Key Points
+        - Exclude stationary tie points = Checked box
+- Click OK
 - Click Save after images have aligned 
 
 Photo alignment should take approximately 15 minutes.

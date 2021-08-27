@@ -25,7 +25,7 @@ nav: Agisoft
 - Navigate to the Workflow tab and click Add Photos or Add Folder
 - Navigate to the Source Folder
 - Select the photos you want to add or click Slect Folder
-    - If prompted select *Single Cameras*
+    - When prompted select *Single Cameras* <!--and *Create chunk from each subfolder*-->
 - Photos will be added to Workspace > Chunk # (# of cameras)
     - *# of cameras refers to the number of photos added to the project*
 - Click Save
@@ -58,7 +58,8 @@ The following documentation on creating a mask is adapted from Samantha Porter's
 - Click the rectangular image, navigate to the Shape Format tab, and change the shape size so that it matches the original image
 - Right click the shape and select Save as Picture
 - Navigate to (file location)
-- Rename the file as *itemnumber_mask*, change the Save as type to JPEG File, and click Save
+- Change the Save as type to JPEG File
+- Rename the file as *itemnumber_mask* and click Save
 - Close Microsoft PowerPoint - there is not need to save the presentation
 
 #### Determine image pixel size

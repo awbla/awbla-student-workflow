@@ -103,7 +103,7 @@ The masking process should take approximately 5 minutes.
 Once the masks are applied, double click on an image in the Photos section to review the mask application.
 
 - If not enough of the background is masked, follow the [Import masks](#importmasks) instructions but raise the tolerance to 40
-- If too much of the artifact is masks, follow the [Import masks](#importmasks) instructions but lower the tolerance to 10
+- If too much of the artifact is masked, follow the [Import masks](#importmasks) instructions but lower the tolerance to 10
 
 To edit the mask application on individual images:
 - Double click on the image whose mask you want to edit

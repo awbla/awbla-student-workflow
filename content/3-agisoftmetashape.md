@@ -11,6 +11,7 @@ nav: Agisoft
 - [Align photos and refine bounding box position](#alignphotos)
 - [Build and edit dense cloud](#dense)
 - [Build mesh](#mesh)
+- [Build texture](#texture)
 - [Align model orientation](#alignmodel)
 - [Export 3D model](#export)
 - [View 3D model](#view)
@@ -163,6 +164,19 @@ Dense cloud generation should take approximately 15 minutes.
 {:#mesh}
 ### Build mesh
 - Click Workflow > Build Texture and select the following options
+    - Texture type = Dense cloud
+    - Surface type = Arbitrary (3D)
+    - Quality = Medium
+    - Face count = Medium
+    - Interpolation = Enabled
+    - Reuse depth map = Unchecked box
+    - Click Save after building mesh
+
+Mesh generation should take approximately 5 minutes.
+
+{:#texture}
+### Build texture
+- Click Workflow > Build Texture and select the following options
     - Texture type = Diffuse map
     - Source data = Images
     - Mapping mode = Generic
@@ -170,9 +184,9 @@ Dense cloud generation should take approximately 15 minutes.
     - Texture size/count = Value is automatically entered
     - Enable hole filling = Checked box
     - Enable ghosting filter = Checked box
-- Click Save after building mesh
+- Click Save after building texture
 
-Mesh generation should take approximately 5 minutes.
+Texture generation should take approximately 2 minutes.
 
 {:#alignmodel}
 ### Align model orientation

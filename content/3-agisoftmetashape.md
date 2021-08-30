@@ -168,9 +168,12 @@ Dense cloud generation should take approximately 15 minutes.
     - Surface type = Arbitrary (3D)
     - Quality = Medium
     - Face count = Medium
+    - Depth filtering = Mild
     - Interpolation = Enabled
-    - Reuse depth map = Unchecked box
-    - Click Save after building mesh
+    - Point classes = All
+    - Calculate vertex colors = Yes
+    - Reuse depth map = Yes
+- Click Save after building mesh
 
 Mesh generation should take approximately 5 minutes.
 

@@ -1,16 +1,18 @@
 ---
 title: Creating 3D Models with Agisoft Metashape
-nav:
+nav: Agisoft
 ---
 
 -----------
 - [Create a new Agisoft Project](#newagisoftproject)
 - [Add photos to Agisoft Project](#addphotos)
 - [Create a mask](#mask)
-- [Import and edit masks](#importeditmasks) 
+- [Import masks](#importmasks) 
 - [Align photos and refine bounding box position](#alignphotos)
 - [Build and edit dense cloud](#dense)
 - [Build mesh](#mesh)
+- [Align chunks](#alignchunks) 
+- [Merge chunks](#mergechunks)
 - [Build texture](#texture)
 - [Align model orientation](#alignmodel)
 - [Export 3D model](#export)
@@ -23,19 +25,17 @@ nav:
 
 {:#addphotos}
 ### Add photos to Agisoft Project
-- Navigate to the Workflow tab and click Add Photos or Add Folder
-- Navigate to the Source Folder
-- Select the photos you want to add or click Slect Folder
-    - When prompted select *Single Cameras* <!--and *Create chunk from each subfolder*-->
-- Photos will be added to Workspace > Chunk # (# of cameras)
-    - *# of cameras refers to the number of photos added to the project*
+- Workflow > Add Folder > Top Down > Single cameras > Add all images to one chunk
+- Workspace > Add Chunk > Click on chunk 2 > Workflow > Add Folder > Upright > Single cameras > Add all images to one chunk
 - Click Save
-- If the photos aren't visible, navigate to the View tab and click Photos
-- Delete the photos with the sticky notes
-    - Click on a photo in the *Photos* area
-    - Click the *X* icon (Remove Cameras)
-    - Repeat steps until all sticky note photos are deleted
+- Delete images with sticky notes
 - Click Save
+
+#### Estimate image quality
+- Photos > Details > Highlight all photos > Right click selected photos > Estimate Image Quality > All cameras > OK
+- Click Save
+
+Image quality will appears in the "Quality" column. Agisoft recommends disabling images with quality less than 0.5 units.
 
 Keep the Agisoft Metshape Project open.
 
@@ -82,104 +82,114 @@ The following documentation on creating a mask is adapted from Samantha Porter's
 - Navigate to the background image location, rename the file as *itemnumber_mask-pixels*, and click Save
 - Close Microsoft Paint
 
-{:#importeditmasks}
-### Import and edits masks
-
 {:#importmasks}
-#### Import masks
+### Import masks
 - Navigate to the Agisoft Metashape Project
-- Click File > Import > Import Masks 
-- Select the following options
+- Workflow > Batch Process > Add > Import Masks > Apply to All Chunks
     - Method = From Background
     - Operation = Replacement
-    - Filename template = Type the filename for the mask and include the file extension, such as *itemnumber_mask-pixels.jpg*
-    - Tolerance = 25
-    - Apply to = All cameras
-- Click OK
-- Navigate to the folder where the mask is located and click Select Folder
+    - Tolerance = 20
+    - Type file name = Type the filename for the mask and include the file extension, such as *itemnumber_mask-pixels.jpg*
+    - Select folder where file is located
+- OK > OK
+- Click Save after masks have been imported
 
 The masking process should take approximately 5 minutes.
 
-#### Edit masks
 Once the masks are applied, double click on an image in the Photos section to review the mask application.
 
-- If not enough of the background is masked, follow the [Import masks](#importmasks) instructions but raise the tolerance to 40
+- If not enough of the background is masked, follow the [Import masks](#importmasks) instructions but raise the tolerance to 30
 - If too much of the artifact is masked, follow the [Import masks](#importmasks) instructions but lower the tolerance to 10
-
-To edit the mask application on individual images:
-- Double click on the image whose mask you want to edit
-- Click the Selection Tool and select Intelligent Scissors
-- Click to create a free-form shape where you want to add or remove part of the mask
-- Click back on the first dot to finish the shape
-- Select one option:
-    - Add selection = Add selected area to the mask
-    - Subtract selection = Remove selected area from mask
-- Click Save after editing each image's mask
-- Follow these instructions to edit any other images.
-- Click Save once you've finished all edits
 
 {:#alignphotos}
 ### Align photos and refine the bounding box position
 #### Align photos
-- Select correct Chunk (if more than one is present)
-- Click Workflow > Align Photos 
-- Select the following options
-    - Accuracy = High; Source
-    - Generic preselection = Checked box
-    - Reference preselection = Unchecked box <!-- this may change to Reference preselection > Source once we use scale bars -->
-    - Advanced
-        - Key point limit = 40,000
-        - Tie point limit = 4,000
-        - Apply masks to = Key Points
-        - Exclude stationary tie points = Checked box
-- Click OK
+- Workflow > Batch Process > Uncheck box for Previous Job > Add > Align Photos > Apply to All Chunks
+    - Accuracy = High
+    - Generic preselection = Yes / Checked box
+    - Reference preselection = Disabled / Unchecked box <!-- this may change to Reference preselection > Source once we use scale bars -->
+    - Reset current alignment = No
+    - Key point limit = 80,000
+    - Key point limit per Mpx = 1,000
+    - Tie point limit = 8,000
+    - Apply masks to = Key points
+    - Exclude stationary tie points = Yes
+    - Guided image matching = No
+    - Adaptive camera model fitting = Yes
+- OK > OK
 - Click Save after images have aligned 
 
 Photo alignment should take approximately 15 minutes.
 
 #### Refine the bounding box position
-- Use *Resize Region*, *Move Region*, and *Rotate Region* to ensure that the entire object appears in the bounding box.
-- Navigate to Object Tools and click Rotate Object to move the object so that it appears correctly in the grid.
+- Use *Resize Region*, *Move Region*, and *Rotate Region* to ensure that the entire object appears in the bounding box for each separate chunk.
+- Double click on the artifact to ensure it appears within the navigation circle
 - Click Save after refining the bounding box
 
 {:#dense}
 ### Build and edit dense cloud
 
 #### Build dense cloud
-- Click Workflow > Build Dense Cloud and select the following options
-    - Quality = Medium
+- Workflow > Batch Process > Uncheck box for Previous Job > Add > Build Dense Cloud > Apply to All Chunks
+    - Quality = Medium / High
     - Depth filtering = Mild
-    - Calculate point colors = Checked box
-    - Calculate point confidence = Checked box
-- Click OK
+    - Reuse depth maps = Yes
+    - Calculate point colors = Yes
+    - Calculate point confidence = Yes
+- OK > OK
 - Click Save after the dense cloud is generated
 
-Dense cloud generation should take approximately 15 minutes.
+Dense cloud generation should take approximately 15 minutes for Medium quality and 1 hour for High quality.
 
 #### Edit dense cloud
 - Click the Dense Cloud icon to view results
-- Use the selection tools and delete/crop instruments to remove stray points from the dense cloud
+- Use the selection tools and and the *Delete* button on your keyboard to remove the eraser base and the stray points from the dense cloud
 - Click Save after deleting any points
 
 {:#mesh}
 ### Build mesh
-- Click Workflow > Build Texture and select the following options
+- Workflow > Batch Process > Uncheck box for Previous Job > Add > Build Mesh > Apply to All Chunks
     - Texture type = Dense cloud
     - Surface type = Arbitrary (3D)
-    - Quality = Medium
-    - Face count = Medium
+    - Quality = High
+    - Face count = High
+    - Custom face count = automatically entered
     - Depth filtering = Mild
     - Interpolation = Enabled
     - Point classes = All
     - Calculate vertex colors = Yes
     - Reuse depth map = Yes
+    - Use strict volumetric masks = No
+- OK > OK
 - Click Save after building mesh
 
 Mesh generation should take approximately 5 minutes.
 
+{:#alignchunks}
+### Align chunks
+- Workflow > Align Chunks > Check boxes for correct chunks
+    - Method = Point based
+    - Accuracy = High
+    - Key point limit = 80,000
+    - Apply masks to = Key points
+    - Generic preselection = Yes / checked box
+- Click Save after aligning chunks
+
+Chunk alignment should take approximately 2 minutes.
+
+{:#mergechunks}
+### Merge chunks
+- Workflow > Merge Chunks > Check boxes for correct chunks
+    - Merge dense clouds = Checked box
+    - Merge models = Checked box
+    - Merge depth maps = Checked box
+- Click Save after merging chunks
+
+Merging chunks should take approximately 2 minutes.
+
 {:#texture}
 ### Build texture
-- Click Workflow > Build Texture and select the following options
+- Double click the merged chunk > click Workflow > Build Texture 
     - Texture type = Diffuse map
     - Source data = Images
     - Mapping mode = Generic
@@ -210,21 +220,21 @@ We will export the 3D model in three different file formats.
 STL model (.stl)
 - Click File > Export > Export Model
 - Navigate to the destination folder
-- Rename the file as *itemnumber_3Dproject-model*
+- Rename the file as *itemnumber_3Dproject-model-stl*
 - Select *.stl* as the file format
 - Click Save
 
 X3D model (.x3d)
 - Click File > Export > Export Model
 - Navigate to the  destination folder
-- Rename the file as *itemnumber_3Dproject-model*
+- Rename the file as *itemnumber_3Dproject-model-x3d*
 - Select *.x3d* as the file format
 - Click Save
 
 Wavefront OBJ model (.obj)
 - Click File > Export > Export Model
 - Navigate to the  destination folder
-- Rename the file as *itemnumber_3Dproject-model*
+- Rename the file as *itemnumber_3Dproject-model-obj*
 - Select *.obj* as the file format
 - Click Save
     - In the Export Model dialog box, select:

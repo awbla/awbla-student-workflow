@@ -14,7 +14,7 @@ nav: Agisoft
 - [Align chunks](#alignchunks) 
 - [Merge chunks](#mergechunks)
 - [Build texture](#texture)
-- [Add markers](#markers)
+- [Place markers](#markers)
 - [Align model orientation](#alignmodel)
 - [Export 3D model](#export)
 - [View 3D model](#view)
@@ -210,17 +210,18 @@ Texture generation should take approximately 2 minutes.
 
 {:#markers}
 ### Place markers
-- Photos > Select 4 photos from a "high" view that are next to each other
-- Tools > Markers > Cross coded
+- Photos > Select 5 photos from a "high" view that are next to each other
+- Tools > Markers > Detect Markers > 
+    - Marker type = Cross (non coded)
     - Tolerance = 15
-    - Maximum pixels = 10
-    - Process selected cameras = Checked box
+    - Maximum residual (pix) = 10
+    - Process selected cameras only = Checked box
+- Click OK
 - Click Save
-- Reference > CTRL click on markers 1 and 3
-- Click Create Scale
-- Click in the Distance block and enter "0.12"
-- Reference > CTRL click on markers 2 and 4
-- Click Create Scale
+- Reference > CTRL click on markers 1 and 3 > Right Click > Create Scale Bar
+- Double click in the Distance box > type "0.12" > Hit Enter on keyboard
+- Reference > CTRL click on markers 2 and 4 > Right Click > Create Scale Bar
+- Double click in the Distance box > type "0.12" > Hit Enter on keyboard
 - Click in the Distance block and enter "0.12"
 - Click "Update Transform" icon
 - Click Save

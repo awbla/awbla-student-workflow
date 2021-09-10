@@ -226,6 +226,8 @@ Texture generation should take approximately 2 minutes.
 - Click "Update Transform" icon
 - Click Save
 
+Marker placement should take approximately 2 minutes
+
 {:#alignmodel}
 ### Align model orientation
 Sometimes, the orientation of model can appear correct in Agisoft Metashape but incorrect when exported.

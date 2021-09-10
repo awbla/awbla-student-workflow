@@ -10,10 +10,11 @@ nav: Agisoft
 - [Import masks](#importmasks) 
 - [Align photos and refine bounding box position](#alignphotos)
 - [Build and edit dense cloud](#dense)
-- [Build mesh](#mesh)
+- [Build and edit mesh](#mesh)
 - [Align chunks](#alignchunks) 
 - [Merge chunks](#mergechunks)
 - [Build texture](#texture)
+- [Add markers](#markers)
 - [Align model orientation](#alignmodel)
 - [Export 3D model](#export)
 - [View 3D model](#view)
@@ -25,8 +26,8 @@ nav: Agisoft
 
 {:#addphotos}
 ### Add photos to Agisoft Project
-- Workflow > Add Folder > Top Down > Single cameras > Add all images to one chunk
-- Workspace > Add Chunk > Click on chunk 2 > Workflow > Add Folder > Upright > Single cameras > Add all images to one chunk
+- Workflow > Add Folder > Top Down > Select Folder > Single cameras > Add all images to one chunk
+- Workspace > Add Chunk > Click on chunk 2 > Workflow > Add Folder > Upright > Select Folder > Single cameras > Add all images to one chunk
 - Click Save
 - Delete images with sticky notes
 - Click Save
@@ -127,9 +128,7 @@ Photo alignment should take approximately 15 minutes.
 - Click Save after refining the bounding box
 
 {:#dense}
-### Build and edit dense cloud
-
-#### Build dense cloud
+### Build dense cloud
 - Workflow > Batch Process > Uncheck box for Previous Job > Add > Build Dense Cloud > Apply to All Chunks
     - Quality = Medium / High
     - Depth filtering = Mild
@@ -141,13 +140,10 @@ Photo alignment should take approximately 15 minutes.
 
 Dense cloud generation should take approximately 15 minutes for Medium quality and 1 hour for High quality.
 
-#### Edit dense cloud
-- Click the Dense Cloud icon to view results
-- Use the selection tools and and the *Delete* button on your keyboard to remove the eraser base and the stray points from the dense cloud
-- Click Save after deleting any points
-
 {:#mesh}
-### Build mesh
+### Build and edit mesh
+
+#### Build mesh
 - Workflow > Batch Process > Uncheck box for Previous Job > Add > Build Mesh > Apply to All Chunks
     - Texture type = Dense cloud
     - Surface type = Arbitrary (3D)
@@ -164,6 +160,17 @@ Dense cloud generation should take approximately 15 minutes for Medium quality a
 - Click Save after building mesh
 
 Mesh generation should take approximately 5 minutes.
+
+#### Edit mesh
+- Click the Dense Cloud icon to view results
+- Use the selection tools and and the *Delete* button on your keyboard to remove the eraser base and the stray points from the mesh
+- Click Save after deleting any points
+
+### Apply masks from model
+- Click File > Import > Masks > From Model
+- Click Save after mask is imported
+
+This process should take approximately -- minutes
 
 {:#alignchunks}
 ### Align chunks
@@ -200,6 +207,23 @@ Merging chunks should take approximately 2 minutes.
 - Click Save after building texture
 
 Texture generation should take approximately 2 minutes.
+
+{:#markers}
+### Place markers
+- Photos > Select 4 photos from a "high" view that are next to each other
+- Tools > Markers > Cross coded
+    - Tolerance = 15
+    - Maximum pixels = 10
+    - Process selected cameras = Checked box
+- Click Save
+- Reference > CTRL click on markers 1 and 3
+- Click Create Scale
+- Click in the Distance block and enter "0.12"
+- Reference > CTRL click on markers 2 and 4
+- Click Create Scale
+- Click in the Distance block and enter "0.12"
+- Click "Update Transform" icon
+- Click Save
 
 {:#alignmodel}
 ### Align model orientation

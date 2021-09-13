@@ -207,8 +207,9 @@ Merging chunks should take approximately 2 minutes.
     - Mapping mode = Generic
     - Blending mode = Mosaic
     - Texture size/count = Value is automatically entered
-    - Enable hole filling = Checked box
-    - Enable ghosting filter = Checked box
+        - Advanced:
+            - Enable hole filling = Checked box
+            - Enable ghosting filter = Checked box
 - Click Save after building texture
 
 Texture generation should take approximately 2 minutes.

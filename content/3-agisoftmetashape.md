@@ -138,7 +138,7 @@ Photo alignment should take between 5 to 15 minutes, depending on the artifact.
 - OK > OK
 - Click Save after the dense cloud is generated
 
-Dense cloud generation should take approximately 15 minutes for Medium quality and 1 hour for High quality.
+Dense cloud generation should take approximately 15 minutes for Medium quality and 1.5 hours for High quality.
 
 {:#mesh}
 ### Build and edit mesh

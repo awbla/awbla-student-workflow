@@ -120,7 +120,7 @@ Once the masks are applied, double click on an image in the Photos section to re
 - OK > OK
 - Click Save after images have aligned 
 
-Photo alignment should take approximately 15 minutes.
+Photo alignment should take between 5 to 15 minutes, depending on the artifact.
 
 #### Refine the bounding box position
 - Use *Resize Region*, *Move Region*, and *Rotate Region* to ensure that the entire object appears in the bounding box for each separate chunk.

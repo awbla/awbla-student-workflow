@@ -162,15 +162,20 @@ Dense cloud generation should take approximately 15 minutes for Medium quality a
 Mesh generation should take approximately 5 minutes.
 
 #### Edit mesh
-- Click the Dense Cloud icon to view results
+For each model:
+- Click the Model icon to view results
 - Use the selection tools and and the *Delete* button on your keyboard to remove the eraser base and the stray points from the mesh
 - Click Save after deleting any points
 
 ### Apply masks from model
-- Click File > Import > Masks > From Model
+For each model:
+- Click File > Import > Import Masks
+    - Method = From model
+    - Operation = Union
+    - Apply to = All cameras
 - Click Save after mask is imported
 
-This process should take approximately -- minutes
+This process should take approximately 1 minute
 
 {:#alignchunks}
 ### Align chunks

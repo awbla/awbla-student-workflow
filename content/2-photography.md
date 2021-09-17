@@ -71,7 +71,6 @@ It is important to position your camera in the exact environment where you plan 
 There are four critical settings on a DSLR you want to be aware of: ISO, white balance, aperture (f/stop), and shutter speed. All cameras are different and the target numbers will depend on the environment in which you are shooting. All four of these settings are inter-related. It is important to have a sense of how changing one setting will impact the others.
 
 1. **Focus and Zoom.** Zoom: Set your lens to properly frame the subject and use painters tape to tape down the setting. (If you have a prime lens you can skip this step.) DO NOT ZOOM your lens while shooting the subject. Zoom to one setting and lock it down!
-
   - Focus: Set the camera to manual focus OR use auto focus to set the focus distance then switch the camera to manual focus. Tape the focus lens with painter’s tape after setting the focus.
   - Keeping the same focus and zoom will ensure your photos are consistent. You may need to adjust the focus when you move your camera to different heights. Just make sure you don’t change any of the other settings!
 

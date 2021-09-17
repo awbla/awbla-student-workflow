@@ -8,11 +8,11 @@ The following documentation is adapted from Julia Haines’ [Photogrammetry Work
 
 Citation: Julia Haines. “Photogrammetry Workflow using a DSLR Camera” [blog post]. Published September 24, 2019, [University of Virginia Library Scholars' Lab](https://scholarslab.lib.virginia.edu/blog/). [https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/). Accessed on August 25, 2021.
 
+________
+
 - [Step 1: Equipment choice and setting up your photo station](#step1)
 - [Step 2: Get to know the settings on your camera](#step2)
 - [Step 3: Taking Photos](#step3)
-
-________
 
 {:#step1}
 ### Step 1: Equipment choice and setting up your photo station

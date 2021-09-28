@@ -10,7 +10,7 @@ Welcome to the AWBLA workflow repository, where you'll find information relating
 {% capture text %}
 - [AWBLA COVID-19 operating procedures](images/AWBLA_CovidPolicy.pdf)
 - [Scanning images](https://jylisadoney.github.io/awbla-student-workflow/content/1-scanning.html#images)
-- [Progress form](https://forms.office.com/r/Ac9WEqQX8m)
+- [Progress form](https://forms.office.com/r/qc4PMuDhhN)
 - [File naming](https://jylisadoney.github.io/awbla-student-workflow/content/1-scanning.html#file)
 {% endcapture %}
 {% include card.html text=text header="Quick Links:" %}

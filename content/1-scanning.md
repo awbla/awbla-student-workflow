@@ -39,30 +39,30 @@ To ensure our scans are meeting archival guidelines, use the following DPI chart
 
 A standardized file naming system helps us know exactly where an item came from or where it belongs just by looking at the file name. Scanned files should be named using the following standardized naming rules:
 
-**collectionabbreviation_box#_folder#-item#_subitem**
+**collectionabbreviation_box#_folder#-item#-subitem**
 {:.text-center}
 
 Use **DC** for the collection abbreviation unless otherwise instructed.
 
 For a one page document numbered "12345" in Folder number 2 of Box 1, that is one page long:
 
-**DC_B1_F2_12345_001.tiff**
+**DC_B1_F2-12345-001.tiff**
 
-If the document is multiple page the scans will turn out as follows:
+If the document is multiple pages, the scans will turn out as follows:
 
-**DC_B1_F2_12345_001.tiff**
+**DC_B1_F2-12345-001.tiff**
 
-**DC_B1_F2_12345_002.tiff**
+**DC_B1_F2-12345-002.tiff**
 
-...**DC_B1_F2_12345_078.tiff**
+...**DC_B1_F2-12345-078.tiff**
 
-When you are preparing to scan, generate the prefix you will put into the scan box ("DC_B1_F2_12345_") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
+When you are preparing to scan, generate the prefix you will put into the scan box ("DC_B1_F2_12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
 
-**DC_B1_F2_12345_001**
+**DC_B1_F2-12345-001**
 
-**DC_B1_F2_12345_002**
+**DC_B1_F2-12345-002**
 
-**DC_B1_F2_12345_003**
+**DC_B1_F2-12345-003**
 
 **Make sure to update the prefix when you switch to your next item!** 
 

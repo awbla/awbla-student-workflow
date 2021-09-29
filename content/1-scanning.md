@@ -58,11 +58,11 @@ If the document is multiple pages, the scans will turn out as follows:
 
 When you are preparing to scan, generate the prefix you will put into the scan box ("DC_B1_F2_12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
 
-**DC_B1_F2-12345-001**
+**DC_B1_F2-12345-001.tiff**
 
-**DC_B1_F2-12345-002**
+**DC_B1_F2-12345-002.tiff**
 
-**DC_B1_F2-12345-003**
+**DC_B1_F2-12345-003.tiff**
 
 **Make sure to update the prefix when you switch to your next item!** 
 
@@ -70,23 +70,23 @@ Each prefix should include the unique identifier for that specific item. We want
 
 **Example 1:** Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
 
-Scan #123456 using the prefix "DC_B1_F2_12345_", creating a file named DC_B1_F2_12345_001.
+Scan #123456 using the prefix "DC_B1_F2-12345-", creating a file named DC_B1_F2-12345-001.
 
-Switching to the next doument, #879123, update the prefix to "DC_B1_F2_879123_". Reset the ticker to 001 to create a file named DC_B1_F2_879123_001.
+Switching to the next doument, #879123, update the prefix to "DC_B1_F2-879123-". Reset the ticker to 001 to create a file named DC_B1_F2-879123-001.
 
-**Do not** accidentally create **DC_B1_F2_12345_002** by forgetting to update the prefix and ticker boxes.
+**Do not** accidentally create **DC_B1_F2-12345-002** by forgetting to update the prefix and ticker boxes. This file name suggests #12345 is two pages long and effectively loses the scan for #879123.
 
 **Example 2:** Imagine #123456 is three pages long and #879123 is two pages long. Here's how the work flow should go:
 
-Scan and create DC_B1_F2_12345_001 first, using prefix "DC_B1_F2_12345_". 
+Scan and create DC_B1_F2-12345-001 first, using prefix "DC_B1_F2-12345-". 
 Scan each additional page creating: 
-DC_B1_F2_12345_001, 
-DC_B1_F2_12345_002, 
-DC_B1_F2_12345_003.  
+DC_B1_F2-12345-001, 
+DC_B1_F2-12345-002, 
+DC_B1_F2-12345-003.  
 
-Switching to the next doument, #879123, update the prefix to "DC_B1_F2_879123_". Scan each additional page creating: 
-DC_B1_F2_879123_001, 
-DC_B1_F2_879123_002.
+Switching to the next doument, #879123, update the prefix to "DC_B1_F2-879123-". Scan each additional page creating: 
+DC_B1_F2-879123-001, 
+DC_B1_F2-879123-002.
 
 Each time you switch to a different folder, or a different box, make sure to update the appropriate part of the number you are creating for your prefix.
 
@@ -120,6 +120,7 @@ Before beginning, create a personal folder in your one drive space that you can 
     - In the Image Format section, the file type should be set to TIFF (*.tif).
 
 {% include figure.html img="screenshot-4.jpg" alt="intro image here" caption="" width="50%" %}
+        Make sure you update the prefix format as follows :"DC_BoxNumber_FolderNumber_ItemNumber-"
 
 - Press “OK” and the scan will begin. 
 

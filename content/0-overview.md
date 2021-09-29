@@ -1,6 +1,6 @@
 ---
 title: Digitization Overview
-nav: Introduction
+nav: 
 topics:
 ---
 

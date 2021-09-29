@@ -48,7 +48,7 @@ Examples:
 
 If document is single page, use this format:
 
-*DC_B1_F2_12345_Page_001**
+**DC_B1_F2_12345_Page_001**
 
 If document is multiple page:
 

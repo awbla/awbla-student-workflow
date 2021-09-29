@@ -48,7 +48,7 @@ For a one page document numbered "12345" in Folder number 2 of Box 1, that is on
 
 **DC_B1_F2_12345_001**
 
-If document is multiple page the scans will turn out as follows:
+If the document is multiple page the scans will turn out as follows:
 
 **DC_B1_F2_12345_001**
 

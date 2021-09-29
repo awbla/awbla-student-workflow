@@ -14,7 +14,15 @@ Photogrammetry involves taking overlapping, precise photos of the object being d
 
 [What is ISO](https://www.youtube.com/watch?v=q8cj9Lj9w-g)
 
-[what is shutter speed](https://www.youtube.com/watch?v=7R9ZTxoTOSk)
+[What is shutter speed](https://www.youtube.com/watch?v=7R9ZTxoTOSk)
+
+Now that you've familiarized yourself with these concepts, keep in mind these settings for our purposes:
+
+We aim for an F/Stop around F/13. A few below might be okay depending on the depth of field needs.
+
+Our ISO must be below 400, ideally at: 200, 250, or 320. Do not go above 320 without consulting the digitization manager.
+
+Our shutter speed is usually 1/40 or 1/60. Anything slower than 1/40th is too slow and more light needs to be added, a lower f stop used, or a higher film speed.
 
 
 --------------

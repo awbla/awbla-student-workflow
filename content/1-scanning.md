@@ -44,17 +44,17 @@ A standardized file naming system helps us know exactly where an item came from 
 
 Use **DC** for the collection abbreviation unless otherwise instructed.
 
-For a one page document numbered "12345" in Folder number 2 of Box 1, that is one page long:
+For a one page document labeled "430" in Folder number 2 of Box 1, that is one page long:
 
-**DC_B1_F2-12345-001.tiff**
+**DC_B1_F2-430-001.tiff**
 
 If the document is multiple pages, the scans will turn out as follows:
 
-**DC_B1_F2-12345-001.tiff**
+**DC_B1_F2-430-001.tiff**
 
-**DC_B1_F2-12345-002.tiff**
+**DC_B1_F2-430-002.tiff**
 
-...**DC_B1_F2-12345-078.tiff**
+...**DC_B1_F2-430-078.tiff**
 
 When you are preparing to scan, generate the prefix you will put into the scan box ("DC_B1_F2-12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
 

@@ -30,7 +30,7 @@ DPI stands for "dots per inch" which is also commonly referred to as resolution.
 
 To ensure our scans are meeting archival guidelines, use the following DPI chart:
 
-{% include figure.html img="scanchart.png" alt="intro image here" caption="" width="75%" %}
+{% include figure.html img="scan_chart.png" alt="intro image here" caption="" width="75%" %}
 
 -----------
 
@@ -48,15 +48,15 @@ Examples:
 
 If document is single page, use this format:
 
-**CE_B1_F2_12345_Page_001**
+*DC_B1_F2_12345_Page_001**
 
 If document is multiple page:
 
-**CE_B1_F2_12345_Page_001**
+**DC_B1_F2_12345_Page_001**
 
-**CE_B1_F2_12345_Page_002**
+**DC_B1_F2_12345_Page_002**
 
-**CE_B1_F2_12345_Page_0033**
+**DC_B1_F2_12345_Page_0033**
 
 ------------
 
@@ -71,9 +71,11 @@ Before beginning, go to your personal folder in the 'Scans' folder on the C: dri
 
 - Position the Color Separation Guide so that the “saturated” bar is beside the item being scanned (along the bottom edge of the item is fine). Be sure to leave a ⅛-inch gap between the guide and the item.
 
-- Close the scanner lid and press “Preview” in EpsonScan. Once the preview scan is finished, use the cursor to draw the selection window around the item and as much of the Color Separation Guide as is needed to color balance the item. There should not be a lot of space between the item and the edges of the selection window; see below:
+- Close the scanner lid and press “Preview” in EpsonScan. Once the preview scan is finished, use the cursor to draw the selection window around the item and to the edge of the color bar. There should not be a lot of white space as below.
 
     {% include figure.html img="screenshot-2.jpg" alt="intro image here" caption="" width="100%" %}
+    
+    Please include the whole color bar and DO NOT crop it as shown here. Replacement image to come.
     
 - Images should be scanned at **600 dpi** and should be at least **6,000 pixels** on the long edge. This measurement is located at the bottom left of the preview panel. The color filter should be set to ‘none’:
 
@@ -101,22 +103,3 @@ Before beginning, go to your personal folder in the 'Scans' folder on the C: dri
 
 --------------
 
-{%- assign scanners = site.data.equipment -%}
-
-{:#equipment}
-## Lab Equipment
-
-An overview of the scanning equipment used in the CDIL. 
-
-### Scanners:
-
-<table class="table">
-<tbody>
-{% for s in scanners %}
-<tr>
-<td class="col-4"><img src="{{ s.image | prepend: '/images/' | relative_url }}" alt="image of {{ s.image }}" class="img-fluid"/></td>
-<td class="col-8">{{ s.text }}</td>
-</tr>
-{% endfor %}
-</tbody>
-</table>

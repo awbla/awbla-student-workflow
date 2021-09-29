@@ -68,8 +68,8 @@ Each prefix should include the unique identifier for that specific item. We want
 
 Example 1: Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
 
-Scan DC_B1_F2_12345_001 first, using prefix DC_B1_F2_12345_. 
-Switching to the next doument, #879123, update the prefix to DC_B1_879123_.
+**__Scan DC_B1_F2_12345_001 first, using prefix DC_B1_F2_12345_. 
+Switching to the next doument, #879123, update the prefix to DC_B1_879123_.**
 
 **Do not** accidentally create **DC_B1_F2_12345_002** by forgetting to update the prefix box.
 

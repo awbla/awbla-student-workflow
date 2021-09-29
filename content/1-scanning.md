@@ -56,7 +56,7 @@ If the document is multiple pages, the scans will turn out as follows:
 
 ...**DC_B1_F2-12345-078.tiff**
 
-When you are preparing to scan, generate the prefix you will put into the scan box ("DC_B1_F2_12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
+When you are preparing to scan, generate the prefix you will put into the scan box ("DC_B1_F2-12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
 
 **DC_B1_F2-12345-001.tiff**
 
@@ -70,19 +70,19 @@ Each prefix should include the unique identifier for that specific item. We want
 
 **Example 1:** Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
 
-Scan #123456 using the prefix "DC_B1_F2-12345-", creating a file named DC_B1_F2-12345-001.
+Scan #123456 using the prefix "DC_B1_F2-123456-", creating a file named DC_B1_F2-123456-001.
 
 Switching to the next doument, #879123, update the prefix to "DC_B1_F2-879123-". Reset the ticker to 001 to create a file named DC_B1_F2-879123-001.
 
-**Do not** accidentally create **DC_B1_F2-12345-002** by forgetting to update the prefix and ticker boxes. This file name suggests #12345 is two pages long and effectively loses the scan for #879123.
+**Do not** accidentally create **DC_B1_F2-123456-002** by forgetting to update the prefix and ticker boxes. This file name suggests #123456 is two pages long and effectively loses the scan for #879123.
 
 **Example 2:** Imagine #123456 is three pages long and #879123 is two pages long. Here's how the work flow should go:
 
-Scan and create DC_B1_F2-12345-001 first, using prefix "DC_B1_F2-12345-". 
+Scan and create DC_B1_F2-123456-001 first, using prefix "DC_B1_F2-123456-". 
 Scan each additional page creating: 
-DC_B1_F2-12345-001, 
-DC_B1_F2-12345-002, 
-DC_B1_F2-12345-003.  
+DC_B1_F2-123456-001, 
+DC_B1_F2-123456-002, 
+DC_B1_F2-123456-003.  
 
 Switching to the next doument, #879123, update the prefix to "DC_B1_F2-879123-". Scan each additional page creating: 
 DC_B1_F2-879123-001, 

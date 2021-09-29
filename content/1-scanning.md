@@ -59,7 +59,9 @@ If the document is multiple page the scans will turn out as follows:
 When you are preparing to scan, generate the prefix you will put into the scan box (DC_B1_F2_12345_) Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
 
 **DC_B1_F2_12345_001**
+
 **DC_B1_F2_12345_002**
+
 **DC_B1_F2_12345_003**
 
 **Make sure to update the prefix when you switch to your next item!** 
@@ -68,16 +70,22 @@ Each prefix should include the unique identifier for that specific item. We want
 
 Example 1: Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
 
-**__Scan DC_B1_F2_12345_001 first, using prefix DC_B1_F2_12345_. 
-Switching to the next doument, #879123, update the prefix to DC_B1_879123_.**
+Scan #123456 using the prefix DC_B1_F2_12345_, creating DC_B1_F2_12345_001.
 
-**Do not** accidentally create **DC_B1_F2_12345_002** by forgetting to update the prefix box.
+Switching to the next doument, #879123, update the prefix to DC_B1_879123_. Reset the ticker to 001 to create DC_B1_879123_001.
+
+**Do not** accidentally create **DC_B1_F2_12345_002** by forgetting to update the prefix and ticker boxes.
 
 Example 2: Imagine #123456 is three pages long and #879123 is two pages long. Here's how the work flow should go:
 
-Scan and create DC_B1_F2_12345_001 first, using prefix DC_B1_F2_12345_. Scan each additional page creating: DC_B1_F2_12345_001, DC_B1_F2_12345_002, DC_B1_F2_12345_003.  
+Scan and create DC_B1_F2_12345_001 first, using prefix DC_B1_F2_12345_. Scan each additional page creating: 
+DC_B1_F2_12345_001, 
+DC_B1_F2_12345_002, 
+DC_B1_F2_12345_003.  
 
-Switching to the next doument, #879123, update the prefix to DC_B1_879123_. Scan each additional page creating DC_B1_879123_001, DC_B1_879123_002.
+Switching to the next doument, #879123, update the prefix to DC_B1_879123_. Scan each additional page creating: 
+DC_B1_879123_001, 
+DC_B1_879123_002.
 
 ------------
 

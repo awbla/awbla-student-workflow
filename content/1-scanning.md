@@ -6,7 +6,7 @@ nav: Scanning
 -------------------
 
 {% capture text %}**Before you scan**:
-Make sure that hands are clean and dry when handling materials for scanning or any type of digitization work; all materials should be handled with care, and cotton gloves worn when instructed by a supervisor. These items cannot be replaced or easily repaired if destroyed or damaged.{% endcapture %}
+Make sure that hands are clean and dry when handling materials for scanning or any type of digitization work; all materials should be handled with care, and cotton gloves worn when instructed by a supervisor. These items cannot be replaced or easily repaired if destroyed or damaged. Please also take care to avoid cutting yourself on the multitude of sharp edges presented by the points. {% endcapture %}
 {% include alert.html text=text color="danger" %}
 
 1. [Why?](#why)
@@ -20,7 +20,17 @@ Make sure that hands are clean and dry when handling materials for scanning or a
 {:#why}
 ## Why do we scan?
 
-Digitizing materials by scanning them with a flatbed, large format, or feed scanner is sometimes the safest and most effective means of preserving the information in an item and allowing others to access it. Scanning items at a high resolution allows the item to be used in different ways without needing to make any manipulations to the actual item. This is why we aim for a minimum 600 dpi image; it provides a scalable image that can be used for large or small reprints while maintaining the original details of the item.
+Digitizing materials by scanning them with a flatbed, large format, or feed scanner is sometimes the safest and most effective means of preserving the information in an item and allowing others to access it. Scanning items at a high resolution allows the digital capture to be used in different ways without needing to make any manipulations to the actual item. This is why we aim for a minimum 600 dpi image; it provides a scalable image that can be used for large or small reprints while maintaining the original details of the item.
+
+-----------
+
+## Understanding DPI
+
+DPI stands for "dots per inch" which is also commonly referred to as resolution. DPI relates to how accurately an image is sampled - an image with many millions of samping points will be able to resolve a finer level of detail than an image with only thousands or hundreds of points.
+
+To ensure our scans are meeting archival guidelines, use the following DPI chart:
+
+{% include figure.html img="scanchart.png" alt="intro image here" caption="" width="75%" %}
 
 -----------
 

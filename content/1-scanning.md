@@ -78,7 +78,8 @@ Switching to the next doument, #879123, update the prefix to DC_B1_F2_879123_. R
 
 **Example 2:** Imagine #123456 is three pages long and #879123 is two pages long. Here's how the work flow should go:
 
-Scan and create DC_B1_F2_12345_001 first, using prefix DC_B1_F2_12345_. Scan each additional page creating: 
+Scan and create DC_B1_F2_12345_001 first, using prefix "DC_B1_F2_12345_". 
+Scan each additional page creating: 
 DC_B1_F2_12345_001, 
 DC_B1_F2_12345_002, 
 DC_B1_F2_12345_003.  

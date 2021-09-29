@@ -121,7 +121,8 @@ Before beginning, create a personal folder in your one drive space that you can 
 
 {% include figure.html img="screenshot-4.jpg" alt="intro image here" caption="" width="50%" %}
 
-**Make sure you update the prefix format as follows: CE_BoxNumber_FolderNumber_ItemNumber-**
+**Make sure you update the prefix format as follows:** 
+- CE_BoxNumber_FolderNumber_ItemNumber
 
 - Press “OK” and the scan will begin. 
 

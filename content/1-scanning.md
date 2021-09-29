@@ -56,29 +56,35 @@ If the document is multiple page the scans will turn out as follows:
 
 ...**DC_B1_F2_12345_078**
 
-When you are preparing to scan an item, generate the prefix you will put into the scan box (**DC_B1_F2_12345_**) Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for that item as follows:
+When you are preparing to scan, generate the prefix you will put into the scan box (DC_B1_F2_12345_) Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
 
 **DC_B1_F2_12345_001**
 **DC_B1_F2_12345_002**
 **DC_B1_F2_12345_003**
 
-**Make sure to update the prefix when you switch to your next document!** 
+**Make sure to update the prefix when you switch to your next item!** 
 
-Each prefix should include the unique identifier for that specific item. We want to avoid accidentally scanning several distinct objects for instance objects #12345 and #879123 as if they're a two page document. 
+Each prefix should include the unique identifier for that specific item. We want to avoid accidentally naming several distinct objects in a way that suggests it's one multiple page document instead of several distinct objets. 
 
-Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
+Example 1: Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
 
 Scan **DC_B1_F2_12345_001** first, using prefix **DC_B1_F2_12345_**. 
 Switching to the next doument, #879123, update the prefix to **DC_B1_879123_**
 
 **Do not** accidentally create **DC_B1_F2_12345_002** by forgetting to update the prefix box.
 
+Example 2: Imagine #123456 is three pages long and #879123 is two pages long. Here's how the work flow should go:
+
+Scan and create DC_B1_F2_12345_001 first, using prefix **DC_B1_F2_12345_**. Scan each additional page creating: DC_B1_F2_12345_001, DC_B1_F2_12345_002, DC_B1_F2_12345_003.  
+
+Switching to the next doument, #879123, update the prefix to **DC_B1_879123_**. Scan each additional page creating DC_B1_879123_001, DC_B1_879123_002.
+
 ------------
 
 {:#images}
 ## Scanning Images
 
-Before beginning, go to your personal folder in the 'Scans' folder on the C: drive at your workstation. If a supervisor has not done so already, create a folder for the scanning project titled after the collection you'll be scanning (ex.: `MG 183`). Inside that folder, create another folder called 'tif'. This folder will be the destination for your initial scans.
+Before beginning, create a personal folder in your one drive space that you can use to upload your scans. <This needs some more work>. Inside that folder, create another folder called 'tif'. This folder will be the destination for your initial scans.
 
 - Turn on scanner at station. Open EpsonScan scanning software. 
 

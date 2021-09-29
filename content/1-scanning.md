@@ -72,7 +72,7 @@ Each prefix should include the unique identifier for that specific item. We want
 
 Scan #123456 using the prefix DC_B1_F2_12345_, creating DC_B1_F2_12345_001.
 
-Switching to the next doument, #879123, update the prefix to DC_B1_F2_879123_. Reset the ticker to 001 to create DC_B1_879123_001.
+Switching to the next doument, #879123, update the prefix to DC_B1_F2_879123_. Reset the ticker to 001 to create DC_B1_F2_879123_001.
 
 **Do not** accidentally create **DC_B1_F2_12345_002** by forgetting to update the prefix and ticker boxes.
 
@@ -83,9 +83,9 @@ DC_B1_F2_12345_001,
 DC_B1_F2_12345_002, 
 DC_B1_F2_12345_003.  
 
-Switching to the next doument, #879123, update the prefix to DC_B1_879123_. Scan each additional page creating: 
-DC_B1_879123_001, 
-DC_B1_879123_002.
+Switching to the next doument, #879123, update the prefix to DC_B1_F2_879123_. Scan each additional page creating: 
+DC_B1_F2_879123_001, 
+DC_B1_F2_879123_002.
 
 Each time you switch to a different folder, or a different box, make sure to update the appropriate part of the number you are creating for your prefix.
 

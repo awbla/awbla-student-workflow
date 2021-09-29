@@ -75,7 +75,8 @@ Before beginning, go to your personal folder in the 'Scans' folder on the C: dri
 
     {% include figure.html img="screenshot-2.jpg" alt="intro image here" caption="" width="100%" %}
     
-    Please include the whole color bar and DO NOT crop it as shown here. Replacement image to come.
+    Please include the whole color bar and DO NOT crop it as shown here. 
+    Replacement image to come.
     
 - Images should be scanned at **600 dpi** and should be at least **6,000 pixels** on the long edge. This measurement is located at the bottom left of the preview panel. The color filter should be set to ‘none’:
 

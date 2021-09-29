@@ -42,21 +42,36 @@ A standardized file naming system helps us know exactly where an item came from 
 **collectionabbreviation_box#_folder#-item#subitem**
 {:.text-center}
 
-Examples:
-- Manuscript Group 190, Box 4, Folder 2, letter 1, multiple pages = **mg190_b4_f2-001p001, mg190_b4_f2-001p002, etc.**
-- Photograph Group 3, box 1, photograph 3 = **pg3_b1-003**
+Use **DC** for the collection abbreviation unless otherwise instructed.
 
-If document is single page, use this format:
+For a one page document numbered "12345" in Folder number 2 of Box 1, that is one page long:
 
-**DC_B1_F2_12345_Page_001**
+**DC_B1_F2_12345_001**
 
-If document is multiple page:
+If document is multiple page the scans will turn out as follows:
 
-**DC_B1_F2_12345_Page_001**
+**DC_B1_F2_12345_001**
 
-**DC_B1_F2_12345_Page_002**
+**DC_B1_F2_12345_002**
 
-**DC_B1_F2_12345_Page_0033**
+...**DC_B1_F2_12345_078**
+
+When you are preparing to scan an item, generate the prefix you will put into the scan box (**DC_B1_F2_12345_**) Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for that item as follows:
+
+**DC_B1_F2_12345_001**
+**DC_B1_F2_12345_002**
+**DC_B1_F2_12345_003**
+
+**Make sure to update the prefix when you switch to your next document!** 
+
+Each prefix should include the unique identifier for that specific item. We want to avoid accidentally scanning several distinct objects for instance objects #12345 and #879123 as if they're a two page document. 
+
+Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
+
+Scan **DC_B1_F2_12345_001** first, using prefix **DC_B1_F2_12345_**. 
+Switching to the next doument, #879123, update the prefix to **DC_B1_879123_**
+
+**Do not** accidentally create **DC_B1_F2_12345_002** by forgetting to update the prefix box.
 
 ------------
 

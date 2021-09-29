@@ -46,17 +46,17 @@ Use **DC** for the collection abbreviation unless otherwise instructed.
 
 For a one page document numbered "12345" in Folder number 2 of Box 1, that is one page long:
 
-**DC_B1_F2_12345_001**
+**DC_B1_F2_12345_001.tiff**
 
 If the document is multiple page the scans will turn out as follows:
 
-**DC_B1_F2_12345_001**
+**DC_B1_F2_12345_001.tiff**
 
-**DC_B1_F2_12345_002**
+**DC_B1_F2_12345_002.tiff**
 
-...**DC_B1_F2_12345_078**
+...**DC_B1_F2_12345_078.tiff**
 
-When you are preparing to scan, generate the prefix you will put into the scan box (DC_B1_F2_12345_) Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
+When you are preparing to scan, generate the prefix you will put into the scan box ("DC_B1_F2_12345_") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
 
 **DC_B1_F2_12345_001**
 
@@ -70,9 +70,9 @@ Each prefix should include the unique identifier for that specific item. We want
 
 **Example 1:** Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
 
-Scan #123456 using the prefix DC_B1_F2_12345_, creating DC_B1_F2_12345_001.
+Scan #123456 using the prefix "DC_B1_F2_12345_", creating a file named DC_B1_F2_12345_001.
 
-Switching to the next doument, #879123, update the prefix to DC_B1_F2_879123_. Reset the ticker to 001 to create DC_B1_F2_879123_001.
+Switching to the next doument, #879123, update the prefix to "DC_B1_F2_879123_". Reset the ticker to 001 to create a file named DC_B1_F2_879123_001.
 
 **Do not** accidentally create **DC_B1_F2_12345_002** by forgetting to update the prefix and ticker boxes.
 
@@ -84,7 +84,7 @@ DC_B1_F2_12345_001,
 DC_B1_F2_12345_002, 
 DC_B1_F2_12345_003.  
 
-Switching to the next doument, #879123, update the prefix to DC_B1_F2_879123_. Scan each additional page creating: 
+Switching to the next doument, #879123, update the prefix to "DC_B1_F2_879123_". Scan each additional page creating: 
 DC_B1_F2_879123_001, 
 DC_B1_F2_879123_002.
 

@@ -6,7 +6,7 @@ ________
 
 Photogrammetry involves taking overlapping, precise photos of the object being digitized. Those who aren't familiar with manual studio photography should review the following links:
 
-[Photo basics video on YouTube](https://youtu.be/mEDrpDl4bsw?t=39)
+[Photo basics video on YouTube](https://youtu.be/mEDrpDl4bsw?t=71)
 
 [Manual mode cheat sheet how-to guide](https://digital-photography-school.com/shoot-manual-mode-cheat-sheet-beginners/)
 

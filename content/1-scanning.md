@@ -68,7 +68,7 @@ When you are preparing to scan, generate the prefix you will put into the scan b
 
 Each prefix should include the unique identifier for that specific item. We want to avoid accidentally naming several distinct objects in a way that suggests it's one multiple page document instead of several distinct objets. 
 
-Example 1: Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
+**Example 1:** Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
 
 Scan #123456 using the prefix DC_B1_F2_12345_, creating DC_B1_F2_12345_001.
 
@@ -76,7 +76,7 @@ Switching to the next doument, #879123, update the prefix to DC_B1_879123_. Rese
 
 **Do not** accidentally create **DC_B1_F2_12345_002** by forgetting to update the prefix and ticker boxes.
 
-Example 2: Imagine #123456 is three pages long and #879123 is two pages long. Here's how the work flow should go:
+**Example 2:** Imagine #123456 is three pages long and #879123 is two pages long. Here's how the work flow should go:
 
 Scan and create DC_B1_F2_12345_001 first, using prefix DC_B1_F2_12345_. Scan each additional page creating: 
 DC_B1_F2_12345_001, 

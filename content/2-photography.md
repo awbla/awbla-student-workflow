@@ -4,6 +4,17 @@ nav: Photography
 ---
 ________
 
+Photogrammetry involves taking overlapping, precise photos of the object being digitized. Those who aren't familiar with manual studio photography should review the following links:
+
+[Photo basics video on YouTube](https://www.youtube.com/watch?v=mEDrpDl4bsw)
+[Manual mode cheat sheet how-to guide](https://digital-photography-school.com/shoot-manual-mode-cheat-sheet-beginners/)
+[What is aperture video](https://www.youtube.com/watch?v=YojL7UQTVhc)
+[What is ISO](https://www.youtube.com/watch?v=q8cj9Lj9w-g)
+[what is shutter speed](https://www.youtube.com/watch?v=7R9ZTxoTOSk)
+
+
+--------------
+
 The following documentation is adapted from Julia Haines’ [Photogrammetry Workflow using a DSLR Camera](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/) (The University of Virginia Library Scholars' Lab).
 
 Citation: Julia Haines. “Photogrammetry Workflow using a DSLR Camera” [blog post]. Published September 24, 2019, [University of Virginia Library Scholars' Lab](https://scholarslab.lib.virginia.edu/blog/). [https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/). Accessed on August 25, 2021.

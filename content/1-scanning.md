@@ -46,23 +46,23 @@ Use **CE** for the collection abbreviation unless otherwise instructed.
 
 For a one page document labeled "430" in Folder number 2 of Box 1, that is one page long:
 
-**CE_B1_F2-430-001.tiff**
+**CE_B1_F2-430-001.tif**
 
 If the document is multiple pages, the scans will turn out as follows:
 
-**CE_B1_F2-430-001.tiff**
+**CE_B1_F2-430-001.tif**
 
-**CE_B1_F2-430-002.tiff**
+**CE_B1_F2-430-002.tif**
 
-...**CE_B1_F2-430-078.tiff**
+...**CE_B1_F2-430-078.tif**
 
 When you are preparing to scan, generate the prefix you will put into the scan box ("CE_B1_F2-12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
 
-**CE_B1_F2-12345-001.tiff**
+**CE_B1_F2-12345-001.tif**
 
-**CE_B1_F2-12345-002.tiff**
+**CE_B1_F2-12345-002.tif**
 
-**CE_B1_F2-12345-003.tiff**
+**CE_B1_F2-12345-003.tif**
 
 **Make sure to update the prefix when you switch to your next item!** 
 
@@ -90,6 +90,7 @@ CE_B1_F2-879123-002.
 
 Each time you switch to a different folder, or a different box, make sure to update the appropriate part of the number you are creating for your prefix.
 
+**When you finish scanning, check the scanner to confirm that no documents or photos are left on the scanner bed.**
 ------------
 
 {:#images}
@@ -112,16 +113,16 @@ Before beginning, create a personal folder in your one drive space that you can 
     
 - Images should be scanned at **600 dpi** and should be at least **6,000 pixels** on the long edge. This measurement is located at the bottom left of the preview panel. The color filter should be set to ‘none’. Make sure all your settings match as shown below:
 
-    {% include figure.html img="screenshot-3.jpg" alt="intro image here" caption="" width="50%" %}
+    {% include figure.html img="EpsonScanner1.png" alt="intro image here" caption="" width="50%" %}
 
 - Once your settings are correct, press “Scan”. The “File Save Settings” window will pop up and you will need to:
     - Click “Other” and then “Browse to select the file you want your scanned images to be saved to. This should be the tif folder you already created.
     - Set up the File Name prefix. This should reflect the collection, box number, item number, and any other identifying characteristics like page numbers. See [File Naming](https://uidaholib.github.io/dds-student-workflow/content/1-scanning.html#file) for complete details. The Start Number should be at 001 if you’re starting a new project, or set to the next sequential number if you’re in the middle of a project. 
     - In the Image Format section, the file type should be set to TIFF (*.tif).
 
-{% include figure.html img="screenshot-4.jpg" alt="intro image here" caption="" width="50%" %}
+{% include figure.html img="EpsonScanner2.png" alt="intro image here" caption="" width="50%" %}
 
-{% capture text %}Make sure you update the prefix format as follows: **CE_BoxNumber_FolderNumber_ItemNumber**{% endcapture %}
+{% capture text %}Make sure you update the prefix format as follows: **CE_BoxNumber_FolderNumber_ItemNumber-front** or **CE_BoxNumber_FolderNumber_ItemNumber-back**{% endcapture %}
 {% include alert.html text=text color="danger" %}
 
 - Press “OK” and the scan will begin. 

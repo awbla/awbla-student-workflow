@@ -90,7 +90,7 @@ CE_B1_F2-879123-002.
 
 Each time you switch to a different folder, or a different box, make sure to update the appropriate part of the number you are creating for your prefix.
 
-**When you finish scanning, check the scanner to confirm that no documents or photos are left on the scanner bed.**
+When you finish scanning, check the scanner to confirm that no documents or photos are left on the scanner bed.
 ------------
 
 {:#images}

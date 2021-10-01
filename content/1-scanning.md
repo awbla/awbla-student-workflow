@@ -39,7 +39,7 @@ To ensure our scans are meeting archival guidelines, use the following DPI chart
 
 A standardized file naming system helps us know exactly where an item came from or where it belongs just by looking at the file name. Scanned files should be named using the following standardized naming rules:
 
-**collectionabbreviation_box#_folder#-item#-subitem**
+**collectionabbreviation_box#__folder#-item#-subitem_-**
 {:.text-center}
 
 Use **CE** for the collection abbreviation unless otherwise instructed.
@@ -90,7 +90,9 @@ CE_B1_F2-879123-002.
 
 Each time you switch to a different folder, or a different box, make sure to update the appropriate part of the number you are creating for your prefix.
 
-When you finish scanning, check the scanner to confirm that no documents or photos are left on the scanner bed.
+{% capture text %}When you finish scanning, make sure to check the scanner to make sure not photos or documents are still on the scanner bed.{% endcapture %}
+{% include alert.html text=text color="danger" %}
+
 ------------
 
 {:#images}
@@ -122,7 +124,7 @@ Before beginning, create a personal folder in your one drive space that you can 
 
 {% include figure.html img="EpsonScanner2.png" alt="intro image here" caption="" width="50%" %}
 
-{% capture text %}Make sure you update the prefix format as follows: **CE_BoxNumber_FolderNumber_ItemNumber-front** or **CE_BoxNumber_FolderNumber_ItemNumber-back**{% endcapture %}
+{% capture text %}Make sure you update the prefix format as follows: **CE_BoxNumber_FolderNumber_ItemNumber-front-** or **CE_BoxNumber_FolderNumber_ItemNumber-back-**{% endcapture %}
 {% include alert.html text=text color="danger" %}
 
 - Press “OK” and the scan will begin. 

@@ -64,7 +64,7 @@ When you are preparing to scan, generate the prefix you will put into the scan b
 
 **CE_B1_F2-12345-003.tif**
 
-{% capture text %}**Make sure to update the prefix and change the start number back to 001 when you switch to your next item!**{% endcapture %}
+{% capture text %}Make sure to update the **prefix** and change the **start number** back to 001 when you switch to your next item!{% endcapture %}
 {% include alert.html text=text color="danger" %} 
 
 Each prefix should include the unique identifier for that specific item. We want to avoid accidentally naming several distinct objects in a way that suggests it's a single, multiple page object, instead of several separate objects. 

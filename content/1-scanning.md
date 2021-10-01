@@ -46,7 +46,7 @@ Use **CE** for the collection abbreviation unless otherwise instructed.
 
 For a one page document labeled "430" in Folder number 2 of Box 1, that is one page long:
 
-**CE_B1_F2-430-001.tif**
+The prefix = **CE_B1_F2-430**, the start number = **001**, so the file name = **CE_B1_F2-430-001.tif**
 
 If the document is multiple pages, the scans will turn out as follows:
 
@@ -56,7 +56,7 @@ If the document is multiple pages, the scans will turn out as follows:
 
 ...**CE_B1_F2-430-078.tif**
 
-When you are preparing to scan, generate the prefix you will put into the scan box ("CE_B1_F2-12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item as follows:
+When you are preparing to scan, generate the prefix you will put into the scan box ("CE_B1_F2-12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item, these numbers are called the *start number*. For example:
 
 **CE_B1_F2-12345-001.tif**
 
@@ -64,27 +64,30 @@ When you are preparing to scan, generate the prefix you will put into the scan b
 
 **CE_B1_F2-12345-003.tif**
 
-**Make sure to update the prefix when you switch to your next item!** 
+{% capture text %}**Make sure to update the prefix and change the start number back to 001 when you switch to your next item!**{% endcapture %}
+{% include alert.html text=text color="danger" %} 
 
-Each prefix should include the unique identifier for that specific item. We want to avoid accidentally naming several distinct objects in a way that suggests it's one multiple page document instead of several distinct objets. 
+Each prefix should include the unique identifier for that specific item. We want to avoid accidentally naming several distinct objects in a way that suggests it's a single, multiple page object, instead of several separate objects. 
 
-**Example 1:** Imagine #123456 and #879123 are each one page long letters. Here's how the work flow should go:
+**Example 1:** Imagine that items #123456 and #879123 are each one-page long letters. Here's how the work flow should go:
 
-Scan #123456 using the prefix "CE_B1_F2-123456-", creating a file named CE_B1_F2-123456-001.
+Scan #123456 using the prefix "CE_B1_F2-123456-" and start number "001", creating a file named CE_B1_F2-123456-001.
 
-Switching to the next doument, #879123, update the prefix to "CE_B1_F2-879123-". Reset the ticker to 001 to create a file named CE_B1_F2-879123-001.
+Switch to the next doument, #879123, update the prefix to "CE_B1_F2-879123-" and reset the start number back to "001," creating a file named CE_B1_F2-879123-001.
 
-**Do not** accidentally create **CE_B1_F2-123456-002** by forgetting to update the prefix and ticker boxes. This file name suggests #123456 is two pages long and effectively loses the scan for #879123.
+**Do not** accidentally create **CE_B1_F2-123456-002** by forgetting to update the prefix and start number boxes. The file name CE_B1_F2-123456-002 suggests #123456 is two pages long and effectively miscategorizes the scan for #879123.
 
 **Example 2:** Imagine #123456 is three pages long and #879123 is two pages long. Here's how the work flow should go:
 
-Scan and create CE_B1_F2-123456-001 first, using prefix "CE_B1_F2-123456-". 
+Scan and create CE_B1_F2-123456-001 first, using prefix "CE_B1_F2-123456-" and start number "001." 
 Scan each additional page creating: 
 CE_B1_F2-123456-001, 
 CE_B1_F2-123456-002, 
 CE_B1_F2-123456-003.  
 
-Switching to the next doument, #879123, update the prefix to "CE_B1_F2-879123-". Scan each additional page creating: 
+When it you're scanning a multiple page document, the Epson scanner should retain the correct prefix and update the start number to 002, 003, etc.
+
+Switch to the next doument, #879123, update the prefix to "CE_B1_F2-879123-" and reset the start number to "001." Scan each additional page creating: 
 CE_B1_F2-879123-001, 
 CE_B1_F2-879123-002.
 

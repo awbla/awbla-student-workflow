@@ -28,6 +28,8 @@ Digitizing materials by scanning them with a flatbed, large format, or feed scan
 
 DPI stands for "dots per inch" which is also commonly referred to as resolution. DPI relates to how accurately an image is sampled - an image with many millions of samping points will be able to resolve a finer level of detail than an image with only thousands or hundreds of points.
 
+SCAN EVERYTHING AT AT LEAST 600 DPI
+
 To ensure our scans are meeting archival guidelines, use the following DPI chart:
 
 {% include figure.html img="scan_chart.png" alt="intro image here" caption="" width="75%" %}

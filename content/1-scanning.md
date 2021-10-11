@@ -48,23 +48,23 @@ Use **CE** for the collection abbreviation unless otherwise instructed.
 
 For a one page document labeled "430" in Folder number 2 of Box 1, that is one page long:
 
-The prefix = **CE_B1_F2-430**, the start number = **001**, so the file name = **CE_B1_F2-430-001.tif**
+The prefix = **CE_B1_F2-Item430**, the start number = **001**, so the file name = **CE_B1_F2-Item430-001.tif**
 
 If the document is multiple pages, the scans will turn out as follows:
 
-**CE_B1_F2-430-001.tif**
+**CE_B1_F2-Item430-001.tif**
 
-**CE_B1_F2-430-002.tif**
+**CE_B1_F2-Item430-002.tif**
 
-...**CE_B1_F2-430-078.tif**
+...**CE_B1_F2-Item430-078.tif**
 
-When you are preparing to scan, generate the prefix you will put into the scan box ("CE_B1_F2-12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item, these numbers are called the *start number*. For example:
+When you are preparing to scan, generate the prefix you will put into the scan box ("CE_B1_F2-Item12345-") Then you can use the default numbering created by the scanning software to automatically create sequentially numbered scans for each page of the item, these numbers are called the *start number*. For example:
 
-**CE_B1_F2-12345-001.tif**
+**CE_B1_F2-Item12345-001.tif**
 
-**CE_B1_F2-12345-002.tif**
+**CE_B1_F2-Item12345-002.tif**
 
-**CE_B1_F2-12345-003.tif**
+**CE_B1_F2-Item12345-003.tif**
 
 {% capture text %}Make sure to update the **prefix** and change the **start number** back to 001 when you switch to your next item!{% endcapture %}
 {% include alert.html text=text color="danger" %} 
@@ -73,25 +73,25 @@ Each prefix should include the unique identifier for that specific item. We want
 
 **Example 1:** Imagine that items #123456 and #879123 are each one-page long letters. Here's how the work flow should go:
 
-Scan #123456 using the prefix "CE_B1_F2-123456-" and start number "001", creating a file named CE_B1_F2-123456-001.
+Scan #123456 using the prefix "CE_B1_F2-Item123456-" and start number "001", creating a file named CE_B1_F2-Item123456-001.
 
-Switch to the next doument, #879123, update the prefix to "CE_B1_F2-879123-" and reset the start number back to "001," creating a file named CE_B1_F2-879123-001.
+Switch to the next doument, #879123, update the prefix to "CE_B1_F2-Item879123-" and reset the start number back to "001," creating a file named CE_B1_F2-Item879123-001.
 
-**Do not** accidentally create **CE_B1_F2-123456-002** by forgetting to update the prefix and start number boxes. The file name CE_B1_F2-123456-002 suggests #123456 is two pages long and effectively miscategorizes the scan for #879123.
+**Do not** accidentally create **CE_B1_F2-Item123456-002** by forgetting to update the prefix and start number boxes. The file name CE_B1_F2-Item123456-002 suggests #123456 is two pages long and effectively miscategorizes the scan for #879123.
 
 **Example 2:** Imagine #123456 is three pages long and #879123 is two pages long. Here's how the work flow should go:
 
-Scan and create CE_B1_F2-123456-001 first, using prefix "CE_B1_F2-123456-" and start number "001." 
+Scan and create CE_B1_F2-123456-001 first, using prefix "CE_B1_F2-Item123456-" and start number "001." 
 Scan each additional page creating: 
-CE_B1_F2-123456-001, 
-CE_B1_F2-123456-002, 
-CE_B1_F2-123456-003.  
+CE_B1_F2-Item123456-001, 
+CE_B1_F2-Item123456-002, 
+CE_B1_F2-Item123456-003.  
 
 When it you're scanning a multiple page document, the Epson scanner should retain the correct prefix and update the start number to 002, 003, etc.
 
-Switch to the next doument, #879123, update the prefix to "CE_B1_F2-879123-" and reset the start number to "001." Scan each additional page creating: 
-CE_B1_F2-879123-001, 
-CE_B1_F2-879123-002.
+Switch to the next doument, #879123, update the prefix to "CE_B1_F2-Item879123-" and reset the start number to "001." Scan each additional page creating: 
+CE_B1_F2-Item879123-001, 
+CE_B1_F2-Item879123-002.
 
 Each time you switch to a different folder, or a different box, make sure to update the appropriate part of the number you are creating for your prefix.
 

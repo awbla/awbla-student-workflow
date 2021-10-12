@@ -22,7 +22,8 @@ nav: Agisoft
 {:#newagisoftproject}
 ### Create a new Agisoft Project
 - Open Agisoft Metashape
-- Click File > Save As > name project using the following convention: *itemnumber_3Dproject*
+- Click File > Save As > name project using the following convention: *CE_Cabinet_Drawer_ItemNumber_3Dproject*
+    - For example: CE_CabinetA_D4_2394_3Dproject 
 
 {:#addphotos}
 ### Add photos to Agisoft Project
@@ -253,21 +254,22 @@ We will export the 3D model in three different file formats.
 STL model (.stl)
 - Click File > Export > Export Model
 - Navigate to the destination folder
-- Rename the file as *itemnumber_3Dproject-model-stl*
+- Rename the file as *CE_Cabinet_Drawer_ItemNumber_3Dproject-model*
+    - For example: CE_CabinetA_D4_2394_3Dproject-model
 - Select *.stl* as the file format
 - Click Save
 
 X3D model (.x3d)
 - Click File > Export > Export Model
 - Navigate to the  destination folder
-- Rename the file as *itemnumber_3Dproject-model-x3d*
+- Rename the file as *CE_Cabinet_Drawer_ItemNumber_3Dproject-model*
 - Select *.x3d* as the file format
 - Click Save
 
 Wavefront OBJ model (.obj)
 - Click File > Export > Export Model
 - Navigate to the  destination folder
-- Rename the file as *itemnumber_3Dproject-model-obj*
+- Rename the file as *CE_Cabinet_Drawer_ItemNumber_3Dproject-model*
 - Select *.obj* as the file format
 - Click Save
     - In the Export Model dialog box, select:

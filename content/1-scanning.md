@@ -32,7 +32,7 @@ SCAN EVERYTHING AT AT LEAST 600 DPI
 
 To ensure our scans are meeting archival guidelines, use the following DPI chart:
 
-{% include figure.html img="scan_chart.png" alt="intro image here" caption="" width="75%" %}
+{% include figure.html img="new_scanchart.png" alt="graphic showing DPI to scan at" caption="" width="75%" %}
 
 -----------
 
@@ -103,7 +103,7 @@ Each time you switch to a different folder, or a different box, make sure to upd
 {:#images}
 ## Scanning Images
 
-Before beginning, create a personal folder in your one drive space that you can use to upload your scans. <This needs some more work>. Inside that folder, create another folder called 'tif'. This folder will be the destination for your initial scans.
+Before beginning, create a personal folder in your one drive space that you can use to upload your scans. Inside that folder, create another folder called 'tif'. This folder will be the destination for your initial scans.
 
 - Turn on scanner at station. Open EpsonScan scanning software. 
 
@@ -139,7 +139,7 @@ Before beginning, create a personal folder in your one drive space that you can 
 {:#documents}
 ## Scanning Documents
 
-- All documents should be scanned at **400 dpi** with the color filter set to “none”. 
+- All documents should be scanned at **600 dpi** with the color filter set to “none”. 
 
 - From here, follow the same directions for scanning images. Depending on the size of the document and the scanner used, the Color Separation Guide should be used following the same guidelines recommended when scanning images (Color Separation Guides will not be used on the feed scanner. Use the standard [File Naming](https://awbla.github.io/awbla-student-workflow/content/1-scanning.html#file) conventions for scanning items.
 

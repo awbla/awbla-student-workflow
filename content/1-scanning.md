@@ -32,7 +32,7 @@ SCAN EVERYTHING AT AT LEAST 600 DPI
 
 To ensure our scans are meeting archival guidelines, use the following DPI chart:
 
-{% include figure.html img="new_scanchart.png" alt="graphic showing DPI to scan at" caption="" width="75%" %}
+{% include figure.html img="new_scan_chart.png" alt="graphic showing DPI to scan at" caption="" width="75%" %}
 
 -----------
 

@@ -5,8 +5,8 @@ nav: Agisoft
 
 -----------
 - [Create a new Agisoft Project](#newagisoftproject)
-- [Add photos to Agisoft Project](#addphotos)
-- [Create a mask](#mask)
+<!--- [Add photos to Agisoft Project](#addphotos)
+- [Create a mask](#mask)-->
 - [Import masks](#importmasks) 
 - [Align photos and refine bounding box position](#alignphotos)
 - [Build and edit dense cloud](#dense)
@@ -32,7 +32,7 @@ nav: Agisoft
 - Click Save
 - Delete images with sticky notes
 - Click Save
-
+<!--
 #### Estimate image quality
 - Photos > Details > Highlight all photos > Right click selected photos > Estimate Image Quality > All cameras > OK
 - Click Save
@@ -83,6 +83,7 @@ The following documentation on creating a mask is adapted from Samantha Porter's
 - Click File > Save As > JPEG picture
 - Navigate to the background image location, rename the file as *itemnumber_mask-pixels*, and click Save
 - Close Microsoft Paint
+-->
 
 {:#importmasks}
 ### Import masks

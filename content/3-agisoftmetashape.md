@@ -4,6 +4,8 @@ nav: Agisoft
 ---
 
 -----------
+Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?list=PL2VCfpBUgJGi2GJFro_hCa6Kxohlxlxt8) on YouTube, demonstrating each of the steps below.
+
 - [Step 1: Create a new Agisoft Project](#newagisoftproject)
 - [Step 2: Add photos to the Agisoft Project](#addphotos)
 - [Step 3: Import a background image/mask](#importmasks) 

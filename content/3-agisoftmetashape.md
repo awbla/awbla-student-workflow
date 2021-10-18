@@ -39,15 +39,13 @@ We will need to add photos in two separate chunks to make sure that they are ali
 - Navigate to the correct 3D artifact photos folder
 - Double click on Processed and double click on the correct item's folder
 - Single click on the first folder in the photos folder > click Select Folder
-- Make sure that single cameras and add all images to one chunk are selected
-- Click OK
+- Make sure that single cameras and add all images to one chunk are selected > Click OK
 - Navigate to the Workspace section > click the Add chunk icon
 - Double click Chunk 2 > click Workflow > click Add Folder
 - Navigate to the correct 3D artifact photos folder
 - Double click on Processed and double click on the correct item's folder
 - Single click on the second folder in the photos folder > click Select Folder
-- Make sure that single cameras and add all images to one chunk are selected
-- Click OK
+- Make sure that single cameras and add all images to one chunk are selected > Click OK
 - Click Save
 
 Next, we need to delete the photos that include the sticky notes or index cards since we don’t want to use these in our model creation. 

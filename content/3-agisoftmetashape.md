@@ -53,7 +53,7 @@ Next, we need to delete the photos that include the sticky notes or index cards 
 - Single click on a photo with a sticky note or index card
 - Click the X icon and click Yes to remove one camera
 - Repeat these steps to delete all of the photos with sticky notes or index cards in Chunk 1
-- Repeat *all* steps for Chunk 2
+- Repeat *all steps* for Chunk 2
 - Click Save once you've deleted all of the photos with sticky notes/index cards in Chunk 1 and Chunk 2
 
 <!--#### Estimate image quality

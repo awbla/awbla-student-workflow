@@ -33,13 +33,13 @@ nav: Agisoft
 
 {:#addphotos}
 ### Step 2: Add photos to the Agisoft Project
-- Double click Chunk 1 > click Worlkflow > click Add Folder
+- Double click Chunk 1 > click Workflow > click Add Folder
 - Navigate to the correct 3D artifact photos folder
 - Double click on Processed and double click on the correct item's folder
 - Single click on the first folder in the photos folder > click Select Folder
 - Make sure that single cameras and add all images to one chunk are selected
 - Click OK
-- Double click Chunk 2 > click Worlkflow > click Add Folder
+- Double click Chunk 2 > click Workflow > click Add Folder
 - Navigate to the correct 3D artifact photos folder
 - Double click on Processed and double click on the correct item's folder
 - Single click on the second folder in the photos folder > click Select Folder

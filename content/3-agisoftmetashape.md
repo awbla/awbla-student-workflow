@@ -236,7 +236,7 @@ Click the Model Shaded icon to see the results.
     - You might need to use the navigation icon and navigation ball to tilt the model so you can delete any remaining portion of the base
 - Once we’ve deleted the base on both sides of the model, we need to delete the stray points
 - Click the Zoom out icon to and zoom out until you see the entire bounding box
-- Click the Selection icon > choose Freeform select
+- Click the Selection icon > choose Freeform selection
 - Draw a shape around the stray points you want to delete
 - Once you are happy with the shape and area you’ve highlighted, press Delete on your keyboard
 - Continue to delete any stray points that appear in the bounding box

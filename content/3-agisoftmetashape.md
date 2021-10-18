@@ -130,10 +130,7 @@ The masking process should take approximately 5 minutes.
 
 Double click on a few images in the Photos section to review the mask application. Don’t worry if the base is still visible or if small portions of the artifacts have been masked, this will be fixed later in the 3D model creation process.
 
-<!--Once the masks are applied, double click on an image in the Photos section to review the mask application.
-
-- If not enough of the background is masked, follow the [Import masks](#importmasks) instructions but raise the tolerance to 30
-- If too much of the artifact is masked, follow the [Import masks](#importmasks) instructions but lower the tolerance to 10-->
+However, if too much of the artifact is masked, complete the [Import masks](#importmasks) tasks again but *lower the tolerance to 10.*
 
 {:#alignphotos}
 ### Step 4: Align photos

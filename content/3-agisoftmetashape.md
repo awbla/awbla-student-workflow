@@ -9,7 +9,7 @@ nav: Agisoft
 - [Step 3: Import a background image/mask](#importmasks) 
 - [Step 4: Align photos](#alignphotos)
 - [Step 5: Refine the bounding box](#refinebounding)
-- [Step 6: Build the dense cloud](#dense)
+- [Step 6: Build the dense cloud](#builddense)
 - [Step 7: Build the mesh](#buildmesh)
 - [Step 8: Edit the mesh](#editmesh)
 - [Step 9: Apply masks from the model](#masksfrommodel)
@@ -162,7 +162,7 @@ Photo alignment should take between 2 to 15 minutes, depending on the number of 
 
 At the top of the screen, click Model to navigate to the initial model that Agisoft created during image alignment. 
 
-{:#refinebounding)
+{:#refinebounding}
 ### Step 5: Refine the bounding box
 - Double click Chunk 1 > double click on the model to center it within the screen
 - Use the navigation ball to spin and flip the model to make sure it is contained within the bounding box
@@ -171,7 +171,7 @@ At the top of the screen, click Model to navigate to the initial model that Agis
 - After you've refined the bounding box for Chunk 1, click Save
 - Repeat *all steps* for Chunk 2 > click Save
 
-{:#dense}
+{:#builddense}
 ### Step 6: Build dense cloud
 - Click Workflow > Batch Process
 - Uncheck the box for previous job, if necessary
@@ -350,7 +350,7 @@ Placing markers allow us to embed the size of the object into the file so that i
 If the model disappeared, use the Zoom out icon to zoom out until you see it, double click on the model to center it within your screen, then use the Zoom in icon to zoom back in. You can now see the scale bar we have created.
 
 {:#alignmodel}
-### Step 15: Align model orientation
+### Step 14: Align model orientation
 Sometimes, the orientation of the model can appear correct in Agisoft Metashape but incorrect when exported.
 
 To align the model orientation:

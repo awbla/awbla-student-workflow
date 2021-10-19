@@ -62,7 +62,7 @@ Next, we need to delete the photos that include the sticky notes or index cards 
 
 Image quality will appears in the "Quality" column. Agisoft recommends disabling images with quality less than 0.5 units.
 
-Keep the Agisoft Metshape Project open.
+Keep the Agisoft Metashape Project open.
 
 After adding photos to the Agisoft Project, we have to create *masks* to hide the background that appears in our photogrammetry images.
 
@@ -115,7 +115,7 @@ The following documentation on creating a mask is adapted from Samantha Porter's
 - Confirm that All chunks is selected in the second dropdown box
 - In the Parameters box, set:
     - Method = From background
-    - Operation = Replacemnt
+    - Operation = Replacement
     - Tolerance = 20
 - Double click in the filename template box and type the file name for the mask
     - For example: Obsidian-Powder_mask-pixels.jpg
@@ -322,7 +322,7 @@ Placing markers allow us to embed the size of the object into the file so that i
 - Click on five photos from a high view that are right next to each other
 - Click Tools > Markers > Detect Markers
 - In the Parameters section, set:
-    - Marker type = Corss (non coded)
+    - Marker type = Cross (non coded)
     - Tolerance = 15
     - Maximum residual (pix) = 10
     - Process selected cameras only = Box checked/selected
@@ -331,13 +331,13 @@ Placing markers allow us to embed the size of the object into the file so that i
 - Navigate to the Reference section
 - Hold down the CTRL key on your keyboard
 - Click on points 1 and 3 to highlight them
-- Rigth click > click Create Scale Bar
+- Right click > click Create Scale Bar
 - Double click in the newly created Distance box
 - Type 0.12
 - Press Enter on your keyboard
 - Hold down the CTRL key on your keyboard
 - Click on points 2 and 4 to highlight them
-- Rigth click > click Create Scale Bar
+- Right click > click Create Scale Bar
 - Double click in the newly created Distance box
 - Type 0.12
 - Press Enter on your keyboard

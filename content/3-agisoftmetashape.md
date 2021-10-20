@@ -330,7 +330,7 @@ Placing markers allow us to embed the size of the object into the file so that i
 - Once the process is complete, click Save
 
 Then we have determine which of the markers/points are directly opposite from each other.
-- Navigate to the Photos section > Double click on one of the photos that you applied the markers too
+- Navigate to the Photos section > Double click on one of the photos that you applied the markers to
 - Review the photo and make a note about which points are directly oppposite from each other
     - In this model, points 1 and 3 are directly opposite from each other and points 2 and 4 are directly opposite from each other
 

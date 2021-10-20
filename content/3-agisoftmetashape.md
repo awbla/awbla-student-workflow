@@ -328,15 +328,24 @@ Placing markers allow us to embed the size of the object into the file so that i
     - Process selected cameras only = Box checked/selected
 - Click OK
 - Once the process is complete, click Save
+
+Then we have determine which of the markers/points are directly opposite from each other.
+- Navigate to the Photos section > Double click on one of the photos that you applied the markers too
+- Review the photo and make a note about which points are directly oppposite from each other
+    - In this model, points 1 and 3 are directly opposite from each other and points 2 and 4 are directly opposite from each other
+
+Once you make note of the points that are directly oppposite from each other
 - Navigate to the Reference section
 - Hold down the CTRL key on your keyboard
-- Click on points 1 and 3 to highlight them
+- Click on the first two points that are directly opposite from each other to highlight them
+    - In this example, that is point 1 and point 3
 - Right click > click Create Scale Bar
 - Double click in the newly created Distance box
 - Type 0.12
 - Press Enter on your keyboard
 - Hold down the CTRL key on your keyboard
-- Click on points 2 and 4 to highlight them
+- Click on the next two points that are directly opposite from each other to highlight them
+    - In this example, that is point 2 and point 4
 - Right click > click Create Scale Bar
 - Double click in the newly created Distance box
 - Type 0.12

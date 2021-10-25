@@ -124,7 +124,7 @@ If the object falls over you must restart the whole series for that View (aka re
 
 __If something goes wrong part of the way through a Level, take a photo of the ERROR card and then start that Level over. If the object falls over you need to repeat all levels for that View.__
 
-#### Foldio
+#### Foldio Notes
 
 + Make sure you are using the 24 photos setting. 
 + Make sure you have positioned the turntable with the zero degree mark facing the front of the shot BUT DO NOT move it if you have already taken shots. 

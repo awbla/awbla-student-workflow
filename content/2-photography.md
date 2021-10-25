@@ -52,6 +52,7 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 - Transport tray/plate for transport to studio from dusting space
 - Mini wooden blocks for adjusting lights
 - Start, Stop, and ERROR cards
+- Tape measure or ruler
 
 ### Views and Levels
  

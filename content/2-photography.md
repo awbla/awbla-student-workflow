@@ -28,9 +28,9 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 
 -Our ISO must be below 400, ideally at: 200, 250, or 320. Do not go above 320 without consulting the digitization manager.
 
--Our shutter speed is usually 1/40 or 1/60. Anything slower than 1/40th is too slow and more light needs to be added, a lower f stop used, or a higher film speed.
+-Our shutter speed is usually 1/40 or 1/60. Anything slower than 1/40th is too slow and more light needs to be added, a lower f stop used, or a higher film speed used.
 
--The camera needs to be in remote operation mode to be able to be controlled by the Foldio app.
+-Rememebr that the camera needs to be in remote operation mode to be able to be controlled by the Foldio app. Once put into this mode it should stay in it unless the mode is cleared. This should already be set and good to go and is here largely for reference.
 
 -Shooting in Aperture priority mode is recommended.
 
@@ -46,6 +46,7 @@ Citation: Julia Haines. “Photogrammetry Workflow using a DSLR Camera” [blog 
 
 ________
 
+*redo these* 
 - [Step 1: Equipment choice and setting up your photo station](#step1)
 - [Step 2: Get to know the settings on your camera](#step2)
 - [Step 3: Taking Photos](#step3)
@@ -68,64 +69,51 @@ ________
 
 ### Views and Levels
 
-Each artifact will need 6, 360 rotations to capture it. To help keep track of these we use the same terminology consistenly as follows:
+Each artifact will need 6, 360 rotations to capture it. To help keep track of these steps and the files we will create in each of them, we use the same terminology consistenly as follows:
 
-Views - Refers to the objects orientation, each shoot will have a View 1, and then a View 2 where the object is flipped.
+Views - This refers to the object's orientation. Each shoot will have a View 1, and then a View 2 where the object is flipped "upside down". Many of our objects don't have an obvious "right side" up so View 1 always means the first orientation we shoot with, and View 2 always means the flipped opposite of that orientation.
 
-Levels - Levels refers to the camera's height. For each View (aka orientation) of the object, we need to take shots at three different camera heights, referred to as levels 1, 2 and 3 respectively. Level 1 is always the horizontal shot, Level 2 is always the medium shot, and Level 3 is always the heighest shot.  
+Levels - Levels refers to the camera's height. For each View (aka orientation) of the object, we need to take shots at three different camera heights, referred to as Levels 1, 2 and 3 respectively. Level 1 is always the horizontal shot, Level 2 is always the medium height shot, and Level 3 is always the heighest shot.  
 
 
 {:#step2}
 ### Camera Fundamentals
 
-__In general, do not change camera settings outside of the aperture (f-stop), shutter speed, and ISO (film speed)__
-
-
-For high quality results, you want to take every photo with exactly the same camera settings so the photographs are consistent when you start working with them in Metashape. This means both taking photos of the object from the same position every time (you’ll change the height of the camera at least three times to take 3 circuits of photos) so that the object is consistently framed in the photograph and adjusting the settings on your camera so that the color, focus, capture settings are the same for every photo. It is important to have a general understanding of how different settings on your DSLR camera can impact your photographs. The following steps will help you set up your camera to produce the crispest image possible with accurate color representation.
+For high quality results, you want to take every photo with exactly the same camera settings so the photographs are consistent when you start working with them in Metashape. This means both taking photos of the object from the same position every time (you’ll change the height of the camera three times to take 3 circuits of photos) so that the object is consistently framed in the photograph and adjusting the settings on your camera so that the color, focus, capture settings are the same for every photo. It is important to have a general understanding of how different settings on your DSLR camera can impact your photographs. The following steps will help you set up your camera to produce the crispest image possible with accurate color representation.
 
 #### Basic Camera Settings
 
 ##### All cameras
-- Set your camera to shoot in RAW.
-- Set mode to Manual or (For beginners, try using Aperture priority—AV on a Canon or A on a Nikon)
+- Set your camera to shoot in RAW. and JPEG
+- Set mode to Manual or for beginners, try using Aperture priority—AV on a Canon.
 - Set to never turn off
 - Tape the lens down with painters’ tape to hold the place of the zoom.
 - If the lens has ‘image stabilization’ or ‘vibration reduction’ turn it OFF (usually a switch on the lens itself.)
-
-##### Optional Adjustments
-- Set camera from live view to grid view
-- Turn off AF beep when using live view (on Canon)
-- Set back button for focus (functionality of half shutter press is transferred to back button)
 - Set the camera to not shoot if no SD or CF card is present.
 
-#### Position your Camera
-It is important to position your camera in the exact environment where you plan on taking photos before you change any of the following settings.
+__In general, do not change the camera settings outside of the aperture (f-stop), shutter speed, and ISO (film speed). Most of the settings as described above have already been set on the camera and will be retained throughout shooting (including power down and power off) unless changed.__
 
-- We suggest starting with your camera and tripod positioned on the same horizontal plane as your object- e.g. your camera should be aligned directly with the center of your object. You’ll move it up and down later. Use a tripod that has an adjustable central pole so that you don’t have to move the feet of the tripod, but just the camera up or down. Make sure you position the central pole in the middle of its height range so that you are able to adjust up or down later. __Picture__
-- Taping where the tripods feet are on the floor can help to make sure you don't move the tripod and is recommended for beginners. __Picture__
-- Check to make sure your camera base is level.
-- Place your object in the center of the turntable and position your camera tripod such that the entire object is visible. __Make sure that when you rotate the object it doesn’t move out of the frame!__ If possible, avoid including the edges of the lightbox or edge of your black background in the photo frame; this will make masking much easier later on.
-- Lighting: You want your object to be as well illuminated as possible while minimizing glare. Experiment with placing the lights and adjusting the heights using the provided mini wooden blocks.
+#### Staging and Camera Adjustments Overview
 
-#### Staging and Camera Adjustments
+You will begin by putting your dusted artifact onto the center of the turntable. Push down on the base of the adhereing clay to make sure there is a good attachment. If the object falls over you will have to likely re-powdered it and for sure redo that photo set (including any proceeding Levels of that View).
 
-Begin by putting your dusted artifact onto the center of the turntable. Push down on the base of the adhereing clay to make sure there is a good attachment. If the object falls over you will have to like repowdered it and for sure redo that photo set.
-
-Each artifact will have 6 complete rotations taken. The first set are three, 360 views of the object, taken from three different heights. We then flip the object upside down, which involves re-powdering and re-attaching it with clay to the turntable, and repeat the process. The end result for each object will be six folder sets that contain the photos comprising each view.
+Each artifact will have 6 complete rotations taken. The first set are 3, 360 views of the object, taken from 3 different heights. We then flip the object upside down, which involves re-powdering and re-attaching it with clay to the turntable, and repeat the process. The end result for each object will be six folder sets that contain the photos comprising each view.
 
 For this process to work correctly, we must hold as many variables identical as possible. Below are lists of what settings will change and when:
 
--For the whole shoot we __must__ use the same:
-__ISO/film speed__
-__Aperture/f-stop__
-__Zoom/focal distance__
-__positioning of the feet of tripod (aka we cannot move the tripod closer or further)__
+__For the whole shoot (all Levels in both Views) we must use the same:__
 
-Practically these steps mean once we start shooting we cannot change the zoom of the camera, either intenbtionally to capture more or less information, or by accident via bumping it. We also must not use a mode that automatically changes the aperture/f-stop. The ISO is the least likely to be changed inadvertently over the coruse of the shoot.
++ISO/film speed
++Aperture/f-stop
++Zoom/focal distance
++positioning of the feet of tripod (aka we cannot move the tripod closer or further)*
 
-For each view of the object these settings will change:
+Practically these steps mean once we start shooting we cannot change the zoom of the camera, either intentionally to capture more or less of the object, or by accident via bumping it. We also must not use a mode that automatically changes the aperture/f-stop. The ISO is the least likely to be changed inadvertently over the coruse of the shoot.
 
-__the focus will change for each view (horizontal, mid, high) but must be held consistent within that view__ __DO NOT use autofocus__
+__For each Level of the object these settings will change:__
+
++the focus will change for each level (horizontal, mid, high) but must be held consistent within that view
++*Do not use autofocus*
 
 Steps:
 1. Place object into center of turntable and scurely adhere to base with clay.
@@ -140,27 +128,47 @@ If the object falls over you must restart the whole series for that View (aka re
 9. Test that there is enough lighting by confirming with a few test shots that the camera is shooting at 1/40 or faster. If you see the camera is doing a lower setting, motion/blur can be introduced by the longer shutter times and you need to get more light.
 10. Set the camera to be in manual focus. The easiest way to do this while getting sharp focus throughout is to have the camera in Autofocus mode and taking a picture with that setting first. Then, __without moving the focus rings__ set the lens back to manual focus. Your shot should now be at the same autofocus exposure, but set in manual mode. What this means is that the camera won't autofocus on each turn of the base, but instead preserve that original focus throughout.
 11. Open the Foldio App and ensure the camera is connect by clicking Test Shot. If you're using the system for the first time, you may need to connect to the foldio turnable (under settings). Once connected there, click the Camera 360 setting and under "Camera Brand" select Canon. Click "Test Shot" and confirm that the camera has taken a picture.
-12. For the foldio rotate, use the 24 photos setting. Make sure to position the turntable with the zero degree mark facing the front of the shot. The foldio has a setting that accounts for the delay in communicating with the camera. If you notice the camera can't keep up with the base, contact the digitization manager about how to change that timer to a longer amount. 
-13. Allow the foldio rotate to complete a complete 360 rotation of the object. Make sure to use the start and stop markers to indicate when you are starting and stopping each level. For each clay setting you will take a horizontal view, a mid view, and a high view.
-14. Move the camera to a mid height setting, about halfway up the pole that raises the camera head up. __Picture__ 
-15. Repeat the focusing step (Step 10) of switching to Autofocus and then back to manual. __DO NOT CHANGE THE APERTURE or any other settings__. 
-16. Use the foldio app to make a 360 rotation at this second level. 
-17. Make sure to measure the tripod height and make a note of it for when you shoot View 2 - Level 2.
-18. Repeat the process for the highest view. 
-19. Flip the artifact, redust, and start the process over from the horizontal level. The camera will need to be refocused for each level. Do not change other camera settings.
+12. Put the appropriate start card in the picture and use the "test shot" button to take the shot. Then click the autorotate button. 
 
+__If you hear a focusing beep for each rotation of the turntable this is a hint you have accidentally left the camera in autofocus mode and need to reshoot that level after switching from autofocus to manual!!__
+
+Foldio notes- Make sure you are using the 24 photos setting. Make sure you have positioned the turntable with the zero degree mark facing the front of the shot BUT DO NOT move it if you have already taken shots. The foldio has a setting that accounts for the delay in communicating with the camera. If you notice the camera can't keep up with the base, contact the digitization manager about how to change that timer to a longer amount. This can also mean there is a setting off with the camera as the set delay speed should work well with anticipated shutter speeds.
+
+13. Allow the foldio rotate to complete a complete 360 rotation of the object. 
+14. Take a stop photo using the stop card and the "test shot" foldio button to complete this Levels shooting. 
+15. Move the camera to a mid height setting, about halfway up the pole that raises the camera head up. __Picture__ 
+16. Repeat the focusing step (Step 10) of switching to Autofocus and then back to manual. __DO NOT CHANGE THE APERTURE or any other settings__. 
+17. Use the foldio app to make a 360 rotation at this Level (which is View 1 - Level 2). 
+18. Make sure to measure the tripod height and make a note of it for when you shoot View 2 - Level 2.
+19. Repeat the process for the highest view, make sure to raise the camera as high as possible without moving the tripod feet. 
+20. Flip the artifact, re-dust, and start the process over from the horizontal level or the Level 3 highest level (essentially going backward down the levels). The camera will need to be refocused for each level. Do not change other camera settings. When get to View 2 - Level 2, make sure to reference the height you noted form View 1 - Level 2 and attempt to bring the tripod close to that same height.
+
+__If something goes wrong part of the way through a Level, take a photo of the ERROR card and then start that Level over. If the object falls over you need to repeat all levels for that View.__
 
 
 #### Evaluating photos
 Whenever you have a change in the set-up, take a few sample photos and check them on the view screen.
+Things to check:
 
 - Is the object in focus?
-- Is the depth of field deep enough?
-- Check your lighting: Is the object casting any dark shadows?
+- Is the depth of field deep enough? (You can tell this by how many focus points are available to the autofocus)
+- Check your lighting: Is the object casting any dark shadows or bright glares?
 - Are the lights in the shot?
 - Is the image too dark or too light? 
-- Is your camera tripod positioned such that the entire object is visible, and the edges of the lightbox aren’t visible in the frame?
+- Is your camera and tripod positioned such that the entire object is visible, and the edges of the lightbox aren’t visible in the frame?
+- Is the dusting on the object even and absent of any fingerprints?
 - Is the object centered on the turntable so that when you rotate it, it will stay centered in your frame?
-- Is there dust or debris on the background? If so, use the lint roller to get rid of it!
-- Write down your ISO, F/stop and shutter speed settings for the first round of photos in case something happens with the settings when you move your camera to a new angle and change the focus.
+
+#### Processing Photos
+
+Images will need to be transferred from the memory card into our one drive location.
+
+The steps to this are as follows:
+
++Create a blank folder on your desktop and transfer the complete file set(s) over into it.
++Create a copy of the Crabtree Blanks Folder set - which is just six blank folders labeled with the appropriate names (View 1 - Level 1, View 2- Level 2, etc).
++Use the start and stop Levels cards to help you identify what goes where.
++The photographer should move any test shots or whoops/mistakes into a clearly marked folder seperate from the final images for processing.
++Each folder will have 52 files total at a minimum. This includes the JPEGS and RAWS of the 24 rotation shots, plus the JPEGS and RAWs of the Start and Stop shots.
++Upload the final folder set (6 folders all labeled) to the appropriate onedrive location.
 

@@ -112,12 +112,7 @@ If the object falls over you must restart the whole series for that View (aka re
 9. Test that there is enough lighting by confirming with a few test shots that the camera is shooting at 1/40 or faster. If you see the camera is doing a lower setting, motion/blur can be introduced by the longer shutter times and you need to get more light.
 10. Set the camera to be in manual focus. The easiest way to do this while getting sharp focus throughout is to have the camera in Autofocus mode and taking a picture with that setting first. Then, __without moving the focus rings__ set the lens back to manual focus. Your shot should now be at the same autofocus exposure, but set in manual mode. What this means is that the camera won't autofocus on each turn of the base, but instead preserve that original focus throughout.
 11. Open the Foldio App and ensure the camera is connect by clicking Test Shot. If you're using the system for the first time, you may need to connect to the foldio turnable (under settings). Once connected there, click the Camera 360 setting and under "Camera Brand" select Canon. Click "Test Shot" and confirm that the camera has taken a picture.
-12. Put the appropriate start card in the picture and use the "test shot" button to take the shot. Then click the autorotate button. 
-
->>__If you hear a focusing beep for each rotation of the turntable this is a hint you have accidentally left the camera in autofocus mode and need to reshoot that level after switching from autofocus to manual!!__
-
->>Foldio notes- Make sure you are using the 24 photos setting. Make sure you have positioned the turntable with the zero degree mark facing the front of the shot BUT DO NOT move it if you have already taken shots. The foldio has a setting that accounts for the delay in communicating with the camera. If you notice the camera can't keep up with how fast the base is turning, contact the digitization manager about how to change that timer to a longer amount. This can also mean there is a setting off with the camera as the set delay speed should work well with anticipated shutter speeds.
-
+12. Put the appropriate start card in the picture and use the "test shot" button to take the shot. Then click the autorotate button. __If you hear a focusing beep for each rotation of the turntable this is a hint you have accidentally left the camera in autofocus mode and need to reshoot that level after switching from autofocus to manual!!__
 13. Allow the foldio rotate to complete a complete 360 rotation of the object. 
 14. Take a stop photo using the stop card and the "test shot" foldio button to complete this Levels shooting. 
 15. Move the camera to a mid height setting, about halfway up the pole that raises the camera head up. __Picture__ 
@@ -128,6 +123,12 @@ If the object falls over you must restart the whole series for that View (aka re
 20. Flip the artifact, re-dust, and start the process over from the horizontal level or the Level 3 highest level (essentially going backward down the levels). The camera will need to be refocused for each level. Do not change other camera settings. When get to View 2 - Level 2, make sure to reference the height you noted form View 1 - Level 2 and attempt to bring the tripod close to that same height.
 
 __If something goes wrong part of the way through a Level, take a photo of the ERROR card and then start that Level over. If the object falls over you need to repeat all levels for that View.__
+
+#### Foldio
+
++ Make sure you are using the 24 photos setting. 
++ Make sure you have positioned the turntable with the zero degree mark facing the front of the shot BUT DO NOT move it if you have already taken shots. 
++ The foldio has a setting that accounts for the delay in communicating with the camera. If you notice the camera can't keep up with how fast the base is turning, contact the digitization manager about how to change that timer to a longer amount. This can also mean there is a setting off with the camera as the set delay speed should work well with anticipated shutter speeds.
 
 #### Evaluating photos
 Whenever you have a change in the set-up, take a few sample photos and check them on the view screen.

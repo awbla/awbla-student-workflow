@@ -85,7 +85,7 @@ Each artifact will have 6 complete rotations taken. The first set are 3, 360 vie
 
 For this process to work correctly, we must hold as many variables identical as possible. Below are lists of what settings will change and when:
 
-*For the whole shoot (all Levels in both Views) we must use the same:*
+__For the whole shoot (all Levels in both Views) we must use the same:__
  
 + ISO/film speed
 + Aperture/f-stop

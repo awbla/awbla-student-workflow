@@ -114,9 +114,9 @@ If the object falls over you must restart the whole series for that View (aka re
 11. Open the Foldio App and ensure the camera is connect by clicking Test Shot. If you're using the system for the first time, you may need to connect to the foldio turnable (under settings). Once connected there, click the Camera 360 setting and under "Camera Brand" select Canon. Click "Test Shot" and confirm that the camera has taken a picture.
 12. Put the appropriate start card in the picture and use the "test shot" button to take the shot. Then click the autorotate button. 
 
->__If you hear a focusing beep for each rotation of the turntable this is a hint you have accidentally left the camera in autofocus mode and need to reshoot that level after switching from autofocus to manual!!__
+>>__If you hear a focusing beep for each rotation of the turntable this is a hint you have accidentally left the camera in autofocus mode and need to reshoot that level after switching from autofocus to manual!!__
 
->Foldio notes- Make sure you are using the 24 photos setting. Make sure you have positioned the turntable with the zero degree mark facing the front of the shot BUT DO NOT move it if you have already taken shots. The foldio has a setting that accounts for the delay in communicating with the camera. If you notice the camera can't keep up with the base, contact the digitization manager about how to change that timer to a longer amount. This can also mean there is a setting off with the camera as the set delay speed should work well with anticipated shutter speeds.
+>>Foldio notes- Make sure you are using the 24 photos setting. Make sure you have positioned the turntable with the zero degree mark facing the front of the shot BUT DO NOT move it if you have already taken shots. The foldio has a setting that accounts for the delay in communicating with the camera. If you notice the camera can't keep up with how fast the base is turning, contact the digitization manager about how to change that timer to a longer amount. This can also mean there is a setting off with the camera as the set delay speed should work well with anticipated shutter speeds.
 
 13. Allow the foldio rotate to complete a complete 360 rotation of the object. 
 14. Take a stop photo using the stop card and the "test shot" foldio button to complete this Levels shooting. 

@@ -149,12 +149,12 @@ Images will need to be transferred from the memory card into our one drive locat
 
 The steps to this are as follows:
 
-+Create a blank folder on your desktop and transfer the complete file set(s) over into it.
-+Create a copy of the Crabtree Blanks Folder set - which is just six blank folders labeled with the appropriate names (View 1 - Level 1, View 2- Level 2, etc).
-+Use the start and stop Levels cards to help you identify what goes where.
-+The photographer should move any test shots or whoops/mistakes into a clearly marked folder seperate from the final images for processing.
-+Each folder will have 52 files total at a minimum. This includes the JPEGS and RAWS of the 24 rotation shots, plus the JPEGS and RAWs of the Start and Stop shots.
-+Upload the final folder set (6 folders all labeled) to the appropriate onedrive location.
++ Create a blank folder on your desktop and transfer the complete file set(s) over into it.
++ Create a copy of the Crabtree Blanks Folder set - which is just six blank folders labeled with the appropriate names (View 1 - Level 1, View 2- Level 2, etc).
++ Use the start and stop Levels cards to help you identify what goes where.
++ The photographer should move any test shots or whoops/mistakes into a clearly marked folder seperate from the final images for processing.
++ Each folder will have 52 files total at a minimum. This includes the JPEGS and RAWS of the 24 rotation shots, plus the JPEGS and RAWs of the Start and Stop shots.
++ Upload the final folder set (6 folders all labeled) to the appropriate onedrive location.
 
 ________
 

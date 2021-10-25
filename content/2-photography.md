@@ -1,5 +1,5 @@
 ---
-title: 2D Photography / 3D Photogrammetry
+title: 3D Photogrammetry
 nav: Photography
 ---
 ________

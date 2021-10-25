@@ -3,7 +3,6 @@ title: 3D Photogrammetry
 nav: Photography
 ---
 ________
-
 ### Background
 
 Photogrammetry involves taking overlapping, precise photos of the object being digitized. This usually involves using a digital single lens reflex camera - usually called a DSLR, often in manual mode, to create a precise set of overlapping images. 
@@ -38,20 +37,7 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 
 -Make sure to use the start and stop cards for each Level, as otherwise it is very confusing to sort the files later.
 
---------------
-
-The following documentation is adapted from Julia Haines’ [Photogrammetry Workflow using a DSLR Camera](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/) (The University of Virginia Library Scholars' Lab).
-
-Citation: Julia Haines. “Photogrammetry Workflow using a DSLR Camera” [blog post]. Published September 24, 2019, [University of Virginia Library Scholars' Lab](https://scholarslab.lib.virginia.edu/blog/). [https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/). Accessed on August 25, 2021.
-
-________
-
-*redo these* 
-- [Step 1: Equipment choice and setting up your photo station](#step1)
-- [Step 2: Get to know the settings on your camera](#step2)
-- [Step 3: Taking Photos](#step3)
-
-{:#step1}
+-------------
 
 #### Necessary Equipment
 
@@ -75,8 +61,6 @@ Views - This refers to the object's orientation. Each shoot will have a View 1, 
 
 Levels - Levels refers to the camera's height. For each View (aka orientation) of the object, we need to take shots at three different camera heights, referred to as Levels 1, 2 and 3 respectively. Level 1 is always the horizontal shot, Level 2 is always the medium height shot, and Level 3 is always the heighest shot.  
 
-
-{:#step2}
 ### Camera Fundamentals
 
 For high quality results, you want to take every photo with exactly the same camera settings so the photographs are consistent when you start working with them in Metashape. This means both taking photos of the object from the same position every time (you’ll change the height of the camera three times to take 3 circuits of photos) so that the object is consistently framed in the photograph and adjusting the settings on your camera so that the color, focus, capture settings are the same for every photo. It is important to have a general understanding of how different settings on your DSLR camera can impact your photographs. The following steps will help you set up your camera to produce the crispest image possible with accurate color representation.
@@ -91,7 +75,7 @@ For high quality results, you want to take every photo with exactly the same cam
 - If the lens has ‘image stabilization’ or ‘vibration reduction’ turn it OFF (usually a switch on the lens itself.)
 - Set the camera to not shoot if no SD or CF card is present.
 
-__In general, do not change the camera settings outside of the aperture (f-stop), shutter speed, and ISO (film speed). Most of the settings as described above have already been set on the camera and will be retained throughout shooting (including power down and power off) unless changed.__
+__In general, do not change the camera settings outside of the aperture (f-stop), exposure, shutter speed, and ISO (film speed). Most of the settings as described above have already been set on the camera and will be retained throughout shooting (including power down and power off) unless changed.__
 
 #### Staging and Camera Adjustments Overview
 
@@ -101,26 +85,26 @@ Each artifact will have 6 complete rotations taken. The first set are 3, 360 vie
 
 For this process to work correctly, we must hold as many variables identical as possible. Below are lists of what settings will change and when:
 
-__For the whole shoot (all Levels in both Views) we must use the same:__
-
-+ISO/film speed
-+Aperture/f-stop
-+Zoom/focal distance
-+positioning of the feet of tripod (aka we cannot move the tripod closer or further)*
+*For the whole shoot (all Levels in both Views) we must use the same:*
+ 
++ ISO/film speed
++ Aperture/f-stop
++ Zoom/focal distance
++ positioning of the feet of tripod (aka we cannot move the tripod closer or further)*
 
 Practically these steps mean once we start shooting we cannot change the zoom of the camera, either intentionally to capture more or less of the object, or by accident via bumping it. We also must not use a mode that automatically changes the aperture/f-stop. The ISO is the least likely to be changed inadvertently over the coruse of the shoot.
 
 __For each Level of the object these settings will change:__
 
-+the focus will change for each level (horizontal, mid, high) but must be held consistent within that view
-+*Do not use autofocus*
++ the focus will change for each level (horizontal, mid, high) but must be held consistent within that view
++ *Do not use autofocus*
 
-Steps:
+Shooting Steps:
 1. Place object into center of turntable and scurely adhere to base with clay.
 If the object falls over you must restart the whole series for that View (aka redo all three heights).
 2. Power lights up to maximum brightness using the controller and place to light the object.
 3. Position the camera so it is exactly level with the object. __Picture__
-4. Adjust the camera to Aperture priority mode and set the aperture to F/11 or F/13.
+4. Adjust the camera to Aperture priority mode and set the aperture to F/11 or F/13. Set the exposure to one stop over the "ideal/target" exposed range. In this mode the camera will hold the Aperture at the set point (F/11 or F/13) and then automatically adjust the shutter speed to create an image that is one stop over the default middle exposure. Make sure the shutter speed it's thinking it will use makes sense and is not below 1/30th of a second. If it is, that usually means the lights aren't close enough.
 5. Test how well the camera is focusing by using the autozoom and seeing how many points register as focusing by half way depressing the shutter or touching the touch screen. 
 6. If not enough appears to be in focus, adjust the tripod's distance from the camera or adjust the zoom on the camera. Do not go below 24mm on the zoom. Expect to be about around 50-75mm most of the time.
 7. Once you have achieved satisfactory focusing options, test that the tripod distance will work at the more extreme angle by raising the tripod to the max height and more extreme top down view angle. __Picture__. 
@@ -144,7 +128,6 @@ Foldio notes- Make sure you are using the 24 photos setting. Make sure you have 
 20. Flip the artifact, re-dust, and start the process over from the horizontal level or the Level 3 highest level (essentially going backward down the levels). The camera will need to be refocused for each level. Do not change other camera settings. When get to View 2 - Level 2, make sure to reference the height you noted form View 1 - Level 2 and attempt to bring the tripod close to that same height.
 
 __If something goes wrong part of the way through a Level, take a photo of the ERROR card and then start that Level over. If the object falls over you need to repeat all levels for that View.__
-
 
 #### Evaluating photos
 Whenever you have a change in the set-up, take a few sample photos and check them on the view screen.
@@ -171,4 +154,11 @@ The steps to this are as follows:
 +The photographer should move any test shots or whoops/mistakes into a clearly marked folder seperate from the final images for processing.
 +Each folder will have 52 files total at a minimum. This includes the JPEGS and RAWS of the 24 rotation shots, plus the JPEGS and RAWs of the Start and Stop shots.
 +Upload the final folder set (6 folders all labeled) to the appropriate onedrive location.
+
+________
+
+
+This documentation was adapated with permission from the creator Julia Haines’ [Photogrammetry Workflow using a DSLR Camera](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/) (The University of Virginia Library Scholars' Lab).
+
+Citation: Julia Haines. “Photogrammetry Workflow using a DSLR Camera” [blog post]. Published September 24, 2019, [University of Virginia Library Scholars' Lab](https://scholarslab.lib.virginia.edu/blog/). [https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/). Accessed on August 25, 2021.
 

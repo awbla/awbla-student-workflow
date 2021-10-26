@@ -42,25 +42,35 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 
 - DSLR Camera
 - Tripod
-- Foldio studio set with photobooth w/backdrop, lights, extra lights, and turntable
+- Foldio studio set with photobooth that includes the backdrop, lights, extra lights, and turntable
 - IPad with Foldio App configured
 - Level 
 - Blue Painter’s tape
 - Artifact
-- Clay 
+- Clay/Rubber eraser 
 - Dusting medium and materials
-- Transport tray/plate for transport to studio from dusting space
+- Transport tray/plate for transporting artifact from dusting space to studio
 - Mini wooden blocks for adjusting lights
 - Start, Stop, and ERROR cards
 - Tape measure or ruler
 
 ### Views and Levels
  
-Each artifact will need 6, 360 rotations to fully capture it to create a digital model. To help keep track of these steps and the files we will create in each of them, we use the same terminology consistenly as follows:
+We will need to take 6 sets of photos, each with 360 degree rotation in order to fully capture the artifact and create a digital model.<!--Each artifact will need 6, 360 degree rotations to fully capture it to create a digital model.--> To help keep track of these sets and the files we will create in each of them, we will use the same terminology throughout the process:
 
-Views - This refers to the object's orientation. Each shoot will have a View 1, and then a View 2 where the object is flipped "upside down". Many of our objects don't have an obvious "right side" up so View 1 always means the first orientation we shoot with, and View 2 always means the flipped opposite of that orientation.
+#### Views
+This refers to the object's orientation. Each shoot will have a View 1, where the object is "right side up," and  a View 2, where the object is flipped "upside down." Many of our objects don't have an obvious "right side up," so View 1 always means the first orientation we shoot with. While View 2 always means the flipped opposite, or "upside down" version, of that orientation.
 
-Levels - Levels refers to the camera's height. For each View (aka orientation) of the object, we need to take shots at three different camera heights, referred to as Levels 1, 2 and 3 respectively. Level 1 is always the horizontal shot, Level 2 is always the medium height shot, and Level 3 is always the heighest shot.  
+#### Levels
+Levels refers to the camera's height. For each View of the object (aka orientation), we need to take shots at 3 different camera heights, referred to as Levels 1, 2, and 3 respectively. Level 1 is always the horizontal shot, Level 2 is always the medium height shot, and Level 3 is always the heighest shot.
+
+Once you finish taking photos of an artifact, you will have the 6 sets of photos below:
+- View 1: Level 1
+- View 1: Level 2
+- View 1: Level 3
+- View 2: Level 1
+- View 2: Level 2
+- View 3: Level 3
 
 ### Camera Fundamentals
 

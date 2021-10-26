@@ -23,19 +23,19 @@ Those who aren't familiar with manual studio photography should review the follo
 
 Now that you've familiarized yourself with these concepts, keep in mind these settings for our purposes:
 
--We aim for an F/Stop around F/13 or F/11. 
+- We aim for an F/Stop around F/13 or F/11. 
 
--Our ISO must be below 400, ideally at: 200, 250, or 320. Do not go above 320 without consulting the digitization manager.
+- Our ISO must be below 400, ideally at: 200, 250, or 320. Do not go above 320 without consulting the digitization manager.
 
--Our shutter speed is usually 1/40 or 1/60. Anything slower than 1/40th is too slow and more light needs to be added, a lower f stop used, or a higher film speed used.
+- Our shutter speed is usually 1/40 or 1/60. Anything slower than 1/40th is too slow and more light needs to be added, a lower f stop used, or a higher film speed used.
 
--Remember that the camera needs to be in remote operation mode to be able to be controlled by the Foldio app. Once put into this mode it should stay in it unless the mode is cleared. This should already be set and good to go and is here largely for reference.
+- Remember that the camera needs to be in remote operation mode to be able to be controlled by the Foldio app. Once put into this mode it should stay in it unless the mode is cleared. This should already be set and good to go and is here largely for reference.
 
--Shooting in Aperture priority mode is recommended.
+- Shooting in Aperture priority mode is recommended.
 
--Make sure to position the turntable with the zero degree mark facing the front of the shot.
+- Make sure to position the turntable with the zero degree mark facing the front of the shot.
 
--Make sure to use the start and stop cards for each Level, as otherwise it is very confusing to sort the files later.
+- Make sure to use the start and stop cards for each Level, as otherwise it is very confusing to sort the files later.
 
 -------------
 ### Necessary Equipment

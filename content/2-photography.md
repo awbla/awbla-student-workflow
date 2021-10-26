@@ -14,7 +14,7 @@ Photogrammetry involves taking overlapping, precise photos of the object being d
 - [Photogrammetry Steps](#photogrammetrysteps)
 - [Foldio Notes](#foldionotes)
 - [Evaluating Photos](#evaluatingphotos)
-- [Processing Photos](#processingphotos)
+- [Transferring Photos](#transferringphotos)
 
 Those who aren't familiar with manual studio photography should review the following links:
 - [Photo basics video on YouTube](https://youtu.be/mEDrpDl4bsw?t=71)
@@ -207,15 +207,15 @@ Things to check:
 
 -------------
 
-{:#processingphotos}
-### Processing Photos
-Images will need to be transferred from the memory card to Desktop then to the appropriate item's folder in the AWBLA OneDrive folder.
+{:#transferringphotos}
+### Transferring Photogrammetry Photos
+Images taken during photogrammetry will need to be transferred from the memory card to the Desktop, then to the appropriate item's folder in the AWBLA OneDrive folder.
 
 The steps to this are as follows:
 - Transfer the photos from the memory card to the Desktop
    - Create a blank folder on the Desktop
    - Transfer the complete file set(s) over into it.
-- Copy the *Crabtree Blanks Folder* set and paste it onto the Desktop
+- Copy the *Crabtree Photogrammetry Blanks* folder and paste it onto the Desktop
    - This folder set is organized as follows:
       - Test Shots-Errors
       - RAW
@@ -238,9 +238,9 @@ The steps to this are as follows:
             - V2-Level 3
 - Open the Desktop folder that includes the photos
 - Review the photos, using the start and stop Levels cards to identify the different views and levels
-- Open the *Crabtree Blanks Folder* on the Desktop
+- Open the *Crabtree Photogrammetry Blanks* folder on the Desktop
 - Move any test shots or errors/whoops/mistakes shots into the *Test Shots-Errors* folder in the *Crabtree Blanks Folder* on the Desktop
-- Copy the remaining photos, including the Start and Stop shots, into their appropriate folders within the *Crabtree Blanks Folder*
+- Copy the remaining photos, including the Start and Stop shots, into their appropriate folders within the *Crabtree Photogrammetry Blanks* folder
    - Copy the RAW photos (.cr2 file format) into the appropriate View and Level subfolders within the RAW parent folder
    - Copy the JPEG photos (.jpeg file format) into the appropriate View and Level subfolders within the Processed-JPEG parent folderinto their appropriate View and Level folders 
 - Each of the sub-folders, like Processed-JPEG > View 1 > V1-Level 1, will have at least 26 files total

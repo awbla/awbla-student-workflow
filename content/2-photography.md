@@ -41,6 +41,7 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 - Make sure to position the turntable with the zero degree mark facing the front of the shot.
 
 - Make sure to use the Start and Stop cards for each Level; otherwise it is very confusing to sort the files later.
+
 -------------
 
 {:#equipment}
@@ -59,6 +60,7 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 - Mini wooden blocks for adjusting lights
 - Start, Stop, and ERROR cards
 - Tape measure or ruler
+
 -------------
 
 {:#viewslevels}
@@ -79,6 +81,7 @@ Once you finish taking photos of an artifact, you will have the 6 sets of photos
 - View 2: Level 1
 - View 2: Level 2
 - View 3: Level 3
+
 -------------
 
 {#:camerafundamentals}
@@ -128,6 +131,7 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
 ##### These settings will change for each *Level* of the shoot
 - the focus will change for each level (horizontal, mid, high) but must be held consistent within that view <!--The focus will change with each level (horizontal, medium, highest), but must be held consistent within that view-->
 - *Do not use autofocus*
+
 -------------
 
 {:#photogrammetrysteps}
@@ -173,6 +177,7 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
    - reference the height you noted form View 1 - Level 2 and attempt to bring the tripod close to that same height.
 
 **If something goes wrong part of the way through a Level, take a photo of the ERROR card and then start that Level over. If the object falls over you need to repeat all levels for that View.**
+
 -------------
 
 {:#foldionotes}
@@ -182,6 +187,7 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
 - The foldio has a setting that accounts for the delay in communicating with the camera. 
    - If you notice the camera can't keep up with how fast the base is turning, contact the Digitization Manager about how to change that timer to a longer amount.
    - This can also mean there is a setting off with the camera as the set delay speed should work well with anticipated shutter speeds.
+  
 -------------
 
 {:#evaluatingphotos}
@@ -196,6 +202,7 @@ Things to check:
 - Is your camera and tripod positioned such that the entire object is visible, and the edges of the lightbox aren’t visible in the frame?
 - Is the dusting on the object even and absent of any fingerprints?
 - Is the object centered on the turntable so that when you rotate it, it will stay centered in your frame?
+
 -------------
 
 {:#processingphotos}
@@ -237,6 +244,7 @@ The steps to this are as follows:
 - Each of the sub-folders, like Processed-JPEG > View 1 > V1-Level 1, will have at least 26 files total
    - This includes the 24 rotation shots, plus the Start and Stop shots
 - Upload the final folder set (1 Test Shots-Errors folder, 1 Raw folder with 8 sub-folders, and 1 Processed-JPEG folder with 8 subfolders) to the appropriate item's folder in the AWBLA OneDrive folder.
+
 -------------
 
 This documentation was adapted with permission from the creator Julia Haines’ [Photogrammetry Workflow using a DSLR Camera](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/) (The University of Virginia Library Scholars' Lab).

@@ -17,7 +17,7 @@ After scanning and photography is complete, it is necessary to process the scans
 - [Adding Scanned Images to OneDrive](#addimages)
 - [Adding 2D Photos to OneDrive](#add2dphotos)-->
 - [Adding Photogrammetry Photos to OneDrive](#add3Dphotos)
-<!-- - [Adding 3D Projects to OneDrive](#add3Dprojects)-->
+<!-- - [Adding 3D Agisoft Projects to OneDrive](#add3Dprojects)-->
 
 ### Processing Scans
 {:#images}
@@ -76,8 +76,8 @@ After scanning and photography is complete, it is necessary to process the scans
 #### Adding 2D Photos to OneDrive-->
 
 {:#add3Dphotos}
-#### Adding Photogrammetry Photos to OneDrive]
-Images will need to be transferred from the memory card to Desktop then to the appropriate item's folder in the AWBLA OneDrive folder.
+#### Adding Photogrammetry Photos to OneDrive
+Images taken during photogrammetry will need to be transferred from the memory card to the Desktop, then to the appropriate item's folder in the AWBLA OneDrive folder.
 
 The steps to this are as follows:
 - Transfer the photos from the memory card to the Desktop
@@ -116,4 +116,4 @@ The steps to this are as follows:
 - Upload the final folder set (1 Test Shots-Errors folder, 1 Raw folder with 8 sub-folders, and 1 Processed-JPEG folder with 8 subfolders) to the appropriate item's folder in the AWBLA OneDrive folder.
 
 <!--{:#add3Dprojects}
-#### [Adding 3D Projects to OneDrive]-->
+#### [Adding 3D Agisoft Projects to OneDrive]-->

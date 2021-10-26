@@ -84,7 +84,7 @@ Once you finish taking photos of an artifact, you will have the 6 sets of photos
 
 -------------
 
-{#:camerafundamentals}
+{:#camerafundamentals}
 ### Camera Fundamentals
 - [Basic Camera Settings](#basiccamerasettings)
 - [Staging and Camera Adjustments Overview](#stagingadjustments)
@@ -95,7 +95,7 @@ This means: 1) keeping the object and camera in the same position every time you
 
 It is important to have a general understanding of how different settings on the DSLR camera can impact your photographs. The following steps will help you set up the camera to produce the crispest image possible with accurate color representation.
 
-{#:basiccamerasettings}
+{:#basiccamerasettings}
 #### Basic Camera Settings
 
 ##### All cameras

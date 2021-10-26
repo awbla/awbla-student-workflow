@@ -7,18 +7,23 @@ ________
 
 Photogrammetry involves taking overlapping, precise photos of the object being digitized. This usually involves using a digital single lens reflex camera - usually called a DSLR, often in manual mode, to create a precise set of overlapping images. 
 
+- [Key Settings](#keysettings)
+- [Necessary Equipment](#equipment)
+- [Views and Levels](#viewslevels)
+- [Camera Fundamentals](#camerafundamentals)
+- [Photogrammetry Steps](#photogrammetrysteps)
+- [Foldio Notes](#foldionotes)
+- [Evaluating Photos](#evaluatingphotos)
+- [Processing Photos](#processingphotos)
+
 Those who aren't familiar with manual studio photography should review the following links:
+- [Photo basics video on YouTube](https://youtu.be/mEDrpDl4bsw?t=71)
+- [Manual mode cheat sheet how-to guide](https://digital-photography-school.com/shoot-manual-mode-cheat-sheet-beginners/)
+- [What is aperture video](https://www.youtube.com/watch?v=YojL7UQTVhc)
+- [What is ISO](https://www.youtube.com/watch?v=q8cj9Lj9w-g)
+- [What is shutter speed](https://www.youtube.com/watch?v=7R9ZTxoTOSk)
 
-[Photo basics video on YouTube](https://youtu.be/mEDrpDl4bsw?t=71)
-
-[Manual mode cheat sheet how-to guide](https://digital-photography-school.com/shoot-manual-mode-cheat-sheet-beginners/)
-
-[What is aperture video](https://www.youtube.com/watch?v=YojL7UQTVhc)
-
-[What is ISO](https://www.youtube.com/watch?v=q8cj9Lj9w-g)
-
-[What is shutter speed](https://www.youtube.com/watch?v=7R9ZTxoTOSk)
-
+{:#keysettings}
 ### Key Settings
 
 Now that you've familiarized yourself with these concepts, keep in mind these settings for our purposes:
@@ -36,8 +41,9 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 - Make sure to position the turntable with the zero degree mark facing the front of the shot.
 
 - Make sure to use the Start and Stop cards for each Level; otherwise it is very confusing to sort the files later.
-
 -------------
+
+{:#equipment}
 ### Necessary Equipment
 
 - DSLR Camera
@@ -53,7 +59,9 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 - Mini wooden blocks for adjusting lights
 - Start, Stop, and ERROR cards
 - Tape measure or ruler
+-------------
 
+{:#viewslevels}
 ### Views and Levels
  
 We will need to take 6 sets of photos, each with 360 degree rotation in order to fully capture the artifact and create a 3D model.<!--Each artifact will need 6, 360 degree rotations to fully capture it to create a digital model.--> To help keep track of these sets and the files we will create in each of them, we will use the same terminology throughout the process:
@@ -71,13 +79,17 @@ Once you finish taking photos of an artifact, you will have the 6 sets of photos
 - View 2: Level 1
 - View 2: Level 2
 - View 3: Level 3
+-------------
 
+{#:camerafundamentals}
 ### Camera Fundamentals
-
+- [Basic Camera Settings](#basiccamerasettings)
+- [Staging and Camera Adjustments Overview](#stagingadjustments)
 For high quality results, you want to take every photo with exactly the same camera settings so the photographs are consistent when you start working with them in Agisoft Metashape, the software we will use to build the 3D models. This means: 1) keeping the object and camera in the same position every time you take a photo so that the object is consistently framed in the photograph (although the height of the camera will change across each level)<!--taking photos of the object from the same position every time (you’ll change the height of the camera three times to take 3 circuits of photos) so that the object is consistently framed in the photograph,-->, and 2) adjusting the settings on your camera so that the color, focus, capture settings are the same for every photo.
 
 It is important to have a general understanding of how different settings on the DSLR camera can impact your photographs. The following steps will help you set up the camera to produce the crispest image possible with accurate color representation.
 
+{#:basiccamerasettings}
 #### Basic Camera Settings
 
 ##### All cameras
@@ -91,6 +103,7 @@ It is important to have a general understanding of how different settings on the
 
 **Most of the settings described above have already been set on the camera and will be retained throughout shooting (including power down and power off) unless changed. In general, the only camera settings that may need changed are the aperture (F-Stop), exposure, shutter speed, and ISO (film speed).**
 
+{:#stagingadjustments}
 #### Staging and Camera Adjustments Overview
 
 You will begin by putting your dusted artifact onto the center of the turntable. Push down on the base of the adhereing clay/rubber eraser to make sure there is firmly attached to the turntable. If the object falls over, you will have to re-take the photos from that level and any proceeding levels from that view, as well as likely re-powder it. For example, if the object fell over on View 1: Level 3, you would need to repowder it then retake the photos for View 1: Level 1, View 1: Level 2, and View 1: Level 3.
@@ -112,8 +125,10 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
 ##### These settings will change for each *Level* of the shoot
 - the focus will change for each level (horizontal, mid, high) but must be held consistent within that view <!--The focus will change with each level (horizontal, medium, highest), but must be held consistent within that view-->
 - *Do not use autofocus*
+-------------
 
-#### Shooting Steps:
+{:#photogrammetrysteps}
+### Photogrammetry Steps:
 1. Place the object into center of turntable and scurely adhere to the base with clay.
    - If the object falls over you must restart the whole series for that View (aka redo all three heights).
 2. Power lights up to maximum brightness using the controller and move them to light the object.
@@ -155,15 +170,19 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
    - reference the height you noted form View 1 - Level 2 and attempt to bring the tripod close to that same height.
 
 **If something goes wrong part of the way through a Level, take a photo of the ERROR card and then start that Level over. If the object falls over you need to repeat all levels for that View.**
+-------------
 
-#### Foldio Notes
+{:#foldionotes}
+### Foldio Notes
 - Make sure you are using the 24 photos setting. 
 - Make sure you have positioned the turntable with the zero degree mark facing the front of the shot BUT DO NOT move it if you have already taken shots. 
 - The foldio has a setting that accounts for the delay in communicating with the camera. 
    - If you notice the camera can't keep up with how fast the base is turning, contact the Digitization Manager about how to change that timer to a longer amount.
    - This can also mean there is a setting off with the camera as the set delay speed should work well with anticipated shutter speeds.
+-------------
 
-#### Evaluating photos
+{:#evaluatingphotos}
+### Evaluating Photos
 Whenever you have a change in the set-up, take a few sample photos and check them on the view screen.
 Things to check:
 - Is the object in focus?
@@ -174,8 +193,10 @@ Things to check:
 - Is your camera and tripod positioned such that the entire object is visible, and the edges of the lightbox aren’t visible in the frame?
 - Is the dusting on the object even and absent of any fingerprints?
 - Is the object centered on the turntable so that when you rotate it, it will stay centered in your frame?
+-------------
 
-#### Processing Photos
+{:#processingphotos}
+### Processing Photos
 Images will need to be transferred from the memory card to Desktop then to the appropriate item's folder in the AWBLA OneDrive folder.
 
 The steps to this are as follows:
@@ -213,9 +234,7 @@ The steps to this are as follows:
 - Each of the sub-folders, like Processed-JPEG > View 1 > V1-Level 1, will have at least 26 files total
    - This includes the 24 rotation shots, plus the Start and Stop shots
 - Upload the final folder set (1 Test Shots-Errors folder, 1 Raw folder with 8 sub-folders, and 1 Processed-JPEG folder with 8 subfolders) to the appropriate item's folder in the AWBLA OneDrive folder.
-
-________
-
+-------------
 
 This documentation was adapted with permission from the creator Julia Haines’ [Photogrammetry Workflow using a DSLR Camera](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/) (The University of Virginia Library Scholars' Lab).
 

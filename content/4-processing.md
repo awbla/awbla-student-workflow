@@ -1,15 +1,27 @@
 ---
-title: Processing Scans
+title: Processing Scans and Adding Items to OneDrive
 nav: Processing
 topics:
 ---
 
 -----------
-1. [Images](#images)  
-2. [Documents](#documents) 
+### Background
+After scanning and photography is complete, it is necessary to process the scans, add the items to OneDrive for storage, and transfer them to external hard drives for final access and preservation.
 
+#### Processing Scans:
+- [Processing Images](#images)  
+- [Processing Documents](#documents) 
+
+#### Adding Items to OneDrive:
+<!-- - [Adding Documents to OneDrive](#adddocuments)
+- [Adding Scanned Images to OneDrive](#addimages)
+- [Adding 2D Photos to OneDrive](#add2dphotos)-->
+- [Adding Photogrammetry Photos to OneDrive](#add3Dphotos)
+<!-- - [Adding 3D Projects to OneDrive](#add3Dprojects)-->
+
+### Processing Scans
 {:#images}
-### Images
+#### Processing Images
 
 - If it hasn’t been done already, go to the folder for this scanning project (in your personal ‘Scans’ folder) and make two new folders: one named ‘access jpg’, and the other ‘lowres jpg’. 
 - Open Photoshop. Go to File > Automate > Batch. 
@@ -35,9 +47,8 @@ topics:
 
 - After Photoshop has completed the action, make sure all the images have been saved to the correct folder.
 
---------------
 {:#documents}
-### Documents
+#### Processing Documents
 
 - Select the file(s) to be converted from your lowres jpg folder. 
 - Right-click selected items and select either ‘Convert to Adobe PDF’ or ‘Combine supported files in Acrobat’. This will open a window in Adobe Acrobat. 
@@ -52,3 +63,57 @@ topics:
 
 - Wait until Adobe Acrobat completes the command (the document will end up back at the first page). 
 - Save the document as a PDF following the naming rules established under File Naming. 
+
+--------------
+### Adding Items to OneDrive:
+<!-- {:##adddocuments}
+#### Adding Documents to OneDrive
+
+{:#addimages}
+#### Adding Scanned Images to OneDrive
+
+{##add2dphotos}
+#### Adding 2D Photos to OneDrive-->
+
+{:#add3Dphotos}
+#### Adding Photogrammetry Photos to OneDrive]
+Images will need to be transferred from the memory card to Desktop then to the appropriate item's folder in the AWBLA OneDrive folder.
+
+The steps to this are as follows:
+- Transfer the photos from the memory card to the Desktop
+   - Create a blank folder on the Desktop
+   - Transfer the complete file set(s) over into it.
+- Copy the *Crabtree Photogrammetry Blanks* folder and paste it onto the Desktop
+   - This folder set is organized as follows:
+      - Test Shots-Errors
+      - RAW
+         - View 1
+            - V1-Level 1
+            - V1-Level 2
+            - V1-Level 3
+         - View 2
+            - V2-Level 1
+            - V2-Level 2
+            - V2-Level 3
+      - Processed-JPEG
+         - View 1
+            - V1-Level 1
+            - V1-Level 2
+            - V1-Level 3
+         - View 2
+            - V2-Level 1
+            - V2-Level 2
+            - V2-Level 3
+- Open the Desktop folder that includes the photos
+- Review the photos, using the start and stop Levels cards to identify the different views and levels
+- Open the *Crabtree Photogrammetry Blanks* folder on the Desktop
+- Move any test shots or errors/whoops/mistakes shots into the *Test Shots-Errors* folder in the *Crabtree Blanks Folder* on the Desktop
+- Copy the remaining photos, including the Start and Stop shots, into their appropriate folders within the *Crabtree Photogrammetry Blanks* folder
+   - Copy the RAW photos (.cr2 file format) into the appropriate View and Level subfolders within the RAW parent folder
+   - Copy the JPEG photos (.jpeg file format) into the appropriate View and Level subfolders within the Processed-JPEG parent folderinto their appropriate View and Level folders 
+- Each of the sub-folders, like Processed-JPEG > View 1 > V1-Level 1, will have at least 26 files total
+   - This includes the 24 rotation shots, plus the Start and Stop shots
+- Upload the final folder set (1 Test Shots-Errors folder, 1 Raw folder with 8 sub-folders, and 1 Processed-JPEG folder with 8 subfolders) to the appropriate item's folder in the AWBLA OneDrive folder.
+
+<!--{:#add3Dprojects}
+#### [Adding 3D Projects to OneDrive]-->

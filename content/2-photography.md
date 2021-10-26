@@ -72,7 +72,7 @@ We will need to take 6 sets of photos, each with 360 degree rotation in order to
 This refers to the object's orientation. Each shoot will have a View 1, where the object is "right side up," and  a View 2, where the object is flipped "upside down." Many of our objects don't have an obvious "right side up," so View 1 always means the first orientation we shoot with. While View 2 always means the flipped opposite, or "upside down" version, of that orientation.
 
 #### Levels
-Levels refers to the camera's height. For each View of the object (aka orientation), we need to take shots at 3 different camera heights, referred to as Levels 1, 2, and 3 respectively. Level 1 is always the horizontal shot, Level 2 is always the medium height shot, and Level 3 is always the heighest shot.
+Levels refers to the camera's height. For each View of the object (aka orientation), we need to take shots at 3 different camera heights, referred to as Levels 1, 2, and 3 respectively. Level 1 is always the horizontal shot, Level 2 is always the medium height shot, and Level 3 is always the highest shot.
 
 Once you finish taking photos of an artifact, you will have the 6 sets of photos below:
 - View 1: Level 1
@@ -120,7 +120,7 @@ For this process to work correctly, we must keep as many variables consistent ac
 
 Below are details of the settings that will change and when:
 
-##### These settings will stay the same for the whole shoot (all Levels in both Views):
+##### These settings will *stay the same for the whole shoot* (all Levels in both Views):
 - Positioning of the feet of tripod *(aka we cannot move the tripod closer or further)*
 - ISO/film speed
 - Aperture/F-Stop
@@ -128,9 +128,11 @@ Below are details of the settings that will change and when:
 
 Practically these settings mean once we start shooting an artifact, we cannot change the zoom of the camera, either intentionally (to capture more or less of the object) or by accidentally bumping it. We also cannot use a mode that automatically changes the Aperture/F-Stop. The ISO is the least likely to be changed inadvertently over the course of the shoot.
 
-##### These settings will change for each *Level* of the shoot
-- the focus will change for each level (horizontal, mid, high) but must be held consistent within that view <!--The focus will change with each level (horizontal, medium, highest), but must be held consistent within that view-->
-- *Do not use autofocus*
+##### These settings will *change for each Level* of the shoot
+- The height of the camera (horizontal, medium, high)
+- The camera focus for each level (horizontal, medium, high); once you set the camera focus for a View and a Level (like View 1: Level 1), it must remain consistent throughout all pictures at that Level
+   - As discussed in Step 9 below, you will manually set/reset the focus before taking photos at each level
+   - **Do not use autofocus**
 
 -------------
 

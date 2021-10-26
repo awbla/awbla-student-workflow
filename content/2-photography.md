@@ -85,7 +85,10 @@ Once you finish taking photos of an artifact, you will have the 6 sets of photos
 ### Camera Fundamentals
 - [Basic Camera Settings](#basiccamerasettings)
 - [Staging and Camera Adjustments Overview](#stagingadjustments)
-For high quality results, you want to take every photo with exactly the same camera settings so the photographs are consistent when you start working with them in Agisoft Metashape, the software we will use to build the 3D models. This means: 1) keeping the object and camera in the same position every time you take a photo so that the object is consistently framed in the photograph (although the height of the camera will change across each level)<!--taking photos of the object from the same position every time (you’ll change the height of the camera three times to take 3 circuits of photos) so that the object is consistently framed in the photograph,-->, and 2) adjusting the settings on your camera so that the color, focus, capture settings are the same for every photo.
+
+For high quality results, you want to take every photo with exactly the same camera settings so the photographs are consistent when you start working with them in Agisoft Metashape, the software we will use to build the 3D models. 
+
+This means: 1) keeping the object and camera in the same position every time you take a photo so that the object is consistently framed in the photograph (although the height of the camera will change across each level)<!--taking photos of the object from the same position every time (you’ll change the height of the camera three times to take 3 circuits of photos) so that the object is consistently framed in the photograph,-->, and 2) adjusting the settings on your camera so that the color, focus, capture settings are the same for every photo.
 
 It is important to have a general understanding of how different settings on the DSLR camera can impact your photographs. The following steps will help you set up the camera to produce the crispest image possible with accurate color representation.
 

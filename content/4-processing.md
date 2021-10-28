@@ -85,35 +85,37 @@ The steps to this are as follows:
    - Transfer the complete file set(s) over into it.
 - Copy the *Crabtree Photogrammetry Blanks* folder and paste it onto the Desktop
    - This folder set is organized as follows:
-      - Test Shots-Errors
-      - RAW
-         - View 1
-            - V1-Level 1
-            - V1-Level 2
-            - V1-Level 3
-         - View 2
-            - V2-Level 1
-            - V2-Level 2
-            - V2-Level 3
-      - Processed-JPEG
-         - View 1
-            - V1-Level 1
-            - V1-Level 2
-            - V1-Level 3
-         - View 2
-            - V2-Level 1
-            - V2-Level 2
-            - V2-Level 3
+      - Item Name (to be edited by you)
+         - Test Shots-Errors
+         - Raw
+            - View 1
+               - V1-Level 1
+               - V1-Level 2
+               - V1-Level 3
+            - View 2
+               - V2-Level 1
+               - V2-Level 2
+               - V2-Level 3
+         - Processed-JPEG
+            - View 1
+               - V1-Level 1
+               - V1-Level 2
+               - V1-Level 3
+            - View 2
+               - V2-Level 1
+               - V2-Level 2
+               - V2-Level 3
 - Open the Desktop folder that includes the photos
 - Review the photos, using the start and stop Levels cards to identify the different views and levels
 - Open the *Crabtree Photogrammetry Blanks* folder on the Desktop
-- Move any test shots or errors/whoops/mistakes shots into the *Test Shots-Errors* folder in the *Crabtree Blanks Folder* on the Desktop
+- Right-click the *Item Name* folder, click Rename, and type the Item Name (such as CE_CabinetA_D4_2394)
+- Copy any test shots or errors/whoops/mistakes shots into the *Test Shots-Errors* folder
 - Copy the remaining photos, including the Start and Stop shots, into their appropriate folders within the *Crabtree Photogrammetry Blanks* folder
-   - Copy the RAW photos (.cr2 file format) into the appropriate View and Level subfolders within the RAW parent folder
-   - Copy the JPEG photos (.jpeg file format) into the appropriate View and Level subfolders within the Processed-JPEG parent folderinto their appropriate View and Level folders 
-- Each of the sub-folders, like Processed-JPEG > View 1 > V1-Level 1, will have at least 26 files total
+   - Copy the Raw photos (.cr2 file format) into the appropriate View and Level subfolders within the *Raw* parent folder
+   - Copy the JPEG photos (.jpeg file format) into the appropriate View and Level subfolders within the *Processed-JPEG* parent folder
+- Each of the sub-folders, like *Processed-JPEG > View 1 > V1-Level 1*, will have at least 26 files total
    - This includes the 24 rotation shots, plus the Start and Stop shots
-- Upload the final folder set (1 Test Shots-Errors folder, 1 Raw folder with 8 sub-folders, and 1 Processed-JPEG folder with 8 subfolders) to the appropriate item's folder in the AWBLA OneDrive folder.
+- Upload the final *Item Name* folder set (1 Test Shots-Errors folder, 1 Raw folder with 8 sub-folders, and 1 Processed-JPEG folder with 8 subfolders) to the *3D Artifact Photos* folder in the AWBLA OneDrive.
 
 <!--{:#add3Dprojects}
 #### [Adding 3D Agisoft Projects to OneDrive]-->

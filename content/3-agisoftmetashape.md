@@ -6,6 +6,7 @@ nav: Agisoft
 -----------
 Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?list=PL2VCfpBUgJGi2GJFro_hCa6Kxohlxlxt8) on YouTube, demonstrating each of the steps below. The videos seem to play best when viewed in Firefox or Edge.
 
+- [Preparation](#preparation)
 - [Step 1: Create a new Agisoft Project](#newagisoftproject)
 - [Step 2: Add photos to the Agisoft Project](#addphotos)
 - [Step 3: Import a background image/mask](#importmasks) 
@@ -23,13 +24,30 @@ Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?l
 - [Step 15: Export the 3D model](#export)
 - [Step 16: View the 3D model](#view)
 
+{:#preparation}
+### Preparation
+#### Download the 3D Projects folder structure
+- Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
+- Click the box for the *3D Projects* folder
+    - This folder set is organized as follows:
+        - BeginHere-Item Name (to be edited by you)
+            - Models
+- Click Download and choose where to save the zip folder, if prompted
+- Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
+- Right click the folder and select Extract All
+- Click Browse, navigate to and click on the Desktop, then click Extract
+    - Make sure the *Show extracted files when complete* box is checked
+- Double-click on the *3D Projects* folder to open it
+- Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_CabinetA_D4_2394)
+
 {:#newagisoftproject}
 ### Step 1: Create a new Agisoft Project
 1. Open Agisoft Metashape
 1. Click File > Save As
-1. Navigate to the correct folder
+1. Navigate to and double-click on the correct item's folder on your Desktop (for example: CE_CabinetA_D4_2394)
 1. Type the file name, which should include the cabinet letter, drawer number, and item number
     - For example: CE_CabinetA_D4_2349_3Dproject 
+1. Click Save
 
 {:#addphotos}
 ### Step 2: Add photos to the Agisoft Project
@@ -334,7 +352,8 @@ We will export the 3D model in three different file formats.
 
 Wavefront OBJ model (.obj)
 1. Click File > Export > Export Model
-1. Navigate to the correct folder where the model will be saved
+1. Navigate to and double-click on the correct item's folder on your Desktop (for example: CE_CabinetA_D4_2394)
+1. Double-click on the *Models* folder
 1. Type the file name and add *-model* to the end of the file name
     - For example: CE_CabinetA_D4_2349_3Dproject-model
 1. Set the Save as type to *Wavefront OBJ*
@@ -347,7 +366,8 @@ Wavefront OBJ models save the *texture image* as a separate file. Be sure to kee
 
 STL model (.stl)
 1. Click File > Export > Export Model
-1. Navigate to the correct folder where the model will be saved
+1. Navigate to and double-click on the correct item's folder on your Desktop (for example: CE_CabinetA_D4_2394)
+1. Double-click on the *Models* folder
 1. Type the file name and add *-model* to the end of the file name
     - For example: CE_CabinetA_D4_2349_3Dproject-model
 1. Set the Save as type to *STL models*
@@ -356,7 +376,8 @@ STL model (.stl)
 
 X3D model (.x3d)
 1. Click File > Export > Export Model
-1. Navigate to the correct folder where the model will be saved
+1. Navigate to and double-click on the correct item's folder on your Desktop (for example: CE_CabinetA_D4_2394)
+1. Double-click on the *Models* folder
 1. Type the file name and add *-model* to the end of the file name
     - For example: CE_CabinetA_D4_2349_3Dproject-model
 1. Set the Save as type to *X3D models*

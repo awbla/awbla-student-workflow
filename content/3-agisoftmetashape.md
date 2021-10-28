@@ -68,7 +68,7 @@ After adding photos to the Agisoft Project, we have to create *masks* to hide th
 
 {:#importmasks}
 ### Step 3: Import a background image/mask
-You should be able to use the same background image/mask across objects, so long as the Foldio background color doesn't change. If you need to make a new background image/mask, read the [Creating a Mask](#createamask) instructions.
+You should be able to use the same background image/mask across objects, so long as the Foldio background color doesn't change. If you need to make a new background image/mask, follow the [Creating a Mask](#createamask) instructions.
 
 1. Click Workflow > Batch Process
 1. Click Add
@@ -376,6 +376,8 @@ The STL file will not include the artifact’s original colors, but is often use
 -------------
 {:#createamask}
 ### Create a mask
+You should be able to use the same background image/mask across objects, so long as the Foldio background color doesn't change. If you need to make a new background image/mask, follow the instructions below.
+
 The following documentation on creating a mask is adapted from Samantha Porter's "Supplemental Instructions on Background Masking" (file name: [Supplemental_Instructions_1_Background_Masking.pdf)](https://conservancy.umn.edu/handle/11299/172480).
 
 #### Create a background image in Microsoft PowerPoint
@@ -413,4 +415,4 @@ The following documentation on creating a mask is adapted from Samantha Porter's
 1. Click OK
 1. Click File > Save As > JPEG picture
 1. Navigate to the background image location, rename the file as *itemnumber_mask-pixels*, and click Save
-1. Close Microsoft Paint-->
+1. Close Microsoft Paint

@@ -173,7 +173,7 @@ Scanned slides will need to be transferred from the desktop into correct folder 
 - Click Upload to add the folder and subfolders to the *Slides* folder in the AWBLA OneDrive
 
 --------------
-{#add2Dphotos}
+{:#add2Dphotos}
 #### Adding 2D Photos to OneDrive
 Images taken during 2D photography will need to be transferred from the memory card to the Desktop, transferred from the desktop into correct folder structure, then uploaded to the *2D Artifact Photos* folder in the AWBLA OneDrive.
 
@@ -271,7 +271,7 @@ Images taken during photogrammetry will need to be transferred from the memory c
 
 --------------
 {:#add3Dprojects}
-#### [Adding 3D Agisoft Projects to OneDrive]
+#### Adding 3D Agisoft Projects to OneDrive
 Files and models created when using Agisoft Metashape will need to be uploaded to the *3D Projects* folder in the AWBLA OneDrive.
 
 ##### Upload the item folder to the AWBLA OneDrive

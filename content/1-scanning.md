@@ -127,7 +127,7 @@ Before beginning, create a personal folder in your one drive space that you can 
     - Set up the File Name prefix. This should reflect the collection, box number, item number, and any other identifying characteristics like page numbers. See [File Naming](https://uidaholib.github.io/dds-student-workflow/content/1-scanning.html#file) for complete details. The Start Number should be at 001 if you’re starting a new project, or set to the next sequential number if you’re in the middle of a project. 
     - In the Image Format section, the file type should be set to TIFF (*.tif).
 
-{% include figure.html img="EpsonScanner2.png" alt="intro image here" caption="" width="50%" %}
+{% include figure.html img="EpsonScanner3.png" alt="intro image here" caption="" width="50%" %}
 
 {% capture text %}Make sure you update the prefix format as follows: **CE_BoxNumber_FolderNumber_ItemNumber-**{% endcapture %}
 {% include alert.html text=text color="danger" %}

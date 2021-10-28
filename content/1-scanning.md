@@ -13,7 +13,6 @@ Make sure that hands are clean and dry when handling materials for scanning or a
 2. [File naming](#file)
 3. [Scanning images](#images)
 4. [Scanning documents](#documents)
-5. [Lab equipment](#scanners)
 
 -----------
 

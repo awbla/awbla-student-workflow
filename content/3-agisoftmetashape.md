@@ -109,6 +109,8 @@ The following documentation on creating a mask is adapted from Samantha Porter's
 
 {:#importmasks}
 ### Step 3: Import a background image/mask
+You should be able to use the same background image/mask across objects, so long as the Foldio background color doesn't change. If you need to make a new background image/mask, read the [Creating a Mask](/createamask.md) instructions.
+
 1. Click Workflow > Batch Process
 1. Click Add
 1. Click in the first dropdown box and scroll to and select Import Masks

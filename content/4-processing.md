@@ -77,6 +77,7 @@ After scanning and photography is complete, it is necessary to process the scans
 
 {:#add3Dphotos}
 #### Adding Photogrammetry Photos to OneDrive
+<!--Test process with download/extraction from OneDrive; add/update relevant steps-->
 Images taken during photogrammetry will need to be transferred from the memory card to the Desktop, then to the appropriate item's folder in the AWBLA OneDrive folder.
 
 The steps to this are as follows:

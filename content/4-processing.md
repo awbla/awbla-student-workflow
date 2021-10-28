@@ -16,7 +16,7 @@ After scanning and photography is complete, it is necessary to process the scans
 - [Adding Documents to OneDrive](#adddocuments)
 - [Adding Scanned Images to OneDrive](#addimages)
 - [Adding Slides to OneDrive](#addslides)
-- [Adding 2D Photos to OneDrive](#add2dphotos)
+- [Adding 2D Photos to OneDrive](#add2Dphotos)
 - [Adding Photogrammetry Photos to OneDrive](#add3Dphotos)
 - [Adding 3D Agisoft Projects to OneDrive](#add3Dprojects)
 
@@ -69,7 +69,7 @@ After scanning and photography is complete, it is necessary to process the scans
 --------------
 ### Adding Items to OneDrive:
 
-{:##adddocuments}
+{:#adddocuments}
 #### Adding Documents to OneDrive
 Scanned documents will need to be transferred from the desktop into correct folder structure, then uploaded to the *Documents* folder in the AWBLA OneDrive.
 
@@ -139,7 +139,7 @@ Scanned images will need to be transferred from the desktop into correct folder 
 - Click Upload to add the folder and subfolders to the *Photos-Negatives* folder in the AWBLA OneDrive
 
 --------------
-{:##addslides}
+{:#addslides}
 #### Adding Slides to OneDrive
 Scanned slides will need to be transferred from the desktop into correct folder structure, then uploaded to the *Documents* folder in the AWBLA OneDrive.
 
@@ -173,7 +173,7 @@ Scanned slides will need to be transferred from the desktop into correct folder 
 - Click Upload to add the folder and subfolders to the *Slides* folder in the AWBLA OneDrive
 
 --------------
-{##add2dphotos}
+{#add2Dphotos}
 #### Adding 2D Photos to OneDrive
 Images taken during 2D photography will need to be transferred from the memory card to the Desktop, transferred from the desktop into correct folder structure, then uploaded to the *2D Artifact Photos* folder in the AWBLA OneDrive.
 

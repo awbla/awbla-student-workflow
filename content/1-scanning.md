@@ -128,7 +128,7 @@ Before beginning, create a personal folder in your one drive space that you can 
 
 {% include figure.html img="EpsonScanner3.PNG" alt="Screenshot of the scanner settings dialog box" caption="" width="50%" %}
 
-{% capture text %}Make sure you update the prefix format as follows: **CE_BoxNumber_FolderNumber_ItemNumber-**{% endcapture %}
+{% capture text %}Make sure you update the prefix format as follows: **CE_BoxNumber_FolderNumber-ItemNumber-**{% endcapture %}
 {% include alert.html text=text color="danger" %}
 
 - Press “OK” and the scan will begin. 

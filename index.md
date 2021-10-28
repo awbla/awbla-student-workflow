@@ -9,9 +9,7 @@ Welcome to the AWBLA workflow repository, where you'll find information relating
 
 {% capture text %}
 - [AWBLA COVID-19 operating procedures](images/AWBLA_CovidPolicy.pdf)
-- [Scanning images](/content/1-scanning.html#images)
 - [Progress form](https://forms.office.com/r/qc4PMuDhhN)
-- [File naming](/content/1-scanning.md#file)
 {% endcapture %}
 {% include card.html text=text header="Quick Links:" %}
 

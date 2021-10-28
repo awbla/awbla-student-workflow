@@ -113,20 +113,20 @@ Before beginning, create a personal folder in your one drive space that you can 
 
 - Close the scanner lid and press “Preview” in EpsonScan. Once the preview scan is finished, use the cursor to draw the selection window around the item and to the edge of the color bar. There should not be a lot of white space as below.
 
-    {% include figure.html img="CE_B76_F4-7-front-001.jpg" alt="intro image here" caption="" width="100%" %}
+    {% include figure.html img="CE_B76_F4-7-front-001.jpg" alt="Image of a hand holding a lithic point with a color bar below" caption="" width="100%" %}
     
     Please include the whole color bar and DO NOT crop it. 
     
 - Images should be scanned at **600 dpi** and should be at least **6,000 pixels** on the long edge. This measurement is located at the bottom left of the preview panel. The color filter should be set to ‘none’. Make sure all your settings match as shown below:
 
-    {% include figure.html img="EpsonScanner1.png" alt="intro image here" caption="" width="50%" %}
+    {% include figure.html img="EpsonScanner1.png" alt="Screenshot of the scanner settings dialog box" caption="" width="50%" %}
 
 - Once your settings are correct, press “Scan”. The “File Save Settings” window will pop up and you will need to:
     - Click “Other” and then “Browse to select the file you want your scanned images to be saved to. This should be the tif folder you already created.
     - Set up the File Name prefix. This should reflect the collection, box number, item number, and any other identifying characteristics like page numbers. See [File Naming](https://uidaholib.github.io/dds-student-workflow/content/1-scanning.html#file) for complete details. The Start Number should be at 001 if you’re starting a new project, or set to the next sequential number if you’re in the middle of a project. 
     - In the Image Format section, the file type should be set to TIFF (*.tif).
 
-{% include figure.html img="EpsonScanner3.png" alt="intro image here" caption="" width="50%" %}
+{% include figure.html img="EpsonScanner3.PNG" alt="Screenshot of the scanner settings dialog box" caption="" width="50%" %}
 
 {% capture text %}Make sure you update the prefix format as follows: **CE_BoxNumber_FolderNumber_ItemNumber-**{% endcapture %}
 {% include alert.html text=text color="danger" %}

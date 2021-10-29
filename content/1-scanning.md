@@ -112,7 +112,7 @@ Before beginning, create a personal folder in your one drive space that you can 
 
 - Close the scanner lid and press “Preview” in EpsonScan. Once the preview scan is finished, use the cursor to draw the selection window around the item and to the edge of the color bar. There should not be a lot of white space as below.
 
-    {% include figure.html img="CE_B76_F4-7-front-001.jpg" alt="Image of a hand holding a lithic point with a color bar below" caption="" width="100%" %}
+    {% include figure.html img="CE_B76_F4-7-001.PNG" alt="Image of a hand holding a lithic point with a color bar below" caption="" width="100%" %}
     
     Please include the whole color bar and DO NOT crop it. 
     

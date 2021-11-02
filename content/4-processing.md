@@ -69,11 +69,12 @@ After scanning and photography is complete, it is necessary to process the scans
 --------------
 ### Adding Items to OneDrive:
 
+
 {:#adddocuments}
 #### Adding Documents to OneDrive
-Scanned documents will need to be transferred from the desktop into correct folder structure, then uploaded to the *Documents* folder in the AWBLA OneDrive.
+Scanned documents saved in your OneDrive will need to be uploaded to the *Documents* folder in the AWBLA OneDrive.
 
-##### Download the Documents folder structure
+##### Download the Documents folder structure prior to scanning
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Click the box for the *Documents* folder
     - This folder set is organized as follows:
@@ -84,18 +85,16 @@ Scanned documents will need to be transferred from the desktop into correct fold
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
-- Click Browse, navigate to and click on the Desktop, then click Extract
+- Click Browse, navigate to and click on your personal OneDrive, then click Extract
     - Make sure the *Show extracted files when complete* box is checked
 - Double-click on the *Documents* folder to open it
 - Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_B1_F2_Item430)
 
-##### Transfer scanned documents from the Desktop into the renamed item folder
-- Double-click on the renamed item folder to open it
-- Open the Desktop folder that includes the scanned documents
-- Copy the scanned documents into their appropriate folders within the renamed item folder
-   - Copy the Raw files (.tif format) into the *Raw* parent folder
-   - Copy the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
-   - Copy the PDF files (.pdf format) into the *PDF* parent folder
+##### Scan documents directly into the renamed item folder in your personal OneDrive
+- Scan documents and save coverted documents into their appropriate folders within the renamed item folder
+   - Save the Raw files (.tif format) into the *Raw* parent folder
+   - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
+   - Save the PDF files (.pdf format) into the *PDF* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
@@ -107,9 +106,9 @@ Scanned documents will need to be transferred from the desktop into correct fold
 --------------
 {:#addimages}
 #### Adding Scanned Images to OneDrive
-Scanned images will need to be transferred from the desktop into correct folder structure, then uploaded to the *Photos-Negatives* folder in the AWBLA OneDrive.
+Scanned images saved in your OneDrive will need to be uploaded to the *Photos-Negatives* folder in the AWBLA OneDrive.
 
-##### Download the Photos-Negatives folder structure
+##### Download the Photos-Negatives folder structure prior to scanning
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Click the box for the *Photos-Negatives* folder
     - This folder set is organized as follows:
@@ -119,17 +118,15 @@ Scanned images will need to be transferred from the desktop into correct folder 
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
-- Click Browse, navigate to and click on the Desktop, then click Extract
+- Click Browse, navigate to and click on your personal OneDrive, then click Extract
     - Make sure the *Show extracted files when complete* box is checked
 - Double-click on the *Photos-Negatives* folder to open it
 - Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_B76_F4-7)
 
-##### Transfer scanned images from the Desktop into the renamed item folder
-- Double-click on the renamed item folder to open it
-- Open the Desktop folder that includes the scanned images
-- Copy the scanned images into their appropriate folders within the renamed item folder
-   - Copy the Raw files (.tif format) into the *Raw* parent folder
-   - Copy the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
+##### Scan images directly into the renamed item folder in your personal OneDrive
+- Scan images and save coverted images into their appropriate folders within the renamed item folder
+   - Save the Raw files (.tif format) into the *Raw* parent folder
+   - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
@@ -141,7 +138,7 @@ Scanned images will need to be transferred from the desktop into correct folder 
 --------------
 {:#addslides}
 #### Adding Slides to OneDrive
-Scanned slides will need to be transferred from the desktop into correct folder structure, then uploaded to the *Documents* folder in the AWBLA OneDrive.
+Scanned slides saved in your OneDrive will need to be uploaded to the *Slides* folder in the AWBLA OneDrive.
 
 ##### Download the Slides folder structure
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
@@ -153,17 +150,15 @@ Scanned slides will need to be transferred from the desktop into correct folder 
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
-- Click Browse, navigate to and click on the Desktop, then click Extract
+- Click Browse, navigate to and click on your personal OneDrive, then click Extract
     - Make sure the *Show extracted files when complete* box is checked
 - Double-click on the *Slides* folder to open it
 - Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_B1_F2_Item430)
 
-##### Transfer scanned slides from the Desktop into the renamed item folder
-- Double-click on the renamed item folder to open it
-- Open the Desktop folder that includes the scanned slides
-- Copy the scanned slides into their appropriate folders within the renamed item folder
-   - Copy the Raw files (.tif format) into the *Raw* parent folder
-   - Copy the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
+##### Scan slides directly into the renamed item folder in your personal OneDrive
+- Scan slides and save coverted slides into their appropriate folders within the renamed item folder
+   - Save the Raw files (.tif format) into the *Raw* parent folder
+   - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
@@ -175,7 +170,7 @@ Scanned slides will need to be transferred from the desktop into correct folder 
 --------------
 {:#add2Dphotos}
 #### Adding 2D Photos to OneDrive
-Images taken during 2D photography will need to be transferred from the memory card to the Desktop, transferred from the desktop into correct folder structure, then uploaded to the *2D Artifact Photos* folder in the AWBLA OneDrive.
+Images taken during 2D photography will need to be transferred from the memory card to the Desktop, from the desktop into your personal OneDrive with correct folder structure, then uploaded to the *2D Artifact Photos* folder in the AWBLA OneDrive.
 
 ##### Transfer the photos from the memory card to the Desktop
 - Create a blank folder on the Desktop
@@ -191,12 +186,12 @@ Images taken during 2D photography will need to be transferred from the memory c
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
-- Click Browse, navigate to and click on the Desktop, then click Extract
+- Click Browse, navigate to and click on your personal OneDrive, then click Extract
     - Make sure the *Show extracted files when complete* box is checked
 - Double-click on the *2D Artifact Photos* folder to open it
 - Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_CabinetA_D4_2394)
 
-##### Transfer scanned images from the Desktop into the renamed item folder
+##### Transfer the photos from the Desktop into the renamed item folder in your personal OneDrive
 - Double-click on the renamed item folder to open it
 - Open the Desktop folder that includes the 2D artifact photos
 - Copy the scanned images into their appropriate folders within the renamed item folder
@@ -213,7 +208,7 @@ Images taken during 2D photography will need to be transferred from the memory c
 --------------
 {:#add3Dphotos}
 #### Adding Photogrammetry Photos to OneDrive
-Images taken during photogrammetry will need to be transferred from the memory card to the Desktop, transferred from the desktop into correct folder structure, then uploaded to the *3D Artifact Photos* folder in the AWBLA OneDrive.
+Images taken during photogrammetry will need to be transferred from the memory card to the Desktop, from the desktop into your personal OneDrive with correct folder structure, then uploaded to the *3D Artifact Photos* folder in the AWBLA OneDrive.
 
 ##### Transfer the photos from the memory card to the Desktop
 - Create a blank folder on the Desktop
@@ -246,12 +241,12 @@ Images taken during photogrammetry will need to be transferred from the memory c
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
-- Click Browse, navigate to and click on the Desktop, then click Extract
+- Click Browse, navigate to and click on your personal OneDrive, then click Extract
     - Make sure the *Show extracted files when complete* box is checked
 - Double-click on the *3D Artifact Photos* folder to open it
 - Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_CabinetA_D4_2394)
 
-##### Transfer images from the Desktop into the renamed item folder
+##### Transfer the photos from the Desktop into the renamed item folder in your personal OneDrive
 - Double-click on the renamed item folder to open it
 - Open the Desktop folder that includes the photos
 - Review the photos, using the start and stop Levels cards to identify the different views and levels
@@ -274,7 +269,30 @@ Images taken during photogrammetry will need to be transferred from the memory c
 #### Adding 3D Agisoft Projects to OneDrive
 Files and models created when using Agisoft Metashape will need to be uploaded to the *3D Projects* folder in the AWBLA OneDrive.
 
+#### Download the 3D Projects folder structure prior to starting a 3D project
+- Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
+- Click the box for the *3D Projects* folder
+    - This folder set is organized as follows:
+        - BeginHere-Item Name (to be edited by you)
+            - Models
+- Click Download and choose where to save the zip folder, if prompted
+- Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
+- Right click the folder and select Extract All
+- Click Browse, navigate to and click on your own personal OneDrive, then click Extract
+    - Make sure the *Show extracted files when complete* box is checked
+- Double-click on the *3D Projects* folder to open it
+- Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_CabinetA_D4_2394)
+
+#### Save the 3D project in the renamed item folder in your personal OneDrive
+- Open Agisoft Metashape
+- Click File > Save As
+- Navigate to and double-click on the correct item's folder in your personal OneDrive (for example: CE_CabinetA_D4_2394)
+- Type the file name, which should include the cabinet letter, drawer number, and item number
+    - For example: CE_CabinetA_D4_2349_3Dproject 
+- Click Save
+
 ##### Upload the item folder to the AWBLA OneDrive
+One the 3D project is complete:
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Double-click on the *3D Projects* folder to open it
 - Click Upload folder and select Folder

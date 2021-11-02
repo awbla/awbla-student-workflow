@@ -35,7 +35,7 @@ Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?l
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
-- Click Browse, navigate to your own personal OneDrive, then click Extract
+- Click Browse, navigate to and click on your own personal OneDrive, then click Extract
     - Make sure the *Show extracted files when complete* box is checked
 - Double-click on the *3D Projects* folder to open it
 - Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_CabinetA_D4_2394)
@@ -44,7 +44,7 @@ Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?l
 ### Step 1: Create a new Agisoft Project
 1. Open Agisoft Metashape
 1. Click File > Save As
-1. Navigate to and double-click on the correct item's folder in your OneDrive (for example: CE_CabinetA_D4_2394)
+1. Navigate to and double-click on the correct item's folder in your personal OneDrive (for example: CE_CabinetA_D4_2394)
 1. Type the file name, which should include the cabinet letter, drawer number, and item number
     - For example: CE_CabinetA_D4_2349_3Dproject 
 1. Click Save
@@ -352,7 +352,7 @@ We will export the 3D model in three different file formats.
 
 Wavefront OBJ model (.obj)
 1. Click File > Export > Export Model
-1. Navigate to and double-click on the correct item's folder in your OneDrive (for example: CE_CabinetA_D4_2394)
+1. Navigate to and double-click on the correct item's folder in your personal OneDrive (for example: CE_CabinetA_D4_2394)
 1. Double-click on the *Models* folder
 1. Type the file name and add *-model* to the end of the file name
     - For example: CE_CabinetA_D4_2349_3Dproject-model
@@ -366,7 +366,7 @@ Wavefront OBJ models save the *texture image* as a separate file. Be sure to kee
 
 STL model (.stl)
 1. Click File > Export > Export Model
-1. Navigate to and double-click on the correct item's folder in your OneDrive (for example: CE_CabinetA_D4_2394)
+1. Navigate to and double-click on the correct item's folder in your personal OneDrive (for example: CE_CabinetA_D4_2394)
 1. Double-click on the *Models* folder
 1. Type the file name and add *-model* to the end of the file name
     - For example: CE_CabinetA_D4_2349_3Dproject-model
@@ -376,7 +376,7 @@ STL model (.stl)
 
 X3D model (.x3d)
 1. Click File > Export > Export Model
-1. Navigate to and double-click on the correct item's folder in your OneDrive (for example: CE_CabinetA_D4_2394)
+1. Navigate to and double-click on the correct item's folder in your personal OneDrive (for example: CE_CabinetA_D4_2394)
 1. Double-click on the *Models* folder
 1. Type the file name and add *-model* to the end of the file name
     - For example: CE_CabinetA_D4_2349_3Dproject-model

@@ -14,5 +14,5 @@ Resources for students conducting digitization work for the University of Idaho 
 
 ### Administrative Links
 
-- [Daily Progress Log](https://forms.office.com/r/7aiae8sDrK)
+- [Daily Progress Log](https://forms.office.com/r/qc4PMuDhhN)
 - [VandalWeb Time Entry](https://vandalweb.uidaho.edu/PROD/twbkwbis.P_GenMenu?name=payroll)

@@ -183,6 +183,7 @@ Images taken during 2D photography will need to be transferred from the memory c
         - BeginHere-Item Name (to be edited by you)
             - Processed-JPEG
             - Raw
+            - TFF
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
@@ -229,6 +230,15 @@ Images taken during photogrammetry will need to be transferred from the memory c
                - V2-Level2
                - V2-Level3
          - Raw
+            - View 1
+               - V1-Level1
+               - V1-Level2
+               - V1-Level3
+            - View 2
+               - V2-Level1
+               - V2-Level2
+               - V2-Level3
+         - TIFF
             - View 1
                - V1-Level1
                - V1-Level2

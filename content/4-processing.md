@@ -78,10 +78,10 @@ Scanned documents saved in your OneDrive will need to be uploaded to the *Docume
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Click the box for the *Documents* folder
     - This folder set is organized as follows:
-        - BeginHere-Item Name (to be edited by you)
-            - PDF 
-            - Processed-JPEG
-            - TIFF
+        - BeginHere-Item Name {Folder} (to be edited by you)
+            - PDF {Folder}
+            - Processed-JPEG {Folder}
+            - TIFF {Folder}
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
@@ -92,9 +92,9 @@ Scanned documents saved in your OneDrive will need to be uploaded to the *Docume
 
 ##### Scan documents directly into the renamed item folder in your personal OneDrive
 - Scan documents and save coverted documents into their appropriate folders within the renamed item folder
-   - Save the TIFF files (.tif format) into the *TIFF* parent folder
-   - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
    - Save the PDF files (.pdf format) into the *PDF* parent folder
+   - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
+   - Save the TIFF files (.tif format) into the *TIFF* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
@@ -112,9 +112,9 @@ Scanned images saved in your OneDrive will need to be uploaded to the *Photos-Ne
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Click the box for the *Photos-Negatives* folder
     - This folder set is organized as follows:
-        - BeginHere-Item Name (to be edited by you)
-            - Processed-JPEG
-            - TIFF
+        - BeginHere-Item Name {Folder} (to be edited by you)
+            - Processed-JPEG {Folder}
+            - TIFF {Folder}
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
@@ -125,8 +125,8 @@ Scanned images saved in your OneDrive will need to be uploaded to the *Photos-Ne
 
 ##### Scan images directly into the renamed item folder in your personal OneDrive
 - Scan images and save coverted images into their appropriate folders within the renamed item folder
-   - Save the TIFF files (.tif format) into the *TIFF* parent folder
    - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
+   - Save the TIFF files (.tif format) into the *TIFF* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
@@ -144,9 +144,9 @@ Scanned slides saved in your OneDrive will need to be uploaded to the *Slides* f
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Click the box for the *Slides* folder
     - This folder set is organized as follows:
-        - BeginHere-Item Name (to be edited by you)
-            - Processed-JPEG
-            - TIFF
+        - BeginHere-Item Name {Folder} (to be edited by you)
+            - Processed-JPEG {Folder}
+            - TIFF {Folder}
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
@@ -157,8 +157,8 @@ Scanned slides saved in your OneDrive will need to be uploaded to the *Slides* f
 
 ##### Scan slides directly into the renamed item folder in your personal OneDrive
 - Scan slides and save coverted slides into their appropriate folders within the renamed item folder
-   - Save the TIFF files (.tif format) into the *TIFF* parent folder
    - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
+   - Save the TIFF files (.tif format) into the *TIFF* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
@@ -180,10 +180,10 @@ Images taken during 2D photography will need to be transferred from the memory c
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Click the box for the *2D Artifact Photos* folder
     - This folder set is organized as follows:
-        - BeginHere-Item Name (to be edited by you)
-            - Processed-JPEG
-            - Raw
-            - TFF
+        - BeginHere-Item Name {Folder} (to be edited by you)
+            - Processed-JPEG {Folder}
+            - Raw {Folder}
+            - TIFF {Folder}
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
@@ -196,9 +196,9 @@ Images taken during 2D photography will need to be transferred from the memory c
 - Double-click on the renamed item folder to open it
 - Open the Desktop folder that includes the 2D artifact photos
 - Copy the scanned images into their appropriate folders within the renamed item folder
+   - Copy the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
    - Copy the Raw files (.cr2 format) into the *Raw* parent folder
    - Copy the TIFF files (.tif format) itno the *TIFF* parent folder
-   - Copy the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
@@ -220,34 +220,34 @@ Images taken during photogrammetry will need to be transferred from the memory c
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Click the box for the *3D Artifact Photos* folder
     - This folder set is organized as follows:
-      - BeginHere-Item Name (to be edited by you)
-         - Processed-JPEG
-            - View 1
-               - V1-Level1
-               - V1-Level2
-               - V1-Level3
-            - View 2
-               - V2-Level1
-               - V2-Level2
-               - V2-Level3
-         - Raw
-            - View 1
-               - V1-Level1
-               - V1-Level2
-               - V1-Level3
-            - View 2
-               - V2-Level1
-               - V2-Level2
-               - V2-Level3
-         - TIFF
-            - View 1
-               - V1-Level1
-               - V1-Level2
-               - V1-Level3
-            - View 2
-               - V2-Level1
-               - V2-Level2
-               - V2-Level3
+      - BeginHere-Item Name {Folder} (to be edited by you)
+         - Processed-JPEG {Folder}
+            - View 1 {Folder}
+               - V1-Level1 {Folder}
+               - V1-Level2 {Folder}
+               - V1-Level3 {Folder}
+            - View 2 {Folder}
+               - V2-Level1 {Folder}
+               - V2-Level2 {Folder}
+               - V2-Level3 {Folder}
+         - Raw {Folder}
+            - View 1 {Folder}
+               - V1-Level1 {Folder}
+               - V1-Level2 {Folder}
+               - V1-Level3 {Folder}
+            - View 2 {Folder}
+               - V2-Level1 {Folder}
+               - V2-Level2 {Folder}
+               - V2-Level3 {Folder}
+         - TIFF {Folder}
+            - View 1 {Folder}
+               - V1-Level1 {Folder}
+               - V1-Level2 {Folder}
+               - V1-Level3 {Folder}
+            - View 2 {Folder}
+               - V2-Level1 {Folder}
+               - V2-Level2 {Folder}
+               - V2-Level3 {Folder}
          - Test Shots-Errors
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
@@ -261,11 +261,12 @@ Images taken during photogrammetry will need to be transferred from the memory c
 - Double-click on the renamed item folder to open it
 - Open the Desktop folder that includes the photos
 - Review the photos, using the start and stop Levels cards to identify the different views and levels
-- Copy any test shots or errors/whoops/mistakes shots into the *Test Shots-Errors* folder
+- Copy test shots photos into the *Test Shots-Errors* folder
+    - Copy any test shots, including errors/whoops/mistakes shots into the this folder
 - Copy the remaining photos, including the Start and Stop shots, into their appropriate folders within the renamed item folder
+   - Copy the JPEG files (.jpeg format) into the appropriate View and Level subfolders within the *Processed-JPEG* parent folder
    - Copy the Raw files (.cr2 format) into the appropriate View and Level subfolders within the *Raw* parent folder
    - Copy the TIFF files (.tif format) into the appropriate View and Level subfolders within the *TIFF* parent folder
-   - Copy the JPEG files (.jpeg format) into the appropriate View and Level subfolders within the *Processed-JPEG* parent folder
 - Each of the sub-folders, like *Processed-JPEG > View 1 > V1-Level1*, will have at least 26 files total
    - This includes the 24 rotation shots, plus the Start and Stop shots
 
@@ -285,8 +286,8 @@ Files and models created when using Agisoft Metashape will need to be uploaded t
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Click the box for the *3D Projects* folder
     - This folder set is organized as follows:
-        - BeginHere-Item Name (to be edited by you)
-            - Models
+        - BeginHere-Item Name {Folder} (to be edited by you)
+            - Models {Folder}
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All

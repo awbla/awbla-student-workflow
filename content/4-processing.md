@@ -81,7 +81,7 @@ Scanned documents saved in your OneDrive will need to be uploaded to the *Docume
         - BeginHere-Item Name (to be edited by you)
             - PDF 
             - Processed-JPEG
-            - Raw
+            - TIFF
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
@@ -92,7 +92,7 @@ Scanned documents saved in your OneDrive will need to be uploaded to the *Docume
 
 ##### Scan documents directly into the renamed item folder in your personal OneDrive
 - Scan documents and save coverted documents into their appropriate folders within the renamed item folder
-   - Save the Raw files (.tif format) into the *Raw* parent folder
+   - Save the TIFF files (.tif format) into the *TIFF* parent folder
    - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
    - Save the PDF files (.pdf format) into the *PDF* parent folder
 
@@ -114,7 +114,7 @@ Scanned images saved in your OneDrive will need to be uploaded to the *Photos-Ne
     - This folder set is organized as follows:
         - BeginHere-Item Name (to be edited by you)
             - Processed-JPEG
-            - Raw
+            - TIFF
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
@@ -125,7 +125,7 @@ Scanned images saved in your OneDrive will need to be uploaded to the *Photos-Ne
 
 ##### Scan images directly into the renamed item folder in your personal OneDrive
 - Scan images and save coverted images into their appropriate folders within the renamed item folder
-   - Save the Raw files (.tif format) into the *Raw* parent folder
+   - Save the TIFF files (.tif format) into the *TIFF* parent folder
    - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
@@ -146,7 +146,7 @@ Scanned slides saved in your OneDrive will need to be uploaded to the *Slides* f
     - This folder set is organized as follows:
         - BeginHere-Item Name (to be edited by you)
             - Processed-JPEG
-            - Raw
+            - TIFF
 - Click Download and choose where to save the zip folder, if prompted
 - Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
 - Right click the folder and select Extract All
@@ -157,7 +157,7 @@ Scanned slides saved in your OneDrive will need to be uploaded to the *Slides* f
 
 ##### Scan slides directly into the renamed item folder in your personal OneDrive
 - Scan slides and save coverted slides into their appropriate folders within the renamed item folder
-   - Save the Raw files (.tif format) into the *Raw* parent folder
+   - Save the TIFF files (.tif format) into the *TIFF* parent folder
    - Save the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
@@ -197,6 +197,7 @@ Images taken during 2D photography will need to be transferred from the memory c
 - Open the Desktop folder that includes the 2D artifact photos
 - Copy the scanned images into their appropriate folders within the renamed item folder
    - Copy the Raw files (.cr2 format) into the *Raw* parent folder
+   - Copy the TIFF files (.tif format) itno the *TIFF* parent folder
    - Copy the JPEG files (.jpeg format) into the *Processed-JPEG* parent folder
 
 ##### Upload the renamed item folder to the AWBLA OneDrive
@@ -263,6 +264,7 @@ Images taken during photogrammetry will need to be transferred from the memory c
 - Copy any test shots or errors/whoops/mistakes shots into the *Test Shots-Errors* folder
 - Copy the remaining photos, including the Start and Stop shots, into their appropriate folders within the renamed item folder
    - Copy the Raw files (.cr2 format) into the appropriate View and Level subfolders within the *Raw* parent folder
+   - Copy the TIFF files (.tif format) into the appropriate View and Level subfolders within the *TIFF* parent folder
    - Copy the JPEG files (.jpeg format) into the appropriate View and Level subfolders within the *Processed-JPEG* parent folder
 - Each of the sub-folders, like *Processed-JPEG > View 1 > V1-Level1*, will have at least 26 files total
    - This includes the 24 rotation shots, plus the Start and Stop shots
@@ -309,6 +311,6 @@ One the 3D project is complete:
 - Navigate to and single click the appropriate item folder
     - This folder should includ the following:
         - An Agisoft project file (for example: CE_CabinetA_D4_2349_3Dproject.psx)
-        - A folder with all of the files associated with the Agisoft project (for example: CE_CabinetA_D4_2349_3Dproject.files)
-        - A folder named Models with OBJ, STL, and X3D files
+        - A sub-folder with all of the files associated with the Agisoft project (for example: CE_CabinetA_D4_2349_3Dproject.files)
+        - A sub-folder named *Models* with the OBJ, STL, and X3D files
 - Click Upload to add the folder and subfolders to the *3D Projects* folder in the AWBLA OneDrive

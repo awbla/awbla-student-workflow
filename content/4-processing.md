@@ -30,12 +30,12 @@ After scanning and photography is complete, it is necessary to process the scans
 
 - In the Batch window, select the action ‘tif>jpg’. If this action doesn’t exist on your workstation yet, ask a supervisor how to create it. 
     - For the Source, make sure folder is selected. Click Choose and select the tif folder where your new scans are stored. 
-    - For the Destination, make sure folder is selected. Click Choose and select the access jpg folder. 
+    - For the Destination, make sure folder is selected. Click Choose and select the JPG folder. 
     - Click OK.
 
     {% include figure.html img="batch_tif_jpg_2.jpg" alt="intro image here" caption="" width="100%" %}
 
-- After Photoshop has completed the action, make sure all the images have scanned to the correct folder. 
+- After Photoshop has completed the action, make sure all the images have scanned/saved to the correct folder. 
 
 <!-- In the access jpg folder, open images in Photoshop and crop out the color bar. Balance images using the Levels tool in Photoshop if needed. Save and close images when done with them. 
 - Once finished with the whole access jpg folder, go back to Photoshop to File > Automate > Batch. 
@@ -52,7 +52,7 @@ After scanning and photography is complete, it is necessary to process the scans
 {:#documents}
 #### Processing Documents
 
-- Select the document file(s) to be converted from your access jpg folder. 
+- Select the document file(s) to be converted from your JPG folder. 
 - Right-click selected items and select either ‘Convert to Adobe PDF’ or ‘Combine supported files in Acrobat’. This will open a window in Adobe Acrobat. 
     - If converting one file into a PDF, choose 'Convert to Adobe PDF'
     - If combining multiple files into one PDF (like a multi-page letter or document), choose 'Combine supported files in Acrobat'. A new window will pop up—click 'Combine'. 

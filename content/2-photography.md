@@ -5,7 +5,7 @@ nav: Photography
 ________
 ### Background
 
-{% include figure.html img="shiny.PNG" alt="piece of black obsidian ready for digitization" caption="" width="100%" %}
+{% include figure.html img="shiny.png" alt="piece of black obsidian ready for digitization" caption="" width="100%" %}
 
 Photogrammetry involves taking overlapping, precise photos of the object being digitized. This usually involves using a digital single lens reflex camera - usually called a DSLR, often in manual mode, to create a precise set of overlapping images. 
 
@@ -53,7 +53,7 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 - Tripod
 - Foldio studio set with photobooth that includes the backdrop, lights, extra lights, and turntable
 - IPad with Foldio App configured
-- Level 
+- Level (optional)
 - Blue Painter’s tape
 - Artifact
 - Clay/Rubber eraser 

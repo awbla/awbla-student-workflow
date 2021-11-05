@@ -5,7 +5,7 @@ nav: Photography
 ________
 ### Background
 
-{% include figure.html img="shiny.png" alt="piece of black obsidian ready for digitization" caption="" width="100%" %}
+{% include figure.html img="shiny.png" alt="piece of black obsidian ready for digitization" caption="" width="65%" %}
 
 Photogrammetry involves taking overlapping, precise photos of the object being digitized. This usually involves using a digital single lens reflex camera - usually called a DSLR, often in manual mode, to create a precise set of overlapping images. 
 

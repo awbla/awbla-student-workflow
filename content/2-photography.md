@@ -81,11 +81,11 @@ Levels refers to the camera's height. For each View of the object (aka orientati
 
 Once you finish taking photos of an artifact, you will have the 6 sets of photos below:
 - View 1: Level 1
-{% include figure.html img="view1level1.png" alt="camera pointing at an artifact in a photo studio" caption="View 1 Level 1 - notice how the camera is exactly even with the object" width="100%" %}
+{% include figure.html img="view1level1.png" alt="camera pointing at an artifact in a photo studio" caption="View 1 Level 1 - notice how the camera is exactly even with the object" width="50%" %}
 - View 1: Level 2
-{% include figure.html img="view1level2.png" alt="camera pointing at an artifact in a photo studio" caption="View 1 Level 2 - notice how the camera is about half way up the available height" width="100%" %}
+{% include figure.html img="view1level2.png" alt="camera pointing at an artifact in a photo studio" caption="View 1 Level 2 - notice how the camera is about half way up the available height" width="50%" %}
 - View 1: Level 3
-{% include figure.html img="view1level3.png" alt="camera pointing at an artifact" caption="View 1 Level 3 - notice how the camera is at the maximum height and most extreme angle, 'looking down', as possible" width="100%" %}
+{% include figure.html img="view1level3.png" alt="camera pointing at an artifact" caption="View 1 Level 3 - notice how the camera is at the maximum height and most extreme angle, 'looking down', as possible" width="50%" %}
 - View 2: Level 1
 - View 2: Level 2
 - View 3: Level 3
@@ -150,7 +150,7 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
    - If the object falls over you must restart the whole series for that View (aka redo all three heights).
 2. Power lights up to maximum brightness using the controller and move them to light the object.
 3. Position the camera so it is *exactly level with the object* (View 1: Level 1).
-{% include figure.html img="view1level1.png" alt="piece of black obsidian ready for digitization" caption="" width="100%" %}
+{% include figure.html img="view1level1.png" alt="piece of black obsidian ready for digitization" caption="" width="50%" %}
 4. Adjust camera settings:
    - Adjust the camera to Aperture priority mode and set the aperture to F/11 or F/13
    - Set the exposure to one stop over the "ideal/target" exposed range. In this mode the camera will hold the Aperture at the set point (F/11 or F/13) and then automatically adjust the shutter speed to create an image that is one stop over the default middle exposure. 
@@ -158,7 +158,7 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
 5. Test how well the camera is focusing by using the autozoom and seeing how many points register as focusing by half way depressing the shutter or touching the touch screen. 
    - If not enough appears to be in focus, adjust the tripod's distance from the camera or adjust the zoom on the camera. **Do not go below 24mm on the zoom.** Expect to have the zoom set to around 50-75mm most of the time.
 6. Once you have achieved satisfactory focusing options, test that the tripod distance will work at the more extreme angle by raising the tripod to the max height and more extreme top down view angle. 
-7. Once you have a good balance of zoom and tripod distance that gets the whole object with as many focus points as possible at both the extreme ends of the sequence (the horizontal view and the max upright view), use tape to mark the tripod's foot placement and to hold the camera's zoom. {% include figure.html img="feet.png" alt="piece of black obsidian ready for digitization" caption="" width="100%" %}
+7. Once you have a good balance of zoom and tripod distance that gets the whole object with as many focus points as possible at both the extreme ends of the sequence (the horizontal view and the max upright view), use tape to mark the tripod's foot placement and to hold the camera's zoom. {% include figure.html img="feet.png" alt="piece of black obsidian ready for digitization" caption="" width="50%" %}
 8. Test that there is enough lighting by taking a few test shots and confirming that the camera is shooting at 1/40 or faster
    - If you see the camera is doing a lower setting, motion/blur can be introduced by the longer shutter times and you need to get more light.
 9. Set the camera to manual focus
@@ -175,7 +175,7 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
 16. Repeat Steps 11-12 and use the foldio app to make a 360 rotation at this Level (View 1: Level 2). 
 17. Put the appropriate stop card in the picture and use the "test shot" foldio button to take the shot to complete the shooting for View 1: Level 2. 
 18. Measure the medium tripod height and make a note of it for when you shoot View 2 - Level 2.
-{% include figure.html img="measure.png" alt="a measuring tape shows how high the tripod is" caption="measuring the height for reference later" width="100%" %}
+{% include figure.html img="measure.png" alt="a measuring tape shows how high the tripod is" caption="measuring the height for reference later" width="65%" %}
 19. Move the camera to a highest height setting; make sure to raise the camera as high as possible without moving the tripod feet
 20. Repeat Step 9 (the focusing step) by switching to Autofocus and then back to manual. __DO NOT CHANGE THE APERTURE or any other settings__. 
 21. Repeat Steps 11-12 and use the foldio app to make a 360 rotation at this Level (View 1: Level 3). 

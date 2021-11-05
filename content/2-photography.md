@@ -81,11 +81,11 @@ Levels refers to the camera's height. For each View of the object (aka orientati
 
 Once you finish taking photos of an artifact, you will have the 6 sets of photos below:
 - View 1: Level 1
-{% include figure.html img="view1level1.png" alt="camera pointing at an artifact in a photo studio" caption="View 1 Level 1 - notice how the camera is exactly even with the object" width="50%" %}
+{% include figure.html img="view1level1.png" alt="camera pointing at an artifact in a photo studio" caption="View 1 Level 1 - notice how the camera is exactly even with the object" width="100%" %}
 - View 1: Level 2
-{% include figure.html img="view1level2.png" alt="camera pointing at an artifact in a photo studio" caption="View 1 Level 2 - notice how the camera is about half way up the available height" width="50%" %}
+{% include figure.html img="view1level2.png" alt="camera pointing at an artifact in a photo studio" caption="View 1 Level 2 - notice how the camera is about half way up the available height" width="100%" %}
 - View 1: Level 3
-{% include figure.html img="view1level3.png" alt="camera pointing at an artifact" caption="View 1 Level 3 - notice how the camera is at the maximum height and most extreme angle, 'looking down', as possible" width="50%" %}
+{% include figure.html img="view1level3.png" alt="camera pointing at an artifact" caption="View 1 Level 3 - notice how the camera is at the maximum height and most extreme angle, 'looking down', as possible" width="100%" %}
 - View 2: Level 1
 - View 2: Level 2
 - View 3: Level 3
@@ -158,7 +158,7 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
 5. Test how well the camera is focusing by using the autozoom and seeing how many points register as focusing by half way depressing the shutter or touching the touch screen. 
    - If not enough appears to be in focus, adjust the tripod's distance from the camera or adjust the zoom on the camera. **Do not go below 24mm on the zoom.** Expect to have the zoom set to around 50-75mm most of the time.
 6. Once you have achieved satisfactory focusing options, test that the tripod distance will work at the more extreme angle by raising the tripod to the max height and more extreme top down view angle. 
-7. Once you have a good balance of zoom and tripod distance that gets the whole object with as many focus points as possible at both the extreme ends of the sequence (the horizontal view and the max upright view), use tape to mark the tripod's foot placement and to hold the camera's zoom. {% include figure.html img="feet.png" alt="piece of black obsidian ready for digitization" caption="" width="50%" %}
+7. Once you have a good balance of zoom and tripod distance that gets the whole object with as many focus points as possible at both the extreme ends of the sequence (the horizontal view and the max upright view), use tape to mark the tripod's foot placement and to hold the camera's zoom. {% include figure.html img="feet.png" alt="piece of black obsidian ready for digitization" caption="" width="65%" %}
 8. Test that there is enough lighting by taking a few test shots and confirming that the camera is shooting at 1/40 or faster
    - If you see the camera is doing a lower setting, motion/blur can be introduced by the longer shutter times and you need to get more light.
 9. Set the camera to manual focus

@@ -45,7 +45,7 @@ Now that you've familiarized yourself with these concepts, keep in mind these se
 - Make sure to use the Start and Stop cards for each Level; otherwise it is very confusing to sort the files later.
 
 - For beginner's taping the lens in place once key settings like focused and zoom are established can be helpful.
-{% include figure.html img="tape.png" alt="blue painters tape on a canon camera lens" caption="Here the tape is locking both the zoom and focus" width="100%" %}
+{% include figure.html img="tape.png" alt="blue painters tape on a canon camera lens" caption="Here the tape is locking both the zoom and focus" width=65%" %}
 
 -------------
 

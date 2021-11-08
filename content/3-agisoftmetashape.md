@@ -362,7 +362,7 @@ Wavefront OBJ model (.obj)
     - Export texture = JPEG
 1. Click OK
 
-Wavefront OBJ models save the *texture image* as a separate file. Be sure to keep the texture file in the same folder as the OBJ file.
+Wavefront OBJ models generate two additional files that are associated with the model: an .mtl file and a .jpg file. All three files (.obj, .mtl, and .jpg) must be placed in the same folder.
 
 STL model (.stl)
 1. Click File > Export > Export Model

@@ -94,3 +94,17 @@ Not all of the fields listed below will appear on every metadata sheet. Some met
     - identifier PLUS extension (.jpg, .tif, .pdf, .wav, etc.) Our digital content management system uses this field to correctly link the digitized item to the corresponding metadata entry. When possible, a pre-set formula will add the correct extension to each identifier entered in previous columns to save from any re-entry errors.
 
 ------------
+### Other Metadata Fields
+For this project we might also use the following fields:
+
+- ##### **cabinet location:**
+    - Cabinet and drawer numbers
+
+- ##### **source:**
+    - Source of the material
+
+- ##### **tool type:**
+    - The type of tool
+
+- ##### **material type:**
+    - The material used to create the item

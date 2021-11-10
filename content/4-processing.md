@@ -24,11 +24,11 @@ After scanning and photography is complete, it is necessary to process the scans
 {:#images}
 #### Processing Images
 
-- Open Photoshop and crop out any color bars present in the sscans
+- Open Photoshop and crop out any color bars present in the scans
 - Save the file
 - Then, go to File > Automate > Batch. 
 
-{% include figure.html img="automate_batch.jpg" alt="intro image here" caption="" width="50%" %}
+{% include figure.html img="automate_batch.jpg" alt="Screenshot showing how to navigate to Adobe's batch process feature" caption="" width="50%" %}
 
 - In the Batch window, select the action ‘tif>jpg’. If this action doesn’t exist on your workstation yet, ask a supervisor how to create it. 
     - For the Source, make sure folder is selected. Click Choose and select the tif folder where your new scans are stored. 
@@ -36,7 +36,7 @@ After scanning and photography is complete, it is necessary to process the scans
     - Make sure the 'Override' box is checked under the save size
     - Click OK.
 
-    {% include figure.html img="batch_tif_jpg_2.jpg" alt="intro image here" caption="" width="100%" %}
+    {% include figure.html img="batch_tif_jpg_2.jpg" alt="Screenshot showing selections within Adobe's batch process feature" caption="" width="100%" %}
 
 - After Photoshop has completed the action, make sure all the images have scanned/saved to the correct folder. 
 
@@ -61,14 +61,14 @@ After scanning and photography is complete, it is necessary to process the scans
     - If combining multiple page items, select all items, then right-click and select 'Combine with Adobe Acrobat'
     - Then click 'Combine' in the new window
 
-{% include figure.html img="convert_to_pdf.jpg" alt="intro image here" caption="" width="50%" %}
+{% include figure.html img="convert_to_pdf.jpg" alt="Screenshot showing how to navigate to options for converting or combining files to create a PDF" caption="" width="50%" %}
 
 - After Adobe opens with the new PDF file, navigate to the toolbar on the right-side of the window
 - Expand the toolbar so each tool's name is viewable (or hover over them to determine which tool is which)
 - Select 'Scan and OCR'
 - In the new toolbar that opens above the document, select 'Text Recognition'
 
-{% include figure.html img="AdobePDFsteps.png" alt="intro image here" caption="" width="100%" %}
+{% include figure.html img="AdobePDFsteps.png" alt="Screenshot showing selections for Adobe's text recognition feature" caption="" width="100%" %}
 
 - Wait until Adobe Acrobat completes the command
     -  Hint: The document will end up back at the first page when it is complete

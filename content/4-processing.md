@@ -24,20 +24,24 @@ After scanning and photography is complete, it is necessary to process the scans
 {:#images}
 #### Processing Images
 
-- Open Photoshop. Go to File > Automate > Batch. 
+- Open Photoshop and crop out any color bars present in the sscans
+- Save the file
+- Then, go to File > Automate > Batch. 
 
 {% include figure.html img="automate_batch.jpg" alt="intro image here" caption="" width="50%" %}
 
 - In the Batch window, select the action ‘tif>jpg’. If this action doesn’t exist on your workstation yet, ask a supervisor how to create it. 
     - For the Source, make sure folder is selected. Click Choose and select the tif folder where your new scans are stored. 
     - For the Destination, make sure folder is selected. Click Choose and select the JPG folder. 
+    - Make sure the 'Override' box is checked under the save size
     - Click OK.
 
     {% include figure.html img="batch_tif_jpg_2.jpg" alt="intro image here" caption="" width="100%" %}
 
 - After Photoshop has completed the action, make sure all the images have scanned/saved to the correct folder. 
 
-<!-- In the access jpg folder, open images in Photoshop and crop out the color bar. Balance images using the Levels tool in Photoshop if needed. Save and close images when done with them. 
+<!-- In the access jpg folder, open images in Photoshop and crop out the color bar. Balance images using the Levels tool in Photoshop if needed. Save and close images when done with them.
+
 - Once finished with the whole access jpg folder, go back to Photoshop to File > Automate > Batch. 
 - In the Batch window, select the action ‘access>jpg’. This may also be called ‘300dpijpg’. If this action doesn’t exist, ask a supervisor how to create it.
     - For the Source, make sure folder is selected. Click Choose and select the access jpg folder that contains all the adjusted images you just created. 
@@ -53,18 +57,25 @@ After scanning and photography is complete, it is necessary to process the scans
 #### Processing Documents
 
 - Select the document file(s) to be converted from your JPG folder. 
-- Right-click selected items and select either ‘Convert to Adobe PDF’ or ‘Combine supported files in Acrobat’. This will open a window in Adobe Acrobat. 
-    - If converting one file into a PDF, choose 'Convert to Adobe PDF'
-    - If combining multiple files into one PDF (like a multi-page letter or document), choose 'Combine supported files in Acrobat'. A new window will pop up—click 'Combine'. 
+- Right-click on the .jpg file and select 'Covert to Adobe PDF'
+    - If combining multiple page items, select all items, then right-click and select 'Combine with Adobe Acrobat'
+    - Then click 'Combine' in the new window
 
 {% include figure.html img="convert_to_pdf.jpg" alt="intro image here" caption="" width="50%" %}
 
+- After Adobe opens with the new PDF file, navigate to the toolbar on the right-side of the window
+- Expand the toolbar so each tool's name is viewable (or hover over them to determine which tool is which)
+- Select 'Scan and OCR'
+- In the new toolbar that opens above the document, select 'Text Recognition'
+
+{% include figure.html img="AdobePDFsteps.png" alt="intro image here" caption="" width="100%" %}
+
+- Wait until Adobe Acrobat completes the command
+    -  Hint: The document will end up back at the first page when it is complete
+- Save the document as a PDF following the naming rules established under 'File Naming'
+    - Omit the '-001'
+    - In cases of combined documents, Adobe will automatically change the file name to 'Binder 1' or somthing similar; rename the file following our guidelines
 - When Adobe Acrobat opens, find 'Tools' in the top right corner of the screen and select Recognize Text > In this file. 
-
-{% include figure.html img="recognize_text.jpg" alt="intro image here" caption="" width="100%" %}
-
-- Wait until Adobe Acrobat completes the command (the document will end up back at the first page). 
-- Save the document as a PDF following the naming rules established under File Naming. 
 
 --------------
 ### Adding Items to OneDrive:

@@ -108,14 +108,16 @@ Before beginning, create a personal folder in your one drive space that you can 
 
 - Place item to be scanned along the left side of the scanning bed (the glass plate), leaving a slight border between item and edge. 
 
-- Position the Color Separation Guide so that the “saturated” bar is beside the item being scanned (along the bottom edge of the item is fine). Be sure to leave a ⅛-inch gap between the guide and the item.
+- Position the Color Bar so that the “saturated” (darker color portion) bar is facing the bottom the of the item
+    - Be sure to leave a ⅛-inch gap between the Color Bar and the item.
 
-- Close the scanner lid and press “Preview” in EpsonScan. Once the preview scan is finished, use the cursor to draw the selection window around the item and to the edge of the color bar. There should not be a lot of white space as below.
+- Close the scanner lid and press “Preview” in EpsonScan. 
 
-    {% include figure.html img="CE_B76_F4-7-001.PNG" alt="Image of a hand holding a lithic point with a color bar below" caption="" width="100%" %}
-    
-    Please include the whole color bar and DO NOT crop it. 
-    
+- Once the preview scan is finished, re-size selection window to fit 1/8” around document to be scanned
+    - Please include the whole Color Bar and DO NOT crop it. 
+
+    {% include figure.html img="colorbarcorrection.jpg" alt="Image of a hand holding a lithic point with a color bar below" caption="" width="100%" %}
+
 - Images should be scanned at **600 dpi** and should be at least **6,000 pixels** on the long edge. This measurement is located at the bottom left of the preview panel. The color filter should be set to ‘none’. Make sure all your settings match as shown below:
 
     {% include figure.html img="EpsonScanner1.png" alt="Screenshot of the scanner settings dialog box" caption="" width="50%" %}

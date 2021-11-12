@@ -108,3 +108,15 @@ For this project we might also use the following fields:
 
 - ##### **material type:**
     - The material used to create the item
+
+- ##### **lenth**
+    - The length of the artifact in millimeters
+
+- ##### **width**
+    - The width of the artifact in millimeters
+
+- ##### **thickness**
+    - The thickness of the artifact in millimeters
+
+- ##### **weight**
+    - The weight of the artifact in grams

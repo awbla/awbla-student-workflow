@@ -4,7 +4,7 @@ nav: Agisoft
 ---
 
 -----------
-Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?list=PL2VCfpBUgJGi2GJFro_hCa6Kxohlxlxt8) on YouTube, demonstrating each of the steps below. The videos seem to play best when viewed in Firefox or Edge.
+<!--Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?list=PL2VCfpBUgJGi2GJFro_hCa6Kxohlxlxt8) on YouTube, demonstrating each of the steps below. The videos seem to play best when viewed in Firefox or Edge.-->
 
 - [Preparation](#preparation)
 - [Step 1: Create a new Agisoft Project](#newagisoftproject)

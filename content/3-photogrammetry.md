@@ -1,6 +1,6 @@
 ---
 title: 3D Photogrammetry
-nav: Photography
+nav: 3D Photogrammetry
 ---
 ________
 ### Background

@@ -6,11 +6,18 @@ ________
 {% capture text %}**Before you start**:
 Refer to page 2 in Nikon D800 Manual for "Getting to Know the Camera" to learn about the camera you are about to use {% endcapture %}
 {% include alert.html text=text color="danger" %}
+
+1. [Set-up] (#set)
+2. [Taking the Shot] (#shot)
 -----------
 ## Photography 
+{:#set}
 ### Daily Camera set-up
-- Ensure SD is inserted in camera. Turn on camera and immediately follow the following directions while in LV
-{% include figure.html img="monitorhue.jpg" alt="graphic showing monitor hue adjustments" caption="" width="75%" %}
+
+Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode** and follow the following steps 
+
+{% include figure.html img="new_scan_chart.png" alt="graphic showing DPI to scan at" caption="" width="75%" %}
+
 - Move arrow keys until 2 on the image below is highlighted, then turn the **main dial** until it shows "PRE" (turn dial left once). This must be redone each time the camera is turned on.
 - Then set the correct *White Balance* preset (“PRE”) based on the color background you have. You will need to repeat this step every time a new background color is used. 
 - Press and hold **WB** button and scroll through the options with **sub-command dial** 
@@ -18,7 +25,9 @@ Refer to page 2 in Nikon D800 Manual for "Getting to Know the Camera" to learn a
 > D-2 = white 
 > D-3 = gray 
 -----------
+{:shot}
 ### Taking the Shot
+
 Turn on the 2 Pixel Pro Wireless Remote Controls by pressing and holding the On button till screen displays “CH 01”. This will enable you to take the photos without using the shutter button. 
 
 Use large button to focus, push down half-way and hold, and take photo, finish pushing down.

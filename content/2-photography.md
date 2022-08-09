@@ -57,27 +57,31 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 - Align artifact in center of scale and ensure it is straight, use gridlines to help. 
 - Move *red focus box* to center of artifact using **multi selector** 
 
-![largeartifact](https://user-images.githubusercontent.com/91504896/183745578-732d43ec-4cb4-4151-b453-c2604c7a83e6.jpg)
+{% include figure.html img="largeartifact.jpg" alt="graphic showing large artifact photography set-up" caption="" width="100%" %}
 
 ### Remote shutter
 Turn on the 2 Pixel Pro Wireless Remote Controls by pressing and holding the On button till screen displays “CH 01”. This will enable you to take the photos without using the shutter button. 
 
-Use large button to focus, push down half-way and hold, and take photo, finish pushing down.
+Use large button to focus, push down half-way and hold, and take photo, finish pushing down. On **LV** the red box will turn green when focus is achieved. A beep will sound off to indicate focus as well. 
 
 -----------
 
 ## Processing images 
 
 Create a folder for the drawer you photographed in each file type folder JPEG, RAW and TIFF as well as the Test Shots-Errors folder. 
+
           ex. **CE**_C**D**_D**2** is Crabtree Colleciton, Cabinet D, Drawer 2 
+          
           Photos will be loose in these folders
 
 Use the SD card reader to upload images to the JPEG folder and process within this folder. 
 
 Crop and Rename Images 
 - Double click on photo in file explorer, this will open Photos, the program we will use in this phase of processing. 
-- Rotate JPG images so CM scale is horizontal.
-- Crop color bar out of JPG ONLY, RAW file stays the same. Do NOT crop too close to the top of the artifact. Make sure some of the background is visible near CM scale 1/8” of daylight, just like in our document scans! Ensure this daylight is EVEN on right and left of CM scale, the bottom can be less. 
+- Rotate JPG images so **CM scale** is horizontal.
+- Crop **color bar** out of JPG ONLY, RAW file stays the same. 
+
+Refer to the image below to determine how to crop. **Do NOT** crop too close to the top of the artifact. Around the **CM scale** crop approximately 1/8” of "daylight", just like in our document scans! Ensure this daylight is EVEN on right and left of CM scale, the bottom can be less. 
 
 ![daylightexample](https://user-images.githubusercontent.com/91504896/183745618-1d930bdc-ad77-481e-82d8-9ce86435b02b.jpg)
 

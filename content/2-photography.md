@@ -3,12 +3,8 @@ title: 2D Photography
 nav: 
 ---
 ________
-{% capture text %}**Before you start**:
-Refer to page 2 in Nikon D800 Manual for "Getting to Know the Camera" to learn about the camera you are about to use {% endcapture %}
-{% include alert.html text=text color="danger" %}
 
 
------------
 ## Photography 
 
 ### Important terminology 
@@ -17,6 +13,10 @@ Refer to page 2 in Nikon D800 Manual for "Getting to Know the Camera" to learn a
           sub-command dial 
           WB 
           multi-selector 
+
+{% capture text %}**Before you start**:
+Refer to page 2 in Nikon D800 Manual for "Getting to Know the Camera" to learn about the camera you are about to use {% endcapture %}
+{% include alert.html text=text color="danger" %}
           
 
 ### Daily camera set-up
@@ -29,9 +29,15 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 
 - Then set the correct *White Balance* preset (“PRE”) based on the color background you have. You will need to repeat this step every time a new background color is used. 
 - Press and hold **WB** button and scroll through the options with **sub-command dial** 
-          D-1 = black 
-          D-2 = white 
-          D-3 = gray 
+> #### WB Presets 
+>
+> D-1 = black
+> D-2 = white 
+> D-3 = gray 
+>
+
+
+
 -----------
 
 ### Taking the shot
@@ -39,14 +45,16 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 - Always photograph the side of the artifact with the catalog number FIRST. 
 - If it is not visible, use small “whiteboard” to write cat # in on first image, remove and photograph artifact. 
 - Photograph both sides of artifact and ENSURE that the orientation is the SAME for front and back, just flip it over, DO NOT rotate 
+          - If another view is needed to understand the artifact, please photograph. Refer to naming convensions below.
 
 - Keep **CM Scale** as straight as possible, use gridlines on camera (LV) to help. 
 - The **color bar** and the **CM scale** need to be in each photograph, the gray portion of the **color bar** can be cut out to achieve a closer image
+- Use best judgments when choosing background color, *wear gloves* when using white
 
 ### Small artifacts 
 - To set-up turn on **LV** 
 - Keep both scale and color bar horizontal and lower the camera to the appropriate level and adjust as needed.
-- Align artifact in center of scale and ensure it is straight, use gridlines to help. 
+- Align artifact in center of **CM scale** and ensure it is straight, use gridlines to help. 
 - Move *red focus box* to center of artifact using **multi selector** 
 
 ![smallartifact](https://user-images.githubusercontent.com/91504896/183745564-42c3667e-3860-4914-b9e7-d1e160771bc5.jpg)
@@ -71,8 +79,6 @@ Use large button to focus, push down half-way and hold, and take photo, finish p
 Create a folder for the drawer you photographed in each file type folder JPEG, RAW and TIFF as well as the Test Shots-Errors folder. 
 
           ex. **CE**_C**D**_D**2** is Crabtree Colleciton, Cabinet D, Drawer 2 
-          
-          Photos will be loose in these folders
 
 Use the SD card reader to upload images to the JPEG folder and process within this folder. 
 
@@ -85,10 +91,12 @@ Refer to the image below to determine how to crop. **Do NOT** crop too close to 
 
 ![daylightexample](https://user-images.githubusercontent.com/91504896/183745618-1d930bdc-ad77-481e-82d8-9ce86435b02b.jpg)
 
-Straighten images as needed in **Photos** with sliding scale pictured below. This is not as precise as Photoshop, so use your best judgment. 
+Straighten images as needed in **Photos** with sliding scale pictured below. This is not as precise as Photoshop, so use your best judgment.
+
 ![crop](https://user-images.githubusercontent.com/91504896/183745648-e8fa392c-c906-45ad-9bc3-e6daaf58074d.jpg)
 
-### Renaming images 
+
+### Naming images 
  
 Each artifact will have 4 images assocaited with it (sometimes more) 2 jpg and 2 raw (NEF) files.     Example of renaming: Artifact 1234 from Cabinet D, Drawer 4 will be “CE_CD_D4_1234-a”             “CE_CD_D4_1234-b” (use -c, d, e for subsequent views) for each file type.
 
@@ -99,6 +107,9 @@ Sort images by type and move all RAW files to their corresponding folder in RAW
    
    **Hard drive Upload**
    Photos will go in 2D-Objects in JPEG-Website and TIF  
+   
+   
+____________
 
 ## Just in case
 

@@ -31,9 +31,9 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 - Press and hold **WB** button and scroll through the options with **sub-command dial** 
 > #### WB Presets 
 >
-> D-1 = black
-> D-2 = white 
-> D-3 = gray 
+> - D-1 = black
+> - D-2 = white 
+> - D-3 = gray 
 >
 
 

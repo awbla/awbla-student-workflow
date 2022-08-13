@@ -65,7 +65,7 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 - Align artifact in center of scale and ensure it is straight, use gridlines to help. 
 - Move *red focus box* to center of artifact using **multi selector** 
 
-{% include figure.html img="largeartifact.jpg" alt="graphic showing large artifact photography set-up" caption="" width="100%" %}
+![largeartifact](https://user-images.githubusercontent.com/91504896/184460833-72bf955d-d0c5-4c04-af5e-eb57296f65d3.jpg)
 
 ### Remote shutter
 Turn on the 2 Pixel Pro Wireless Remote Controls by pressing and holding the On button till screen displays “CH 01”. This will enable you to take the photos without using the shutter button. 

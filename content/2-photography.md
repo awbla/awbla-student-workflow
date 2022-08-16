@@ -46,7 +46,7 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 
 
 ## Make sure you:
-          1. Use the lint roller or canned air to clean any dust off the background felt, this may need to be done more than once a session.
+          1. Use the lint roller or canned air to clean any dust off the background felt,                                                                                            this may need to be done more than once a session.
           2. *wear gloves* when using the white background
           3. Use kneeded eraser to hold artifact for the photo if needed 
 

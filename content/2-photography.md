@@ -26,6 +26,7 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 ![monitorhue](https://user-images.githubusercontent.com/91504896/183752242-602f84cf-6305-45d1-8bc6-54c1ae934abf.jpg)
 
 - While pressing the button indicated above, move arrow keys until 2 on the image below is highlighted, then turn the **main dial** until it shows "PRE" (turn dial left once).
+- 
 ![cameradisplay](https://user-images.githubusercontent.com/91504896/183751877-3c56c9ff-6b07-41a4-8912-ad2a9ff2f204.jpg)
 
 - Then set the correct *White Balance* preset (“PRE”) based on the color background you have. You will need to repeat this step every time a new background color is used. 

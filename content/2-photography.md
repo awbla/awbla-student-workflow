@@ -22,6 +22,7 @@ Refer to page 2 in Nikon D800 Manual for "Getting to Know the Camera" to learn a
 ### Daily camera set-up
 
 Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode** and follow the following steps in the image below. These steps will need to be ***REDONE each time the camera is turned on***
+
 ![monitorhue](https://user-images.githubusercontent.com/91504896/183752242-602f84cf-6305-45d1-8bc6-54c1ae934abf.jpg)
 
 - While pressing the button indicated above, move arrow keys until 2 on the image below is highlighted, then turn the **main dial** until it shows "PRE" (turn dial left once).

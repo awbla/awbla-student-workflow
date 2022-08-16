@@ -46,9 +46,9 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 
 
 ## Make sure you:
-          Use the lint roller or canned air to clean any dust off the background felt, this may need to be done more than once a session.
-          *wear gloves* when using the white background
-          Use kneeded eraser to hold artifact for the photo if needed 
+          1. Use the lint roller or canned air to clean any dust off the background felt, this may need to be done more than once a session.
+          2. *wear gloves* when using the white background
+          3. Use kneeded eraser to hold artifact for the photo if needed 
 
 - Each drawer will have a printed list of all artifacts to keep track of your progress.
 - Always photograph the side of the artifact with the catalog number FIRST. 

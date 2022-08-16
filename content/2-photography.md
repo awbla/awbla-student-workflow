@@ -15,13 +15,13 @@ ________
           multi-selector 
 
 {% capture text %}**Before you start**:
-Refer to page 2 in Nikon D800 Manual for "Getting to Know the Camera" to learn about the camera you are about to use {% endcapture %}
+Refer to page 2 in Nikon D800 Manual for "Getting to Know the Camera" to learn about the camera you are about to use. These pages are printed and hung by the 2D station for reference. {% endcapture %}
 {% include alert.html text=text color="danger" %}
           
 
 ### Daily camera set-up
 
-Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode** and follow the following steps in the image below. These steps will need to be ***redone each time the camera is turned on***
+Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode** and follow the following steps in the image below. These steps will need to be ***REDONE each time the camera is turned on***
 ![monitorhue](https://user-images.githubusercontent.com/91504896/183752242-602f84cf-6305-45d1-8bc6-54c1ae934abf.jpg)
 
 - While pressing the button indicated above, move arrow keys until 2 on the image below is highlighted, then turn the **main dial** until it shows "PRE" (turn dial left once).
@@ -42,10 +42,14 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 
 ### Taking the shot
 
+Use the lint roller or canned air to clean any dust off the background felt, this may need to be done more than once a session.
+
+- Each drawer will have a printed list of all artifacts to keep track of your progress.
 - Always photograph the side of the artifact with the catalog number FIRST. 
 - If it is not visible, use small “whiteboard” to write cat # in on first image, remove and photograph artifact. 
 - Photograph both sides of artifact and ENSURE that the orientation is the SAME for front and back, just flip it over, DO NOT rotate 
           - If another view is needed to understand the artifact, please photograph. Refer to naming convensions below.
+- If you do not know how the artifact should be placed, see OBJECT on printed Drawer list or ask Allison or Leah. 
 
 - Keep **CM Scale** as straight as possible, use gridlines on camera (LV) to help. 
 - The **color bar** and the **CM scale** need to be in each photograph, the gray portion of the **color bar** can be cut out to achieve a closer image
@@ -68,9 +72,9 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 ![largeartifact](https://user-images.githubusercontent.com/91504896/184460833-72bf955d-d0c5-4c04-af5e-eb57296f65d3.jpg)
 
 ### Remote shutter
-Turn on the 2 Pixel Pro Wireless Remote Controls by pressing and holding the On button till screen displays “CH 01”. This will enable you to take the photos without using the shutter button. 
+Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the On button till screen displays “CH 01”. This will enable you to take the photos without using the shutter button. 
 
-Use large button to focus, push down half-way and hold, and take photo, finish pushing down. On **LV** the red box will turn green when focus is achieved. A beep will sound off to indicate focus as well. 
+Use large button to focus, push down half-way and hold, finish pushing down to take the photo. On **LV** the red box will turn green and a beep will sound when focus is achieved.
 
 -----------
 

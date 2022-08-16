@@ -29,7 +29,7 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 - 
 ![cameradisplay](https://user-images.githubusercontent.com/91504896/183751877-3c56c9ff-6b07-41a4-8912-ad2a9ff2f204.jpg)
 
-- Then set the correct *White Balance* preset (“PRE”) based on the color background you have. You will need to repeat this step every time a new background color is used. 
+- Then set the correct *White Balance* (*WB*) preset (“PRE”) based on the color background you have. You will need reset the *WB* every time a new background color is used. 
 - Press and hold **WB** button and scroll through the options with **sub-command dial** 
 > #### WB Presets 
 >
@@ -39,12 +39,16 @@ Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode*
 >
 
 
-
 -----------
 
 ### Taking the shot
 
-Use the lint roller or canned air to clean any dust off the background felt, this may need to be done more than once a session.
+
+
+## Make sure you:
+          Use the lint roller or canned air to clean any dust off the background felt, this may need to be done more than once a session.
+          *wear gloves* when using the white background
+          Use kneeded eraser to hold artifact for the photo if needed 
 
 - Each drawer will have a printed list of all artifacts to keep track of your progress.
 - Always photograph the side of the artifact with the catalog number FIRST. 
@@ -55,13 +59,13 @@ Use the lint roller or canned air to clean any dust off the background felt, thi
 
 - Keep **CM Scale** as straight as possible, use gridlines on camera (LV) to help. 
 - The **color bar** and the **CM scale** need to be in each photograph, the gray portion of the **color bar** can be cut out to achieve a closer image
-- Use best judgments when choosing background color, *wear gloves* when using white
-
+- Use best judgments when choosing background color
 ### Small artifacts 
 - To set-up turn on **LV** 
 - Keep both scale and color bar horizontal and lower the camera to the appropriate level and adjust as needed.
 - Align artifact in center of **CM scale** and ensure it is straight, use gridlines to help. 
 - Move *red focus box* to center of artifact using **multi selector** 
+- Turn OFF **LV** mode 
 
 ![smallartifact](https://user-images.githubusercontent.com/91504896/183745564-42c3667e-3860-4914-b9e7-d1e160771bc5.jpg)
 
@@ -70,6 +74,7 @@ Use the lint roller or canned air to clean any dust off the background felt, thi
 - Color bar remains horizontal and CM scale can be moved vertically 
 - Align artifact in center of scale and ensure it is straight, use gridlines to help. 
 - Move *red focus box* to center of artifact using **multi selector** 
+- Turn OFF **LV** mode 
 
 ![largeartifact](https://user-images.githubusercontent.com/91504896/184460833-72bf955d-d0c5-4c04-af5e-eb57296f65d3.jpg)
 

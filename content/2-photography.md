@@ -22,13 +22,15 @@ ________
 
 Insert SD card, turn on camera, make sure battery is charged, turn on **LV mode** and follow the steps below. These steps will need to be ***REDONE each time the camera is turned on***
 
-{% include figure.html img=monitorhue.jpg alt="" caption="" width="65%"%}
+{% include figure.html img="monitorhue.jpg" alt="" caption="" width="65%" %}
 
 ![monitorhue](https://user-images.githubusercontent.com/91504896/183752242-602f84cf-6305-45d1-8bc6-54c1ae934abf.jpg)
 
 Looking at the camera's monitor
 - Press and hold the button indicated in the 'Adjusting Monitor Hue' image above, move arrow keys until box 2 (as indicated on the image below) is highlighted (Step 1)
 - Keeping the same button pressed, turn the **main dial** until it shows "PRE" (turn dial left once) (Step 2)
+
+{% include figure.html img="cameradisplay.jpg" alt="" caption="" width="65%" %}
 
 ![cameradisplay](https://user-images.githubusercontent.com/91504896/183751877-3c56c9ff-6b07-41a4-8912-ad2a9ff2f204.jpg)
 
@@ -72,6 +74,8 @@ Looking at the LED screen/control panel
 - Move *red focus box* to center of artifact using **multi selector** 
 - Turn OFF **LV** mode 
 
+{% include figure.html img="smallartifact.jpg" alt="" caption="" width="65%" %}
+
 ![smallartifact](https://user-images.githubusercontent.com/91504896/183745564-42c3667e-3860-4914-b9e7-d1e160771bc5.jpg)
 
 #### Large artifacts 
@@ -80,6 +84,8 @@ Looking at the LED screen/control panel
 - Align artifact in center of scale and ensure it is straight, use gridlines to help. 
 - Move *red focus box* to center of artifact using **multi selector** 
 - Turn OFF **LV** mode 
+
+{% include figure.html img="largeartifact.jpg" alt="" caption="" width="65%" %}
 
 ![largeartifact](https://user-images.githubusercontent.com/91504896/184460833-72bf955d-d0c5-4c04-af5e-eb57296f65d3.jpg)
 
@@ -105,9 +111,13 @@ Crop and Rename Images
 
 Refer to the image below to determine how to crop. **Do NOT** crop too close to the top of the artifact. Around the **CM scale** crop approximately 1/8” of "daylight", just like in our document scans! Ensure this daylight is EVEN on right and left of CM scale, the bottom can be less. 
 
+{% include figure.html img="daylightexample.jpg" alt="" caption="" width="65%" %}
+
 ![daylightexample](https://user-images.githubusercontent.com/91504896/183745618-1d930bdc-ad77-481e-82d8-9ce86435b02b.jpg)
 
 Straighten images as needed in **Photos** with sliding scale pictured below. This is not as precise as Photoshop, so use your best judgment.
+
+{% include figure.html img="crop.jpg" alt="" caption="" width="65%" %}
 
 ![crop](https://user-images.githubusercontent.com/91504896/183745648-e8fa392c-c906-45ad-9bc3-e6daaf58074d.jpg)
 
@@ -131,6 +141,8 @@ ____________
    **If things get out of order refer to this section to reset the camera to our preferred settings** 
    
 Prior to shooting, make sure **Manual Mode** is selected, **shutter speed is 125** and the **f stop is 8** and **ISO is 100**. All should be set and locked with these settings and should remain the same even after camera is shut off. For details on changing these, see below. 
+
+{% include figure.html img="displaysettings.jpg" alt="" caption="" width="65%" %}
 
 ![displaysettings](https://user-images.githubusercontent.com/91504896/183745670-800a5bdd-794a-44a0-9fc0-d0c7ec990030.jpg)
 

@@ -30,12 +30,12 @@ Looking at the camera's monitor
 
 {% include figure.html img="cameradisplay.jpg" alt="" caption="" width="65%" %}
 
-Then set the correct *White Balance* (*WB*) preset (“PRE”) based on the color background you have. You will need reset the *WB* every time a new background color is used. 
+Then set the correct *White Balance* (*WB*) preset (“PRE”) based on the color background you have. You will need to reset the *WB* every time a new background color is used. 
 
 Looking at the LED screen/control panel
-- Press and hold **WB** button and scroll through the options with **sub-command dial** 
+- Press and hold the **WB** button and scroll through the options with the **sub-command dial** 
 
-#### WB Presets 
+**WB Presets**
 - D-1 = black
 - D-2 = white 
 - D-3 = gray 
@@ -44,19 +44,18 @@ Looking at the LED screen/control panel
 
 ### Taking the shot
 
-
-
 #### Make sure you:
 1. Use the lint roller or canned air to clean any dust off the background felt, this may need to be done more than once a session.
 1. *Wear gloves* when using the white background.
 1. Use kneeded eraser to hold artifact for the photo if needed.
 1. Turn off **LV** mode often. It drains the battery and slows the photo taking process.
 
+#### Taking photos
 - Each drawer will have a printed list of all artifacts to keep track of your progress.
 - Always photograph the side of the artifact with the catalog number FIRST. 
-- If it is not visible, use small “whiteboard” to write cat # in on first image, remove and photograph artifact. 
+- If it is not visible, write "cat #" on the small “whiteboard” and include on first image, then remove and photograph artifact. 
 - Photograph both sides of artifact and ENSURE that the orientation is the SAME for front and back, just flip it over, DO NOT rotate 
-    - If another view is needed to understand the artifact, please photograph. Refer to naming convensions below.
+    - If another view is needed to understand the artifact, please photograph this view and **refer to naming convensions below**.
 - If you do not know how the artifact should be placed, see OBJECT on printed Drawer list or ask Allison or Leah. 
 
 - Keep **CM Scale** as straight as possible, use gridlines on camera (LV) to help. 
@@ -66,7 +65,7 @@ Looking at the LED screen/control panel
 #### Small artifacts 
 - To set-up turn on **LV** 
 - Keep both scale and color bar horizontal and lower the camera to the appropriate level and adjust as needed.
-- Align artifact in center of **CM scale** and ensure it is straight, use gridlines to help. 
+- Align artifact in center of **CM scale** and ensure it is straight, use camera gridlines to help. 
 - Move *red focus box* to center of artifact using **multi selector** 
 - Turn OFF **LV** mode 
 
@@ -75,14 +74,14 @@ Looking at the LED screen/control panel
 #### Large artifacts 
 - To set-up turn on **LV**
 - Color bar remains horizontal and CM scale can be moved vertically 
-- Align artifact in center of scale and ensure it is straight, use gridlines to help. 
+- Align artifact in center of scale and ensure it is straight, use camera gridlines to help. 
 - Move *red focus box* to center of artifact using **multi selector** 
 - Turn OFF **LV** mode 
 
 {% include figure.html img="largeartifact.jpg" alt="" caption="" width="65%" %}
 
 #### Remote shutter
-Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the On button till screen displays “CH 01”. This will enable you to take the photos without using the shutter button. 
+Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the **On** button till screen displays **“CH 01”**. This will enable you to take the photos without using the shutter button. 
 
 Use large button to focus, push down half-way and hold, finish pushing down to take the photo. On **LV** the red box will turn green and a beep will sound when focus is achieved.
 
@@ -90,14 +89,14 @@ Use large button to focus, push down half-way and hold, finish pushing down to t
 
 ## Processing images 
 
-Create a folder for the drawer you photographed in each file type folder JPEG, RAW and TIFF as well as the Test Shots-Errors folder. 
+Create a folder for the drawer you photographed in each file type folder (JPEG, RAW, and TIFF) as well as the Test Shots-Errors folder. 
 {% capture text %}ex. **CE_CD_D2** is Crabtree Collection, Cabinet D, Drawer 2{% endcapture %}
 {% include alert.html text=text color="danger" %} 
 
 Use the SD card reader to upload images to the JPEG folder and process within this folder. 
 
 Crop and Rename Images 
-- Double click on photo in file explorer, this will open Photos, the program we will use in this phase of processing. 
+- Double click on photo in file explorer to open the image in Photos, the program we will use in this phase of processing. 
 - Rotate JPG images so **CM scale** is horizontal.
 - Crop **color bar** out of JPG ONLY, RAW file stays the same. 
 
@@ -111,11 +110,13 @@ Straighten images as needed in **Photos** with sliding scale pictured below. Thi
 
 ### Naming images 
  
-Each artifact will have 4 images assocaited with it (sometimes more) 2 jpg and 2 raw (NEF) files.     Example of renaming: Artifact 1234 from Cabinet D, Drawer 4 will be “CE_CD_D4_1234-a”             “CE_CD_D4_1234-b” (use -c, d, e for subsequent views) for each file type.
+Each artifact will have 4 images associated with it (sometimes more) 2 jpg and 2 raw (NEF) files.
+{% capture text %}Example of renaming: Artifact 1234 from Cabinet D, Drawer 4 will be “CE_CD_D4_1234-a”, “CE_CD_D4_1234-b” (use -c, d, e for subsequent views) for each file type.{% endcapture %}
+{% include alert.html text=text color="danger" %} 
 
 Sort images by type and move all RAW files to their corresponding folder in RAW
-    Batch process all RAW files from a session in Photoshop to Tif files. 
-    List the file names in the Metadata List 
+- Batch process all RAW files from a session in Photoshop to Tif files. 
+- List the file names in the Metadata List 
     
 **Hard drive Upload**
 Photos will go in 2D-Objects in JPEG-Website and TIF  
@@ -127,7 +128,7 @@ ____________
 
    **If things get out of order refer to this section to reset the camera to our preferred settings** 
    
-Prior to shooting, make sure **Manual Mode** is selected, **shutter speed is 125** and the **f stop is 8** and **ISO is 100**. All should be set and locked with these settings and should remain the same even after camera is shut off. For details on changing these, see below. 
+Prior to shooting, make sure **Manual Mode** is selected, **shutter speed is 125**, the **f stop is 8**, and **ISO is 100**. All should be set and locked with these settings and should remain the same even after camera is shut off. For details on changing these, see below. 
 
 {% include figure.html img="displaysettings.jpg" alt="" caption="" width="80%" %}
 

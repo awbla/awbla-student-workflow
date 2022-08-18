@@ -20,7 +20,9 @@ ________
 
 #### Daily camera set-up
 
-Insert SD card, turn on camera, make sure bettery is charged, turn on **LV mode** and follow the steps below. These steps will need to be ***REDONE each time the camera is turned on***
+Insert SD card, turn on camera, make sure battery is charged, turn on **LV mode** and follow the steps below. These steps will need to be ***REDONE each time the camera is turned on***
+
+{% include figure.html img=monitorhue.jpg alt="" caption="" width="65%"%}
 
 ![monitorhue](https://user-images.githubusercontent.com/91504896/183752242-602f84cf-6305-45d1-8bc6-54c1ae934abf.jpg)
 

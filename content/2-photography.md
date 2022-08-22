@@ -95,7 +95,7 @@ Create a folder for the drawer you photographed in each file type folder (JPEG, 
 
 Use the SD card reader to upload images to the JPEG folder and process within this folder. 
 
-Crop and Rename Images 
+### Edit images 
 - Double click on photo in file explorer to open the image in Photos, the program we will use in this phase of processing. 
 - Rotate JPG images so **CM scale** is horizontal.
 - Crop **color bar** out of JPG ONLY, RAW file stays the same. 
@@ -118,8 +118,8 @@ Sort images by type and move all RAW files to their corresponding folder in RAW
 - Batch process all RAW files from a session in Photoshop to Tif files. 
 - List the file names in the Metadata List 
     
-**Hard drive Upload**
-Photos will go in 2D-Objects in JPEG-Website and TIF  
+**Hard drive upload**
+Photos will go loose into 2D-Objects in JPEG-Website and TIF  
    
    
 ____________
@@ -142,10 +142,11 @@ ISO:
 
 Fstop: 
 ***F8***
-- Hold shutter button half way down (like you are focusing a shot) and turn the dial directly below the on/off switch on the front of the camera
 - To LOCK/UNLOCK settings, press and hold FN button and rotate the **sub-command dial** until an “L” appears/disappears by the shutter speed
+- Hold shutter button half way down (like you are focusing a shot) and turn the dial directly below the on/off switch on the front of the camera
 
 Shutter speed:
-**125** 
-- To change – hold shutter button down half way, same as above, and rotate **main dial** 
+**125 - 80** depending on background color 
 - To LOCK/UNLOCK, press and hold **FN button** and rotate **main dial** until an “L” appears/disappears by the shutter speed
+- To change – hold shutter button down half way, same as above, and rotate **main dial** 
+

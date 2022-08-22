@@ -1,6 +1,6 @@
 ---
 title: 2D Photography
-nav: 
+nav: 2D Photography
 ---
 ________
 

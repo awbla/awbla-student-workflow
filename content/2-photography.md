@@ -67,11 +67,12 @@ Walk around the table so you can see the Control panel
 3. Use kneeded eraser/modeling clay to hold artifact for the photo if needed.
 4. Turn off **LV** mode unlees you NEED it. It drains the battery and slows the photo taking process.
 5. Turn on remote shutters:
-          Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the **On** button till screen
+          - Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the **On** button till screen
           displays **“CH 01”**. This will enable you to take the photos without using the shutter button. 
-
-          Use large button to focus, push down half-way and hold, finish pushing down to take the photo. 
-          On **LV** the red box will turn green and a beep will sound when focus is achieved.
+          - Use large button to focus, push down half-way and hold, 
+          finish pushing down to take the photo. 
+          - On **LV** the red box will turn green and a beep 
+          will sound when focus is achieved.
 
 ### General Set-up 
 
@@ -97,7 +98,7 @@ Walk around the table so you can see the Control panel
 #### Taking photos
 Each drawer will have a printed list of all artifacts to keep track of your progress.
 - Always photograph the side of the artifact with the catalog number FIRST. 
-- If it is not visible, write "cat #" on the small “whiteboard” and include on first image, then remove and photograph artifact. 
+    - If it is not visible, write "cat #" on the small “whiteboard” and include on first image, then remove and photograph artifact. 
 - Photograph both sides of artifact and ENSURE that the orientation is the SAME for front and back, just flip it over, DO NOT rotate 
     - If another view is needed to understand the artifact, please photograph this view and **refer to naming convensions below**.
 - If you do not know how the artifact should be placed, check out the cheat sheet or ask Allison or Leah. 
@@ -106,7 +107,7 @@ Each drawer will have a printed list of all artifacts to keep track of your prog
 - The **color bar** and the **CM scale** need to be in each photograph, the gray portion of the **color bar** can be cut out to achieve a closer image
 - Use best judgments when choosing background color, it is always okay to try on multiple colors.
 - It may be easier to photograph all artifacts that need white background and then switch colors. 
-          - Use the printed list to keep track of which artifacts have been photographed.
+    - Use the printed list to keep track of which artifacts have been photographed.
          
 
 -----------

@@ -112,7 +112,7 @@ Each drawer will have a printed list of all artifacts to keep track of your prog
 ## Processing images 
 
 Create a folder for the drawer you photographed in each file type folder JPEG, RAW, and TIFF as well as the Test Shots-Errors folder. 
-{% include figure.html img="folderlist.jpg" alt="" caption="" width="65%" %}
+{% include figure.html img="folderlist.JPG" alt="" caption="" width="65%" %}
 
 The folders will be named as follows:
 {% capture text %}ex. **CE_CD_D2** is Crabtree Collection, Cabinet D, Drawer 2{% endcapture %}
@@ -148,7 +148,7 @@ Each artifact will have **4 final images** associated with it (sometimes more) 2
 
 Keep all JPG and RAW files in one folder - this allows for easier processing and renaming. 
 
-{% include figure.html img="renaming.jpg" alt="" caption="" width="65%" %}
+{% include figure.html img="renaming.JPG" alt="" caption="" width="65%" %}
 
 Once all images are renamed: sort images by type and move files to their corresponding folders.
 

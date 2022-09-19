@@ -7,32 +7,47 @@ ________
 
 ## Photography 
 
-### Important terminology 
-          LV mode 
-          main dial 
-          sub-command dial 
-          WB 
-          multi-selector 
-
 {% capture text %}**Before you start**: Refer to page 2 in Nikon D800 Manual for "Getting to Know the Camera" to learn about the camera you are about to use. These pages are printed and hung by the 2D station for reference. {% endcapture %}
 {% include alert.html text=text color="danger" %}
+
+### Important terminology 
+          All items below are highlighted on printed sheets of the manual in the photo room
+          WB button p. 1, #5 
+          Power switch p.1, #10
+          Shutter release button (we use a remote) p.1, #11
+          Control panel p. 1, #15
           
+          Sub-command dial p. 2, #2 
+          FN button p. 2, #4 
+          Battery slot p. 2, #6
+          
+          Ten-pin remote terminal p. 3, #8
+          
+          Main dial p. 4, #7 
+          Multi-selector p. 4, #8 
+          SD Card slot p. 4, #9
+          LV mode p. 4, #12
+          Zoom-out button p. 4, #18 
+          Playback button p. 4, #23  
 
 #### Daily camera set-up
 
-Insert SD card, turn on camera, make sure battery is charged, turn on **LV mode** and follow the steps below. These steps will need to be ***REDONE each time the camera is turned on***
+Insert SD card into SD Card slot, turn on camera using the power switch, make sure battery is charged and insert it in the battery slot.
+
+Turn on LV mode and follow the steps below. These steps will need to be ***REDONE each time the camera is turned on***
 
 {% include figure.html img="monitorhue.jpg" alt="" caption="" width="65%" %}
 
+Here are the above steps in a different way: 
 Looking at the camera's monitor
-- Press and hold the button indicated in the 'Adjusting Monitor Hue' image above, move arrow keys until box 2 (as indicated on the image below) is highlighted (Step 1)
-- Keeping the same button pressed, turn the **main dial** until it shows "PRE" (turn dial left once) (Step 2)
+- Press and hold the Zoom-out button, move arrow keys on the multi-selector until box 2 (as indicated on the image below) is highlighted in yellow, it may already be highlighted, if it is, move to the next step
+- Keeping the Zoom-out button pressed, turn the **main dial** until it shows "PRE" (turn dial left once)
 
 {% include figure.html img="cameradisplay.jpg" alt="" caption="" width="65%" %}
 
 Then set the correct *White Balance* (*WB*) preset (“PRE”) based on the color background you have. You will need to reset the *WB* every time a new background color is used. 
 
-Looking at the LED screen/control panel
+Walk around the table so you can see the Control panel 
 - Press and hold the **WB** button and scroll through the options with the **sub-command dial** 
 
 **WB Presets**
@@ -46,21 +61,17 @@ Looking at the LED screen/control panel
 
 #### Make sure you:
 1. Use the lint roller or canned air to clean any dust off the background felt, this may need to be done more than once a session.
-1. *Wear gloves* when using the white background.
-1. Use kneeded eraser to hold artifact for the photo if needed.
-1. Turn off **LV** mode often. It drains the battery and slows the photo taking process.
+2. *Wear gloves* when using the white background.
+3. Use kneeded eraser/modeling clay to hold artifact for the photo if needed.
+4. Turn off **LV** mode unlees you NEED it. It drains the battery and slows the photo taking process.
+5. Turn on remote shutters:
+          Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the **On** button till screen
+          displays **“CH 01”**. This will enable you to take the photos without using the shutter button. 
 
-#### Taking photos
-- Each drawer will have a printed list of all artifacts to keep track of your progress.
-- Always photograph the side of the artifact with the catalog number FIRST. 
-- If it is not visible, write "cat #" on the small “whiteboard” and include on first image, then remove and photograph artifact. 
-- Photograph both sides of artifact and ENSURE that the orientation is the SAME for front and back, just flip it over, DO NOT rotate 
-    - If another view is needed to understand the artifact, please photograph this view and **refer to naming convensions below**.
-- If you do not know how the artifact should be placed, see OBJECT on printed Drawer list or ask Allison or Leah. 
+          Use large button to focus, push down half-way and hold, finish pushing down to take the photo. 
+          On **LV** the red box will turn green and a beep will sound when focus is achieved.
 
-- Keep **CM Scale** as straight as possible, use gridlines on camera (LV) to help. 
-- The **color bar** and the **CM scale** need to be in each photograph, the gray portion of the **color bar** can be cut out to achieve a closer image
-- Use best judgments when choosing background color
+### General Set-up 
 
 #### Small artifacts 
 - To set-up turn on **LV** 
@@ -80,20 +91,37 @@ Looking at the LED screen/control panel
 
 {% include figure.html img="largeartifact.jpg" alt="" caption="" width="65%" %}
 
-#### Remote shutter
-Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the **On** button till screen displays **“CH 01”**. This will enable you to take the photos without using the shutter button. 
 
-Use large button to focus, push down half-way and hold, finish pushing down to take the photo. On **LV** the red box will turn green and a beep will sound when focus is achieved.
+#### Taking photos
+Each drawer will have a printed list of all artifacts to keep track of your progress.
+- Always photograph the side of the artifact with the catalog number FIRST. 
+- If it is not visible, write "cat #" on the small “whiteboard” and include on first image, then remove and photograph artifact. 
+- Photograph both sides of artifact and ENSURE that the orientation is the SAME for front and back, just flip it over, DO NOT rotate 
+    - If another view is needed to understand the artifact, please photograph this view and **refer to naming convensions below**.
+- If you do not know how the artifact should be placed, check out the cheat sheet or ask Allison or Leah. 
+
+- Keep **CM Scale** as straight as possible, use gridlines on camera (LV) to help. 
+- The **color bar** and the **CM scale** need to be in each photograph, the gray portion of the **color bar** can be cut out to achieve a closer image
+- Use best judgments when choosing background color, it is always okay to try on multiple colors.
+- It may be easier to photograph all artifacts that need white background and then switch colors. 
+          - Use the printed list to keep track of which artifacts have been photographed.
+         
 
 -----------
 
 ## Processing images 
 
-Create a folder for the drawer you photographed in each file type folder (JPEG, RAW, and TIFF) as well as the Test Shots-Errors folder. 
+Create a folder for the drawer you photographed in each file type folder JPEG, RAW, and TIFF as well as the Test Shots-Errors folder. 
+{% include figure.html img="folderlist.jpg" alt="" caption="" width="65%" %}
+
+The folders will be named as follows:
 {% capture text %}ex. **CE_CD_D2** is Crabtree Collection, Cabinet D, Drawer 2{% endcapture %}
 {% include alert.html text=text color="danger" %} 
 
 Use the SD card reader to upload images to the JPEG folder and process within this folder. 
+
+From experience, it is easier to sort through images by editing first and then rename. All uncropped JPGs and their corresponding RAW files can be moved to the Test Shot folder. Then what is left simply needs renaming. 
+**RAW files are.NEF**
 
 ### Edit images 
 - Double click on photo in file explorer to open the image in Photos, the program we will use in this phase of processing. 
@@ -108,18 +136,31 @@ Straighten images as needed in **Photos** with sliding scale pictured below. Thi
 
 {% include figure.html img="crop.jpg" alt="" caption="" width="65%" %}
 
+ANY image you do not use can live in the Test shots folder - better than deleting incase you move the wrong photo
+
 ### Naming images 
  
-Each artifact will have 4 images associated with it (sometimes more) 2 jpg and 2 raw (NEF) files.
+Each artifact will have **4 final images** associated with it (sometimes more) 2 jpg and 2 raw (NEF) files.
+
 {% capture text %}Example of renaming: Artifact 1234 from Cabinet D, Drawer 4 will be “CE_CD_D4_1234-a”, “CE_CD_D4_1234-b” (use -c, d, e for subsequent views) for each file type.{% endcapture %}
+
 {% include alert.html text=text color="danger" %} 
 
-Sort images by type and move all RAW files to their corresponding folder in RAW
-- Batch process all RAW files from a session in Photoshop to Tif files. 
-- List the file names in the Metadata List 
+Keep all JPG and RAW files in one folder - this allows for easier processing and renaming. 
+
+{% include figure.html img="renaming.jpg" alt="" caption="" width="65%" %}
+
+Once all images are renamed: sort images by type and move files to their corresponding folders.
+
+Then TIF files will be created from the RAW files using Photoshop 
+- Go to "File" > "Automate" > "Image Processor" and select your Drawers RAW folder to convert to TIFs  
+- Use "File" > "Batch Process" to convert the TIFs from 300 to 600 dpi (our required dpi for the project) 
+- List the file names in our Library Metadata List 
+    - JPG and TIF are sent to library ONLY. 
+ 
     
 **Hard drive upload**
-Photos will go loose into 2D-Objects in JPEG-Website and TIF  
+Photos will go loose into "2D-Objects" in "JPEG-Website" and "TIF"
    
    
 ____________

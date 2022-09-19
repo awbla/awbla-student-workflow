@@ -118,6 +118,7 @@ The folders will be named as follows:
 {% capture text %}ex. **CE_CD_D2** is Crabtree Collection, Cabinet D, Drawer 2{% endcapture %}
 {% include alert.html text=text color="danger" %} 
 
+If you'd like add "InProgress" infront of your folder name to keep track of it while editing. 
 Use the SD card reader to upload images to the JPEG folder and process within this folder. 
 
 From experience, it is easier to sort through images by editing first and then rename. All uncropped JPGs and their corresponding RAW files can be moved to the Test Shot folder. Then what is left simply needs renaming. 

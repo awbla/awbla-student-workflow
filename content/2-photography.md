@@ -37,7 +37,7 @@ Insert SD card into SD Card slot, turn on camera using the power switch, make su
 
 Turn on LV mode and follow the steps below. These steps will need to be ***REDONE each time the camera is turned on***
 
-{% include figure.html img="monitorhue.jpg" alt="" caption="" width="65%" %}
+{% include figure.html img="monitorhue.jpg" alt="" caption="Im" width="65%" %}
 
 
 Here are the above steps in a different way: 
@@ -67,12 +67,9 @@ Walk around the table so you can see the Control panel
 3. Use kneeded eraser/modeling clay to hold artifact for the photo if needed.
 4. Turn off **LV** mode unlees you NEED it. It drains the battery and slows the photo taking process.
 5. Turn on remote shutters:
-          - Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the **On** button till screen
-          displays **“CH 01”**. This will enable you to take the photos without using the shutter button. 
-          - Use large button to focus, push down half-way and hold, 
-          finish pushing down to take the photo. 
-          - On **LV** the red box will turn green and a beep 
-          will sound when focus is achieved.
+          6. Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the **On** button till screen displays **“CH 01”**.
+          7. Use large button to focus, push down half-way and hold, finish pushing down to take the photo. 
+          8. On **LV** the red box will turn green and a beep will sound when focus is achieved.
 
 ### General Set-up 
 

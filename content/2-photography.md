@@ -12,6 +12,7 @@ ________
 
 ### Important terminology 
           All items below are highlighted on printed sheets of the manual in the photo room
+          
           WB button p. 1, #5 
           Power switch p.1, #10
           Shutter release button (we use a remote) p.1, #11
@@ -31,12 +32,13 @@ ________
           Playback button p. 4, #23  
 
 #### Daily camera set-up
-
 Insert SD card into SD Card slot, turn on camera using the power switch, make sure battery is charged and insert it in the battery slot.
+
 
 Turn on LV mode and follow the steps below. These steps will need to be ***REDONE each time the camera is turned on***
 
 {% include figure.html img="monitorhue.jpg" alt="" caption="" width="65%" %}
+
 
 Here are the above steps in a different way: 
 Looking at the camera's monitor
@@ -45,8 +47,8 @@ Looking at the camera's monitor
 
 {% include figure.html img="cameradisplay.jpg" alt="" caption="" width="65%" %}
 
-Then set the correct *White Balance* (*WB*) preset (“PRE”) based on the color background you have. You will need to reset the *WB* every time a new background color is used. 
 
+Then set the correct *White Balance* (*WB*) preset (“PRE”) based on the color background you have. You will need to reset the *WB* every time a new background color is used. 
 Walk around the table so you can see the Control panel 
 - Press and hold the **WB** button and scroll through the options with the **sub-command dial** 
 

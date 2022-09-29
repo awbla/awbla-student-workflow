@@ -160,12 +160,17 @@ Then TIF files will be created from the RAW files using Photoshop
 
 ### List the file names in our Library Metadata List 
 
-          Copy and paste the directory link from File Explorer **"C:\Users\yourname\OneDrive - University of Idaho\CLIR-DHC Crabtree\2D Artifact Photos\Processed-JPEG\CE_CB_D1"** into a Internet browser. To select all use "Control + A" and then copy with "Control + C". Paste these in an empty Excel sheet using right click to keep text only! 
-          Open Find and Replace "Control + H" and type ".jpg" into the Find box and leave the Replace box empty this will leave our file names with the correct conventions. Copy and paste these rows into the "File Name" column in the correct library drop Excel sheet. 
-          For the Date column, highlight the entire column and in the Find box type ",*" as we want to delete all information AFTER the comma leaving the date ex."5/23/2022". Once copied over to the Metadata sheet you will need to format the column to ensure it is in the correct format "2022-05-23" 
-          To isolate the Catalog number and add Ce. preform these steps: 
-                    Copy the file name into the **CatNumber** column and Find and Replace everything except the Cat #. Example: for Cabinet D, Drawer 3 (CE_CD_D3_#-LETTER) type in to the Find box "*_" and then "-*"
-                    From here, create a new temporary column. In the cell adjacent to the first cat # type: ="Ce."& then like other formulas select all boxes you want this to be applied to and hit Enter. Then "Control + " the results and DRAG with RIGHT CLICK to Cat # column and select "Copy as Values". 
+Copy and paste the directory link from File Explorer **"C:\Users\yourname\OneDrive - University of Idaho\CLIR-DHC Crabtree\2D Artifact Photos\Processed-JPEG\CE_CB_D1"** into a Internet browser. To select all use "Control + A" and then copy with "Control + C". Paste these in an empty Excel sheet using right click to keep text only! 
+
+Open Find and Replace "Control + H" and type ".jpg" into the Find box and leave the Replace box empty this will leave our file names with the correct conventions. Copy and paste these rows into the "File Name" column in the correct library drop Excel sheet. 
+
+For the Date column, highlight the entire column and in the Find box type: ,*  as we want to delete all information AFTER the comma leaving the date ex."5/23/2022". Once copied over to the Metadata sheet you will need to format the column to ensure it is in the correct format "2022-05-23" 
+
+To isolate the Catalog number and add Ce. preform these steps: 
+
+Copy the file name into the **CatNumber** column and Find and Replace everything except the Cat #. Example: for Cabinet D, Drawer 3 (CE_CD_D3_#-LETTER) type in to the Find box "*_" and then "-*"
+
+From here, create a new temporary column. In the cell adjacent to the first cat # type: ="Ce."& then like other formulas select all boxes you want this to be applied to and hit Enter. Then "Control + " the results and DRAG with RIGHT CLICK to Cat # column and select "Copy as Values". 
  
     
 **Hard drive upload**

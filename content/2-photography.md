@@ -168,7 +168,7 @@ For the Date column, highlight the entire column and in the Find box type: ,*  a
 
 To isolate the Catalog number and add Ce. preform these steps: 
 
-Copy the file name into the **CatNumber** column and Find and Replace everything except the Cat #. Example: for Cabinet D, Drawer 3 (CE_CD_D3_#-LETTER) type in to the Find box "*_" (underscore) and then "-*" (dash).
+Copy the file name into the **CatNumber** column and Find and Replace everything except the Cat #. Example: for Cabinet D, Drawer 3 (CE_CD_D3_#-LETTER) type in to the Find box **"*_"** (*underscore) and then **"-*"** (dash*).
 
 From here, create a new temporary column. In the cell left of the first cat # type: **="Ce."&** then like other formulas select all boxes you want this to be applied to and hit Enter. Then highlight the results and hover over the edge of the column until you see the black four arrow pointer appear - DRAG with RIGHT CLICK to Cat # column and select "Copy as Values". 
  

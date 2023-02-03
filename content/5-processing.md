@@ -24,8 +24,7 @@ After scanning and photography is complete, it is necessary to process the scans
 {:#images}
 #### Processing Images
 
-- Open Photoshop and crop out any color bars present in the scans
-- Save the file
+- Open Photoshop
 - Then, go to File > Automate > Batch. 
 
 {% include figure.html img="automate_batch.jpg" alt="Screenshot showing how to navigate to Adobe's batch process feature" caption="" width="50%" %}
@@ -40,7 +39,7 @@ After scanning and photography is complete, it is necessary to process the scans
 
 - After Photoshop has completed the action, make sure all the images have scanned/saved to the correct folder. 
 
-<!-- In the access jpg folder, open images in Photoshop and crop out the color bar. Balance images using the Levels tool in Photoshop if needed. Save and close images when done with them.
+In the access jpg folder, open images in Photoshop and crop out the color bar. **Balance images using the Levels tool in Photoshop if needed.** Save and close images when done with them.
 
 - Once finished with the whole access jpg folder, go back to Photoshop to File > Automate > Batch. 
 - In the Batch window, select the action ‘access>jpg’. This may also be called ‘300dpijpg’. If this action doesn’t exist, ask a supervisor how to create it.

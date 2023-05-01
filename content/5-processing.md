@@ -228,13 +228,10 @@ Images taken during 2D photography will need to be transferred from the memory c
 #### Adding Photogrammetry Photos to OneDrive
 Images taken during photogrammetry will need to be transferred from the memory card to the Desktop, from the desktop into your personal OneDrive with correct folder structure, then uploaded to the *3D Artifact Photos* folder in the AWBLA OneDrive.
 
-##### Transfer the photos from the memory card to the Desktop
-- Create a blank folder on the Desktop
-- Transfer the complete file set(s) over into it.
-
 ##### Download the 3D Artifact Photos folder structure
 - Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
 - Click the box for the *3D Artifact Photos* folder
+- Copy and paste folder called *BeginHere-ItemNo*
     - This folder set is organized as follows:
       - BeginHere-Item Name {Folder} (to be edited by you)
          - Processed-JPEG {Folder}
@@ -265,33 +262,19 @@ Images taken during photogrammetry will need to be transferred from the memory c
                - V2-Level2 {Folder}
                - V2-Level3 {Folder}
          - Test Shots-Errors
-- Click Download and choose where to save the zip folder, if prompted
-- Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
-- Right click the folder and select Extract All
-- Click Browse, navigate to and click on your personal OneDrive, then click Extract
-    - Make sure the *Show extracted files when complete* box is checked
-- Double-click on the *3D Artifact Photos* folder to open it
-- Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_CabinetA_D4_2394)
+- Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_CA_D4_2394)
 
-##### Transfer the photos from the Desktop into the renamed item folder in your personal OneDrive
+##### Transfer the photos from the SD card into the renamed item folder
 - Double-click on the renamed item folder to open it
-- Open the Desktop folder that includes the photos
-- Review the photos, using the start and stop Levels cards to identify the different views and levels
-- Copy test shots photos into the *Test Shots-Errors* folder
-    - Copy any test shots, including errors/whoops/mistakes shots into the this folder
-- Copy the remaining photos, including the Start and Stop shots, into their appropriate folders within the renamed item folder
+- In a separate window, open the SD card folder with associated object photos and move all associated files to the renamed item folder.
+- Sort by file type
+- Copy the photos, including the Start and Stop shots, into their appropriate folders within the renamed item folder
    - Copy the JPEG files (.jpeg format) into the appropriate View and Level subfolders within the *Processed-JPEG* parent folder
    - Copy the Raw files (.cr2 format) into the appropriate View and Level subfolders within the *Raw* parent folder
    - Copy the TIFF files (.tif format) into the appropriate View and Level subfolders within the *TIFF* parent folder
 - Each of the sub-folders, like *Processed-JPEG > View 1 > V1-Level1*, will have at least 26 files total
    - This includes the 24 rotation shots, plus the Start and Stop shots
 
-##### Upload the renamed item folder to the AWBLA OneDrive
-- Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
-- Double-click on the *3D Artifact Photos* folder to open it
-- Click Upload folder and select Folder
-- Navigate to and single click the renamed item folder
-- Click Upload to add the folder and subfolders to the *3D Artifact Photos* folder in the AWBLA OneDrive
 
 --------------
 {:#add3Dprojects}

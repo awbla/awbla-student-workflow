@@ -30,15 +30,16 @@ Those who aren't familiar with manual studio photography should review the follo
 
 Now that you've familiarized yourself with these concepts, keep in mind these settings for our purposes:
 
-- We aim for an F-Stop around F/13 or F/11. 
+- We aim for an F-Stop around F/8 - F/11. 
 
 - Our ISO must be below 400, ideally at: 200, 250, or 320. Do not go above 320 without consulting the Digitization Manager.
+In Manual mode, ISO set at 100 has worked consistently and changing the Fstop and shutter speed to reach desired lighting goals.
 
-- Our shutter speed is usually 1/40 or 1/60. Anything slower than 1/40th is too slow and more light needs to be added, a lower F-stop used, or a higher film speed used.
+- Our shutter speed is usually 1/40 or 1/60. Anything slower than 1/40th is too slow and more light needs to be added, a lower F-stop used, or a higher film speed used. In Manual mode, anywhere in the range of 1/15 - 1/60 works well 
 
 - Remember that the camera needs to stay in remote operation mode to be controlled by the Foldio app. Once put into this mode, the camera should stay in it unless the mode is cleared. This setting should already be in place when you start taking pictures and is here largely for reference.
 
-- Shooting in Aperture Priority Mode is recommended.
+- Shooting in Aperture Priority Mode is recommended. Manual mode has been used for most of the project, sucessfully. The freedom to change all settings around to suit a specific artifact is very helpful. 
 
 - Make sure to position the turntable with the zero degree mark facing the front of the shot.
 
@@ -130,6 +131,7 @@ Below are details of the settings that will change and when:
 
 ##### These settings will *stay the same for the whole shoot* (all Levels in both Views):
 - Positioning of the feet of tripod *(aka we cannot move the tripod closer or further)*
+- exposure set using below settings (aim for even or slightly over exposed) 
 - ISO/film speed
 - Aperture/F-Stop
 - Zoom/focal distance
@@ -146,7 +148,7 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
 
 {:#photogrammetrysteps}
 ### Photogrammetry Steps:
-1. Place the object into center of turntable and scurely adhere to the base with clay.
+1. Place the object into center of turntable and scurely adhere to the base with clay. Vertically placing the object has resulted in best results.
    - If the object falls over you must restart the whole series for that View (aka redo all three heights).
 2. Power lights up to maximum brightness using the controller and move them to light the object.
 3. Position the camera so it is *exactly level with the object* (View 1: Level 1).

@@ -82,13 +82,13 @@ After adding photos to the Agisoft Project, we have to create *masks* to hide th
 
 {:#importmasks}
 ### Step 3: Import a background image/mask
-You should be able to use the same background image/mask across objects, so long as the Foldio background color doesn't change. If you need to make a new background image/mask, follow the [Creating a Mask](#createamask) instructions.
+In most cases the background color will depend on the object being digitized. You will likely need to make a new background image/mask for each object, follow the [Creating a Mask](#createamask) instructions.
 
-1. Click Workflow > Batch Process
+1. At the top of the screen, click Workflow > Batch Process
 1. Click Add
 1. Click in the first dropdown box and scroll to and select Import Masks
 1. Confirm that All chunks is selected in the second dropdown box
-1. In the Parameters box, set:
+1. In the Parameters box, double click each box to set:
     - Method = From background
     - Operation = Replacement
     - Tolerance = 20

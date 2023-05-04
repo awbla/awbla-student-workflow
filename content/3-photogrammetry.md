@@ -173,11 +173,10 @@ Practically these settings mean once we start shooting an artifact, we cannot ch
 12. Allow the foldio turntable to complete a full 360 degree rotation of the object. 
 13. Put the appropriate stop card in the picture and use the "test shot" foldio button to take the shot to complete the shooting for View 1: Level 1. 
 14. Move the camera to a *medium height setting*, about halfway up the pole that raises the camera head up. __Picture__ 
-15. Repeat Step 9 (the focusing step) by switching to Autofocus and then back to manual. __DO NOT CHANGE THE APERTURE or any other settings__. 
-16. Repeat Steps 11-12 and use the foldio app to make a 360 rotation at this Level (View 1: Level 2). 
-17. Put the appropriate stop card in the picture and use the "test shot" foldio button to take the shot to complete the shooting for View 1: Level 2. 
-18. Measure the medium tripod height and make a note of it for when you shoot View 2 - Level 2.
-{% include figure.html img="measure.png" alt="a measuring tape shows how high the tripod is" caption="measuring the height for reference later" width="65%" %}
+15. To achieve *medium height setting* move camera all the way and mark the middle with a piece of tape, leave tape in place for View 2: Level 2 photos. Then move the camera down to where the tape was placed.
+16. Repeat Step 9 (the focusing step) by switching to Autofocus and then back to manual. __DO NOT CHANGE THE APERTURE or any other settings__. 
+17. Repeat Steps 11-12 and use the foldio app to make a 360 rotation at this Level (View 1: Level 2). 
+18. Put the appropriate stop card in the picture and use the "test shot" foldio button to take the shot to complete the shooting for View 1: Level 2. 
 19. Move the camera to a highest height setting; make sure to raise the camera as high as possible without moving the tripod feet
 20. Repeat Step 9 (the focusing step) by switching to Autofocus and then back to manual. __DO NOT CHANGE THE APERTURE or any other settings__. 
 21. Repeat Steps 11-12 and use the foldio app to make a 360 rotation at this Level (View 1: Level 3). 

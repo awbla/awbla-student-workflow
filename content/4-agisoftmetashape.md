@@ -4,7 +4,7 @@ nav: Agisoft
 ---
 
 -----------
-<!--Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?list=PL2VCfpBUgJGi2GJFro_hCa6Kxohlxlxt8) on YouTube, demonstrating each of the steps below. The videos seem to play best when viewed in Firefox or Edge.-->
+Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?list=PL2VCfpBUgJGi2GJFro_hCa6Kxohlxlxt8) on YouTube, demonstrating each of the steps below. The videos seem to play best when viewed in Firefox or Edge.
 
 - [Preparation](#preparation)
 - [Step 1: Create a new Agisoft Project](#newagisoftproject)
@@ -53,17 +53,13 @@ nav: Agisoft
 ### Step 2: Add photos to the Agisoft Project
 We will need to add photos in two separate chunks to make sure that they are aligned correctly. 
 
-1. Double click Chunk 1 > click Workflow > click Add Folder
+1. Double click Chunk 1 to select, right click > click Add Folder
 1. Navigate to the correct 3D artifact photos folder
-1. Double click on Processed and double click on the correct item's folder
-1. Single click on the first folder in the photos folder > click Select Folder
+1. Double click on Processed-JPEG
+1. Single click on the *View 1* folder in the photos folder > click Select Folder
 1. Make sure that single cameras and add all images to one chunk are selected > Click OK
-1. Navigate to the Workspace section > click the Add chunk icon
-1. Double click Chunk 2 > click Workflow > click Add Folder
-1. Navigate to the correct 3D artifact photos folder
-1. Double click on Processed and double click on the correct item's folder
-1. Single click on the second folder in the photos folder > click Select Folder
-1. Make sure that single cameras and add all images to one chunk are selected > Click OK
+1. Under Chunk 1, right click and select Add Chunk
+1.Repeat above steps to upload *View 2* photos to Chunk 2
 1. Click Save
 
 Next, we need to delete the photos that include the sticky notes or index cards since we don’t want to use these in our model creation. 
@@ -82,7 +78,7 @@ Image quality will appears in the "Quality" column. Agisoft recommends disabling
 
 Keep the Agisoft Metashape Project open.
 
-After adding photos to the Agisoft Project, we have to create *masks* to hide the background that appears in our photogrammetry images.-->
+After adding photos to the Agisoft Project, we have to create *masks* to hide the background that appears in our photogrammetry images.--> [Creating a Mask](#createamask) instructions.
 
 {:#importmasks}
 ### Step 3: Import a background image/mask
@@ -118,7 +114,7 @@ However, if too much of the artifact is masked, complete the [Import masks](#imp
 1. Click Add
 1. Click in the first dropdown box and scroll to and select Align Photos
 1. Confirm that All chunks is selected in the second dropdown box
-1. In the Parameters box, set:
+1. In the Parameters box, double click each box to set:
     - Accuracy = High
     - Generic preselection = Yes
     - Reference preselection = Disabled

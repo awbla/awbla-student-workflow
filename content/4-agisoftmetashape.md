@@ -4,6 +4,8 @@ nav: Agisoft
 ---
 
 -----------
+**Is this your first model creation?** 
+**Need a reminder** 
 Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?list=PL2VCfpBUgJGi2GJFro_hCa6Kxohlxlxt8) on YouTube, demonstrating each of the steps below. The videos seem to play best when viewed in Firefox or Edge.
 
 - [Preparation](#preparation)
@@ -19,34 +21,24 @@ Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?l
 - [Step 10: Align chunks](#alignchunks) 
 - [Step 11: Merge chunks](#mergechunks)
 - [Step 12: Build texture](#texture)
-- [Step 13: Place markers](#markers)
-- [Step 14: Align model orientation](#alignmodel)
-- [Step 15: Export the 3D model](#export)
-- [Step 16: View the 3D model](#view)
+<!-- - [Step 13: Place markers](#markers)
+- [Step 14: Align model orientation](#alignmodel) -->
+- [Step 13: Export the 3D model](#export)
+- [Step 14: View the 3D model](#view)
 
 {:#preparation}
 ### Preparation
-#### Download the 3D Projects folder structure
-- Navigate to the *CLIR-DHC Crabtree* folder in the AWBLA OneDrive
-- Click the box for the *3D Projects* folder
-    - This folder set is organized as follows:
-        - BeginHere-Item Name (to be edited by you)
-            - Models
-- Click Download and choose where to save the zip folder, if prompted
-- Navigate to the downloaded zip folder (it should be named somthing like OneDrive_2021-10-28.zip)
-- Right click the folder and select Extract All
-- Click Browse, navigate to and click on your own personal OneDrive, then click Extract
-    - Make sure the *Show extracted files when complete* box is checked
-- Double-click on the *3D Projects* folder to open it
-- Right-click the *BeginHere-Item Name* folder, select Rename, and type the Item Name (such as CE_CabinetA_D4_2394)
+### Open 3D folder associated with the object you are modeling 
+    You should see the *Processed-JPEG*, *TIFF*, *RAW*, and *Testshots-Errors* folders 
+        add *Models* and *Project* folders
 
 {:#newagisoftproject}
 ### Step 1: Create a new Agisoft Project
 1. Open Agisoft Metashape
 1. Click File > Save As
-1. Navigate to and double-click on the correct item's folder in your personal OneDrive (for example: CE_CabinetA_D4_2394)
+1. Navigate to and double-click on the correct item's folder - *Project* (for example: CE_CA_D4_2394)
 1. Type the file name, which should include the cabinet letter, drawer number, and item number
-    - For example: CE_CabinetA_D4_2349_3Dproject 
+    - For example: CE_CA_D4_2349_3Dproject 
 1. Click Save
 
 {:#addphotos}
@@ -286,7 +278,7 @@ Merging chunks should take approximately 2 minutes.
 1. Click Save after building texture
 
 Click the Model Shaded icon and select Model Textured to see the results.
-
+<!--
 {:#markers}
 ### Step 13: Place markers
 Placing markers allow us to embed the size of the object into the file so that it can be viewed and printed at a correct scale. 
@@ -341,9 +333,9 @@ To align the model orientation:
 1. Rotate the model so that the bottom of the artifact is facing you
 1. To check the model orientation, click Model > Predefined Views > Front or Top and Back, etc.
 1. Once you are happy with the model's orientation, click Save
-
+-->
 {:#export}
-### Step 15: Export 3D model
+### Step 13: Export 3D model
 We will export the 3D model in three different file formats.
 
 Wavefront OBJ model (.obj)
@@ -381,7 +373,7 @@ X3D model (.x3d)
 1. Click OK, if prompted
 
 {:#view}
-### Step 16: View 3D model
+### Step 15: View 3D model
 1. Open the 3D viewer app
 1. Click File > Open
 1. Navigate to the folder where the model was saved
@@ -390,6 +382,17 @@ X3D model (.x3d)
 
 The STL file will not include the artifact’s original colors, but is often used for printing a 3D model. In comparison, the OBJ file will include the artifact’s original colors, and is often used for display purposes on the web.
 
+### Step 16: Edit model in MeshMixer 
+1. Open MeshMixer program 
+2. Drag and drop .stl file into MeshMixer
+3. On left side, click *Analysis* > *Inspector* > CLick Auto Repair All > choose Done
+4. Navigate to *Edit* > choose *Transform* 
+5. Move the red, blue and green rounded bars until the object orrientation is correct. We want the green arrow to be vertical. To ensure this, on the faint circle around the object a "L" and "W" are present and the "L" is usually green, choose the "W". 
+6. To resize the object to reflect acutal size. Double click in the *Size Y* and enter the length of the object in mm. 
+7. Click Accept 
+8. Export the .stl 
+9. File > Export > choose .stl
+10. You will simply replace the previously created .stl with the new MeshMixer version.
 -------------
 {:#createamask}
 ### Create a mask

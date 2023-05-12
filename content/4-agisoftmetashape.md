@@ -84,7 +84,7 @@ In most cases the background color will depend on the object being digitized. Yo
     - Method = From background
     - Operation = Replacement
     - Tolerance = 20
-1. Double click in the filename template box and type the file name for the mask
+1. Double click in the filename template box and type the file name for the _mask-pixels.jpg file you created
     - For example: Obsidian-Powder_mask-pixels.jpg
         - Don't forget to add the *.jpg*
 1. Double click in the Folder box > navigate to the folder where the mask image has been saved

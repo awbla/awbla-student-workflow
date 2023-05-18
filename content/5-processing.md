@@ -13,7 +13,7 @@ After scanning and photography is complete, it is necessary to process the scans
 - [Processing Documents](#documents) 
 
 #### Processing 2D Photos:
-- [Processing2D](#2D) 
+- [Processing 2D Photos](#2dphotos) 
 
 #### Adding Items to OneDrive:
 - [Adding Documents to OneDrive](#adddocuments)
@@ -280,9 +280,10 @@ Images taken during photogrammetry will need to be transferred from the memory c
    - This includes the 24 rotation shots, plus the Start and Stop shots
 
 --------------
-#### Processing 2D Photos 
-## Processing images 
+### Processing 2D Photos 
+#### Processing images 
 {:#2D}
+
 Create a *main object folder*. Will be named as follows:
 {% capture text %}ex. **CE_CD_D2** is Crabtree Collection, Cabinet D, Drawer 2{% endcapture %}
 {% include alert.html text=text color="danger" %} 

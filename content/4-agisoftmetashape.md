@@ -261,6 +261,12 @@ Chunk alignment should take approximately 2 minutes.
 
 Merging chunks should take approximately 2 minutes.
 
+### Step 11.5: Decimate Mesh
+Prior to building the texture, the Mesh needs to be downsized. 
+- Navigate to *Tools* > *Mesh* > *Decimate Mesh* 
+- Double click in the second box and change to 20,000
+- Click *OK* 
+
 {:#texture}
 ### Step 12: Build texture
 1. Double click on the Merged Chunk
@@ -335,6 +341,7 @@ To align the model orientation:
 1. Rotate the model so that the bottom of the artifact is facing you
 1. To check the model orientation, click Model > Predefined Views > Front or Top and Back, etc.
 1. Once you are happy with the model's orientation, click Save -->
+
 {:#export}
 ### Step 13: Export 3D model
 We will export the 3D model in three different file formats.

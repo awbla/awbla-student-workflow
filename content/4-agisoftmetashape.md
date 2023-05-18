@@ -20,8 +20,7 @@ Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?l
 - [Step 9: Apply masks from the model](#masksfrommodel)
 - [Step 10: Align chunks](#alignchunks) 
 - [Step 11: Merge chunks](#mergechunks)
-- [Step 12: Build texture](#texture)
-<!--[Step 13: Place markers](#markers) - [Step 14: Align model orientation](#alignmodel)-->
+- [Step 12: Build texture](#texture) <!--[Step 13: Place markers](#markers) - [Step 14: Align model orientation](#alignmodel)-->
 - [Step 13: Export the 3D model](#export)
 - [Step 14: View the 3D model](#view)
 

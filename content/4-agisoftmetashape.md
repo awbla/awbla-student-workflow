@@ -21,25 +21,26 @@ Check out our [Agisoft Metashape Tutorial series](https://youtube.com/playlist?l
 - [Step 10: Align chunks](#alignchunks) 
 - [Step 11: Merge chunks](#mergechunks)
 - [Step 12: Build texture](#texture)
-<!-- - [Step 13: Place markers](#markers)
-- [Step 14: Align model orientation](#alignmodel) -->
+<!--[Step 13: Place markers](#markers) - [Step 14: Align model orientation](#alignmodel)-->
 - [Step 13: Export the 3D model](#export)
 - [Step 14: View the 3D model](#view)
 
 {:#preparation}
 ### Preparation
-### Open 3D folder associated with the object you are modeling 
-    You should see the *Processed-JPEG*, *TIFF*, *RAW*, and *Testshots-Errors* folders 
-        add *Models* and *Project* folders
+Follow along with the [Agisoft Metashape Tutorial series] to familiarize yourself with the program and process. 
+#### Open 3D folder associated with the object you are modeling 
+  -  You should see the *Processed-JPEG*, *TIFF*, *RAW*, and *Testshots-Errors* folders 
+     If not already present: add *Models* and *Project* folders
 
 {:#newagisoftproject}
 ### Step 1: Create a new Agisoft Project
 1. Open Agisoft Metashape
 1. Click File > Save As
-1. Navigate to and double-click on the correct item's folder - *Project* (for example: CE_CA_D4_2394)
-1. Type the file name, which should include the cabinet letter, drawer number, and item number
+1. Navigate to and double-click on the correct item's folder (for example: CE_CA_D4_2394)
+2. Double-click on *Project* folder
+3. Type the file name, which should include the cabinet letter, drawer number, and item number
     - For example: CE_CA_D4_2349_3Dproject 
-1. Click Save
+4. Click Save
 
 {:#addphotos}
 ### Step 2: Add photos to the Agisoft Project
@@ -85,7 +86,7 @@ In most cases the background color will depend on the object being digitized. Yo
     - Operation = Replacement
     - Tolerance = 20
 1. Double click in the filename template box and type the file name for the _mask-pixels.jpg file you created
-    - For example: Obsidian-Powder_mask-pixels.jpg
+    - For example: CE_1245_mask-pixels.jpg
         - Don't forget to add the *.jpg*
 1. Double click in the Folder box > navigate to the folder where the mask image has been saved
 1. Click the folder > click Select Folder
@@ -128,6 +129,7 @@ At the top of the screen, click Model to navigate to the initial model that Agis
 
 {:#refinebounding}
 ### Step 5: Refine the bounding box
+The bounding box is the light grey 3D cube that encapsulates the object. The object needs to completely contained in this cube. To check this:
 1. Double click Chunk 1 > double click on the model to center it within the screen
 1. Use the navigation ball to spin and flip the model to make sure it is contained within the bounding box
 1. If a portion of the model is cut off, click the Region icon > select Resize region
@@ -143,7 +145,7 @@ At the top of the screen, click Model to navigate to the initial model that Agis
 1. Click in the first dropdown box and scroll to and select Build Dense Cloud
 1. Confirm that All chunks is selected in the second dropdown box
 1. In the Parameters box, set:
-    - Quality = Medium or High (this will be specified by the grant leadership team and the Digitization Manager)
+    - Quality = Medium
     - Depth filtering = Mild
     - Reuse depth maps = Yes
     - Calculate point colors = Yes
@@ -186,13 +188,14 @@ Click the Model Shaded icon to see the results.
 {:#editmesh}
 ### Step 8: Edit the mesh
 1. Double click Chunk 1 > double click on the model to center it within the screen
-1. Click the navigation icon and use the navigation ball to spin and flip the model so that the base is relatively flat to start
+1. Remove clay base and : click the navigation icon and use the navigation ball to spin and flip the model so that the base is relatively flat to start
 1. Click the Zoom in and Zoom out icons to make the model bigger or smaller within the screen
 1. Click the Selection icon > choose Rectangle selection
 1. Draw a rectangle around the base area you want to delete
-    - Try to be as careful as possible when deleting the eraser base from the model as you don’t want to remove too much of the object itself
+    - Try to be as careful as possible when deleting the clay/eraser base from the model as you don’t want to remove too much of the object itself
         - But don’t worry about perfection as Agisoft Metashape will use the images in the other chunk to reconstruct the base areas that have been removed
     - If you do end up highlighting an area you don’t want to delete, simply click in a blank area of the bounding box, then redraw your rectangle
+    - Ctrl+Z can also be used to undo a previous mistake
 1. Once you are happy with the shape and area you’ve highlighted, press Delete on your keyboard
 1. Click the navigation icon and use the navigation ball to spin and flip the model to the other side
 1. If you still need to delete some of the base, click the Selection icon > choose either Rectangle selection or Freeform selection
@@ -238,7 +241,7 @@ Applying masks from the model should take approximately 1 minute per chunk.
 1. Click OK
     - The status box will disappear once complete
 1. After chunk alignment is complete, click Save
-
+A **T** sympbol will appear next to each Chunk in the *Workspace* if successful. 
 Chunk alignment should take approximately 2 minutes.
 
 {:#mergechunks}
@@ -278,8 +281,8 @@ Merging chunks should take approximately 2 minutes.
 1. Click Save after building texture
 
 Click the Model Shaded icon and select Model Textured to see the results.
-<!--
-{:#markers}
+
+<!-- {:#markers}
 ### Step 13: Place markers
 Placing markers allow us to embed the size of the object into the file so that it can be viewed and printed at a correct scale. 
 
@@ -332,8 +335,7 @@ To align the model orientation:
 1. Click the Object icon > choose Rotate Object
 1. Rotate the model so that the bottom of the artifact is facing you
 1. To check the model orientation, click Model > Predefined Views > Front or Top and Back, etc.
-1. Once you are happy with the model's orientation, click Save
--->
+1. Once you are happy with the model's orientation, click Save -->
 {:#export}
 ### Step 13: Export 3D model
 We will export the 3D model in three different file formats.

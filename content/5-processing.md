@@ -282,7 +282,7 @@ Images taken during photogrammetry will need to be transferred from the memory c
 --------------
 ### Processing 2D Photos 
 #### Processing images 
-{:#2D}
+{:#2dphotos}
 
 Create a *main object folder*. Will be named as follows:
 {% capture text %}ex. **CE_CD_D2** is Crabtree Collection, Cabinet D, Drawer 2{% endcapture %}

@@ -65,7 +65,7 @@ Walk around the table so you can see the Control panel
 1. Use the lint roller or canned air to clean any dust off the background felt, this may need to be done more than once a session.
 2. *Wear gloves* when using the white background.
 3. Use kneeded eraser/modeling clay to hold artifact for the photo if needed.
-4. Turn off **LV** mode unlees you NEED it. It drains the battery and slows the photo taking process.
+4. Only use **LV** mode when positioning new object, otherwise TURN OFF.  It drains the battery and slows the photo taking process.
 5. Turn on remote shutters:
           6. Turn on the two Pixel Pro Wireless Remote Controls by pressing and holding the **On** button till screen displays **“CH 01”**.
           7. Use large button to focus, push down half-way and hold, finish pushing down to take the photo. 
@@ -77,7 +77,7 @@ Walk around the table so you can see the Control panel
 - To set-up turn on **LV** 
 - Keep both scale and color bar horizontal and lower the camera to the appropriate level and adjust as needed.
 - Align artifact in center of **CM scale** and ensure it is straight, use camera gridlines to help. 
-- Move *red focus box* to center of artifact using **multi selector** 
+- Move *red focus box* (green in the photo example) to center of artifact using **multi selector** 
 - Turn OFF **LV** mode 
 
 {% include figure.html img="smallartifact.jpg" alt="" caption="" width="65%" %}
@@ -86,7 +86,7 @@ Walk around the table so you can see the Control panel
 - To set-up turn on **LV**
 - Color bar remains horizontal and CM scale can be moved vertically 
 - Align artifact in center of scale and ensure it is straight, use camera gridlines to help. 
-- Move *red focus box* to center of artifact using **multi selector** 
+- Move *red focus box* (green in the photo example) to center of artifact using **multi selector** 
 - Turn OFF **LV** mode 
 
 {% include figure.html img="largeartifact.jpg" alt="" caption="" width="65%" %}
@@ -98,7 +98,7 @@ Each drawer will have a printed list of all artifacts to keep track of your prog
     - If it is not visible, write "cat #" on the small “whiteboard” and include on first image, then remove and photograph artifact. 
 - Photograph both sides of artifact and ENSURE that the orientation is the SAME for front and back, just flip it over, DO NOT rotate 
     - If another view is needed to understand the artifact, please photograph this view and **refer to naming convensions below**.
-- If you do not know how the artifact should be placed, check out the cheat sheet or ask Allison or Leah. 
+- If you do not know how the artifact should be placed, check out the cheat sheet or ask for help. 
 
 - Keep **CM Scale** as straight as possible, use gridlines on camera (LV) to help. 
 - The **color bar** and the **CM scale** need to be in each photograph, the gray portion of the **color bar** can be cut out to achieve a closer image
@@ -111,18 +111,18 @@ Each drawer will have a printed list of all artifacts to keep track of your prog
 
 ## Processing images 
 
-Create a folder for the drawer you photographed in each file type folder JPEG, RAW, and TIFF as well as the Test Shots-Errors folder. 
-{% include figure.html img="folderlist.JPG" alt="" caption="" width="65%" %}
-
-The folders will be named as follows:
+Create a *main object folder*. Will be named as follows:
 {% capture text %}ex. **CE_CD_D2** is Crabtree Collection, Cabinet D, Drawer 2{% endcapture %}
 {% include alert.html text=text color="danger" %} 
 
-If you'd like add "InProgress" infront of your folder name to keep track of it while editing. 
+Within each *main object folder* create folders that match the image below. 
+{% include figure.html img="folderlist.JPG" alt="" caption="" width="65%" %}
+
 Use the SD card reader to upload images to the JPEG folder and process within this folder. 
 
-From experience, it is easier to sort through images by editing first and then rename. All uncropped JPGs and their corresponding RAW files can be moved to the Test Shot folder. Then what is left simply needs renaming. 
+From experience, it is easier to sort through images by editing first and then rename. Crop all images you wish to keep and do not edit those you do not want. All uncropped JPGs and their corresponding RAW files can be moved to the Test Shot folder. Then what is left simply needs renaming. 
 **RAW files are.NEF**
+ANY image you do not use can live in the Test shots folder - better than deleting incase you move the wrong photo
 
 ### Edit images 
 - Double click on photo in file explorer to open the image in Photos, the program we will use in this phase of processing. 
@@ -136,8 +136,6 @@ Refer to the image below to determine how to crop. **Do NOT** crop too close to 
 Straighten images as needed in **Photos** with sliding scale pictured below. This is not as precise as Photoshop, so use your best judgment.
 
 {% include figure.html img="crop.jpg" alt="" caption="" width="65%" %}
-
-ANY image you do not use can live in the Test shots folder - better than deleting incase you move the wrong photo
 
 ### Naming images 
  
@@ -154,8 +152,8 @@ Keep all JPG and RAW files in one folder - this allows for easier processing and
 Once all images are renamed: sort images by type and move files to their corresponding folders.
 
 Then TIF files will be created from the RAW files using Photoshop 
-- Go to "File" > "Automate" > "Image Processor" and select your Drawers RAW folder to convert to TIFs  
-- Use "File" > "Batch Process" to convert the TIFs from 300 to 600 dpi (our required dpi for the project) 
+- Go to "File" > "Scripts" > "Image Processor" and select your Drawers RAW folder to convert to TIFs  
+- Use "File" > > "Automate" > "Batch Process" to convert the TIFs from 300 to 600 dpi (our required dpi for the project) 
 
 
 ### List the file names in our Library Metadata List 

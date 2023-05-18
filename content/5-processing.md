@@ -12,6 +12,9 @@ After scanning and photography is complete, it is necessary to process the scans
 - [Processing Images](#images)  
 - [Processing Documents](#documents) 
 
+#### Processing 2D Photos:
+- [Processing2D](#2D) 
+
 #### Adding Items to OneDrive:
 - [Adding Documents to OneDrive](#adddocuments)
 - [Adding Scanned Images to OneDrive](#addimages)
@@ -184,6 +187,7 @@ Scanned slides saved in your OneDrive will need to be uploaded to the *Slides* f
 - Click Upload to add the folder and subfolders to the *Slides* folder in the AWBLA OneDrive
 
 --------------
+
 {:#add2Dphotos}
 #### Adding 2D Photos to OneDrive
 Images taken during 2D photography will need to be transferred from the memory card to the Desktop, from the desktop into your personal OneDrive with correct folder structure, then uploaded to the *2D Artifact Photos* folder in the AWBLA OneDrive.
@@ -275,7 +279,72 @@ Images taken during photogrammetry will need to be transferred from the memory c
 - Each of the sub-folders, like *Processed-JPEG > View 1 > V1-Level1*, will have at least 26 files total
    - This includes the 24 rotation shots, plus the Start and Stop shots
 
+--------------
+#### Processing 2D Photos 
+## Processing images 
+{:#2D}
+Create a *main object folder*. Will be named as follows:
+{% capture text %}ex. **CE_CD_D2** is Crabtree Collection, Cabinet D, Drawer 2{% endcapture %}
+{% include alert.html text=text color="danger" %} 
 
+Within each *main object folder* create folders that match the image below. 
+{% include figure.html img="folderlist.JPG" alt="" caption="" width="65%" %}
+
+Use the SD card reader to upload images to the JPEG folder and process within this folder. 
+
+From experience, it is easier to sort through images by editing first and then rename. Crop all images you wish to keep and do not edit those you do not want. All uncropped JPGs and their corresponding RAW files can be moved to the Test Shot folder. Then what is left simply needs renaming. 
+**RAW files are.NEF**
+ANY image you do not use can live in the Test shots folder - better than deleting incase you move the wrong photo
+
+### Edit images 
+- Double click on photo in file explorer to open the image in Photos, the program we will use in this phase of processing. 
+- Rotate JPG images so **CM scale** is horizontal.
+- Crop **color bar** out of JPG ONLY, RAW file stays the same. 
+
+Refer to the image below to determine how to crop. **Do NOT** crop too close to the top of the artifact. Around the **CM scale** crop approximately 1/8” of "daylight", just like in our document scans! Ensure this daylight is EVEN on right and left of CM scale, the bottom can be less. 
+
+{% include figure.html img="daylightexample.jpg" alt="" caption="" width="65%" %}
+
+Straighten images as needed in **Photos** with sliding scale pictured below. This is not as precise as Photoshop, so use your best judgment.
+
+{% include figure.html img="crop.jpg" alt="" caption="" width="65%" %}
+
+### Naming images 
+ 
+Each artifact will have **4 final images** associated with it (sometimes more) 2 jpg and 2 raw (NEF) files.
+
+{% capture text %}Example of renaming: Artifact 1234 from Cabinet D, Drawer 4 will be “CE_CD_D4_1234-a”, “CE_CD_D4_1234-b” (use -c, d, e for subsequent views) for each file type.{% endcapture %}
+
+{% include alert.html text=text color="danger" %} 
+
+Keep all JPG and RAW files in one folder - this allows for easier processing and renaming. 
+
+{% include figure.html img="renaming.JPG" alt="" caption="" width="65%" %}
+
+Once all images are renamed: sort images by type and move files to their corresponding folders.
+
+Then TIF files will be created from the RAW files using Photoshop 
+- Go to "File" > "Scripts" > "Image Processor" and select your Drawers RAW folder to convert to TIFs  
+- Use "File" > > "Automate" > "Batch Process" to convert the TIFs from 300 to 600 dpi (our required dpi for the project) 
+
+
+### List the file names in our Library Metadata List 
+
+Copy and paste the directory link from File Explorer **"C:\Users\yourname\OneDrive - University of Idaho\CLIR-DHC Crabtree\2D Artifact Photos\Processed-JPEG\CE_CB_D1"** into a Internet browser. To select all use "Control + A" and then copy with "Control + C". Paste these in an empty Excel sheet using right click to keep text only! 
+
+Open Find and Replace "Control + H" and type ".jpg" into the Find box and leave the Replace box empty this will leave our file names with the correct conventions. Copy and paste these rows into the "File Name" column in the correct library drop Excel sheet. 
+
+For the Date column, highlight the entire column and in the Find box type: ,*  as we want to delete all information AFTER the comma leaving the date ex."5/23/2022". Once copied over to the Metadata sheet you will need to format the column to ensure it is in the correct format "2022-05-23" 
+
+To isolate the Catalog number and add Ce. preform these steps: 
+
+Copy the file name into the **CatNumber** column and Find and Replace everything except the Cat #. Example: for Cabinet D, Drawer 3 (CE_CD_D3_#-LETTER) type in to the Find box **"*_"** (*underscore) and then **"-*"** (dash*).
+
+From here, create a new temporary column. In the cell left of the first cat # type: **="Ce."&** then like other formulas select all boxes you want this to be applied to and hit Enter. Then highlight the results and hover over the edge of the column until you see the black four arrow pointer appear - DRAG with RIGHT CLICK to Cat # column and select "Copy as Values". 
+ 
+    
+#### Hard drive upload**
+    Photos will go loose into "2D-Objects" in "JPEG-Website" and "TIF"
 --------------
 {:#add3Dprojects}
 #### Adding 3D Agisoft Projects to OneDrive

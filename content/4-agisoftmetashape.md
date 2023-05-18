@@ -70,11 +70,11 @@ Image quality will appears in the "Quality" column. Agisoft recommends disabling
 
 Keep the Agisoft Metashape Project open.
 
-After adding photos to the Agisoft Project, we have to create *masks* to hide the background that appears in our photogrammetry images.--> [Creating a Mask](#createamask) instructions.
+After adding photos to the Agisoft Project, we have to create *masks* to hide the background that appears in our photogrammetry images. [Creating a Mask](#createamask) instructions -->
 
 {:#importmasks}
 ### Step 3: Import a background image/mask
-In most cases the background color will depend on the object being digitized. You will likely need to make a new background image/mask for each object, follow the [Creating a Mask](#createamask) instructions.
+In most cases the background color will depend on the object being digitized. You will likely need to make a new background image/mask for each object, **follow the** [Creating a Mask](#createamask) **instructions.**
 
 1. At the top of the screen, click Workflow > Batch Process
 1. Click Add

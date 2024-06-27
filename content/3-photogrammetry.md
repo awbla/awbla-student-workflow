@@ -220,7 +220,7 @@ Things to check:
 
 {:#add3Dphotos}
 ### Adding Photogrammetry Photos to OneDrive
-Images taken during photogrammetry will need to be transferred from the memory card to the Desktop, from the desktop into your personal OneDrive with correct folder structure, then uploaded to the *3D Artifact Photos folder* in the AWBLA OneDrive. Visit the Processing page for [instructions on how to add photogrammetry photos to OneDrive](/5-processing.html#add3Dphotos).
+Images taken during photogrammetry will need to be transferred from the memory card to the Desktop, from the desktop into your personal OneDrive with correct folder structure, then uploaded to the *3D Artifact Photos folder* in the AWBLA OneDrive. Visit the Processing page for [instructions on how to add photogrammetry photos to OneDrive](/5-processing.md#add3Dphotos).
 
 -------------
 
